@@ -974,7 +974,8 @@
     "name": "Lost Era Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -1161,7 +1162,8 @@
     "name": "Lost Era Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -1822,7 +1824,8 @@
     "name": "Lunar Maned Skyscale Skin",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -3900,9 +3903,7 @@
     "latestStartDate": "2023-05-27T16:00:00Z",
     "name": "Roadrunner Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item",
@@ -5468,7 +5469,8 @@
     "name": "Bizarre Beasts Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -5648,7 +5650,8 @@
     "name": "Bizarre Beasts Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -6017,9 +6020,7 @@
     "latestStartDate": "2023-08-25T16:00:00Z",
     "name": "Wild Trihorn Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item",
@@ -6633,7 +6634,8 @@
     "name": "Dark Monarch Skyscale Skin",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -7327,7 +7329,8 @@
     "name": "Curious Creatures Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -7740,7 +7743,8 @@
     "name": "Curious Creatures Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -7903,9 +7907,7 @@
     "latestStartDate": "2023-02-24T16:00:00Z",
     "name": "Super Outlaw Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item"
@@ -9602,7 +9604,8 @@
     "name": "Mistborn Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -9702,7 +9705,8 @@
     "name": "Mistborn Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -11745,7 +11749,8 @@
     "name": "Exotic Breeds Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -19509,7 +19514,8 @@
     "name": "Distant Lands Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -20538,7 +20544,8 @@
     "name": "Desert Racer Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -28221,7 +28228,8 @@
     "name": "Distant Lands Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -29110,7 +29118,8 @@
     "name": "Skyscale Ascension Mounts Pack",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -33442,7 +33451,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "309bc4e3",
+    "imageHash": "97fe197d",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -39734,7 +39743,8 @@
     "name": "New Horizons Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -42909,7 +42919,7 @@
   },
   {
     "uuid": "A7756AA3-A153-4231-8D9F-6D82C2FD521E",
-    "availableDate": "2022-04-19T16:00:00Z",
+    "availableDate": "2023-09-12T16:00:00Z",
     "blurb": "New weapon set available for Black Lion Claim Tickets!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
@@ -42917,11 +42927,11 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemStoreBannerItem": "77156714-7D04-4090-82BF-86CA00ACDFDE",
-    "imageHash": "a329162a",
+    "imageHash": "884b1f0b",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2022-04-26T16:00:00Z",
+    "removeDate": "2023-09-19T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -43414,9 +43424,7 @@
     "latestStartDate": "2023-02-26T16:00:00Z",
     "name": "Gallant Lightbearer Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item"
@@ -46917,7 +46925,8 @@
     "name": "Shimmerwing Skyscale Skin",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -47030,9 +47039,7 @@
     "latestStartDate": "2023-11-26T16:00:00Z",
     "name": "Resplendent Avialan Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item"
@@ -48529,7 +48536,8 @@
     "name": "New Horizons Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -49009,7 +49017,8 @@
     "name": "Istani Isles Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -49548,7 +49557,8 @@
     "name": "Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -50733,7 +50743,8 @@
     "name": "Istani Isles Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -51136,7 +51147,8 @@
     "name": "Exotic Breeds Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -51350,7 +51362,8 @@
     "randomchance": false,
     "requiredFeatures": [
       45,
-      58
+      58,
+      72
     ],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
     "returning": false,
@@ -54920,9 +54933,7 @@
     "latestStartDate": "2023-05-26T16:00:00Z",
     "name": "Dreadnought Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item"
@@ -57393,7 +57404,8 @@
     "name": "Desert Racer Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -62267,7 +62279,8 @@
     "name": "Deep Wilds Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -62402,7 +62415,8 @@
     "name": "Deep Wilds Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -64096,7 +64110,8 @@
     "name": "Synergetics Cyberscale Skyscale Skin",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -64564,9 +64579,7 @@
     "latestStartDate": "2023-08-25T16:00:00Z",
     "name": "Plush Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item",
@@ -68461,7 +68474,8 @@
     "name": "Canthan Noble Skyscale Mounts Pack",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -68748,7 +68762,8 @@
     "name": "Canthan Menagerie Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -69049,7 +69064,8 @@
     "name": "Canthan Menagerie Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -69283,9 +69299,7 @@
     "latestStartDate": "2023-02-24T16:00:00Z",
     "name": "Jade Tech Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      65
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
     "returning": true,
     "type": "item",
@@ -70334,7 +70348,8 @@
     "name": "Black Lion Special Mount Selection License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": false,
@@ -70379,7 +70394,8 @@
     "name": "Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": false,
@@ -71254,7 +71270,8 @@
     "name": "Auspicious Pixiu Skyscale Skin",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
@@ -71284,7 +71301,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -72271,7 +72288,8 @@
     "name": "Imperial Wonders Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -72382,7 +72400,8 @@
     "name": "Imperial Wonders Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": true,
@@ -73290,8 +73309,7 @@
     "uuid": "A4487336-8EB5-49D9-AC0E-4373F859535A",
     "blurb": "Hiss Emote now available!",
     "categories": [
-      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3"
     ],
     "categoriesOld": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
@@ -73311,7 +73329,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -73562,9 +73580,7 @@
     "latestStartDate": "2023-01-10T16:00:00Z",
     "name": "Imperial Crane Raptor Skin",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": true,
     "type": "item"
@@ -75095,7 +75111,8 @@
     "name": "Eternal Crossings Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": false,
@@ -75140,7 +75157,8 @@
     "name": "Eternal Crossings Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": false,
@@ -76560,7 +76578,7 @@
   },
   {
     "uuid": "C526BD96-7283-4CDC-80EF-D5BAA5C4BA3E",
-    "blurb": "Guild Wars 2: Secrets of the Obscure<br>\nPrepurchase Now",
+    "blurb": "Guild Wars 2: Secrets of the Obscure<br>\nBuy Now",
     "categories": [
       "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
     ],
@@ -76638,8 +76656,7 @@
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "0DD74CD4-0BCD-42EA-9E39-46076548A584",
-      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -76692,8 +76709,7 @@
     "uuid": "10DD2650-E2F5-4096-945A-0FEE1EB89BB9",
     "blurb": "Pull up a seat with a new chair skin!",
     "categories": [
-      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
     ],
     "categoriesOld": [
       "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
@@ -76734,27 +76750,43 @@
     "uuid": "38BB85C8-5212-4376-AC65-3B9BCB63C73A",
     "blurb": "/Readbook Emote now available!",
     "categories": [
-      "29BB085D-5592-4B68-94D6-B7F417E43AF3"
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
     "categoriesOld": [
-      "29BB085D-5592-4B68-94D6-B7F417E43AF3"
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
-    "categoryLifespansOld": [],
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-09-12T16:00:00Z",
+        "end": "2023-09-26T16:00:00Z"
+      }
+    ],
     "dataId": 99952,
     "description": "Consuming this tome will give you access to a new emote!",
     "excludedFeatures": [],
     "giftable": true,
-    "hide": true,
+    "hide": false,
     "imageHash": "8272acaa",
     "itemGuid": "DD3F773E-8A31-4DCB-B4F9-52920C1D696F",
-    "latestEndDate": null,
-    "latestStartDate": null,
+    "latestEndDate": "2023-09-26T16:00:00Z",
+    "latestStartDate": "2023-09-12T16:00:00Z",
     "name": "\"/Readbook\" Emote Tome",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
     "returning": false,
-    "type": "item"
+    "type": "item",
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-09-26T16:00:00Z",
+          "start": "2023-09-12T16:00:00Z"
+        }
+      ]
+    }
   },
   {
     "uuid": "5A176290-5894-497F-8CC6-E689C90888C4",
@@ -76831,7 +76863,8 @@
     "name": "Kaineng Lights Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": false,
@@ -76860,8 +76893,7 @@
     "blurb": "Gear Up with the Secrets of the Obscure Launch Supply Drop",
     "categories": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "737C2400-E245-47D4-9DCA-A6422BD4B567"
     ],
     "categoriesOld": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
@@ -76921,8 +76953,7 @@
     "uuid": "A862C6D0-186C-43BE-9195-C7037BB72D28",
     "blurb": "Spellbound Skiff Skin now available!",
     "categories": [
-      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48"
     ],
     "categoriesOld": [
       "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
@@ -77000,7 +77031,8 @@
     "name": "Kaineng Lights Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
-      58
+      58,
+      72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
     "returning": false,
@@ -77021,7 +77053,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": true,
-    "imageHash": "44e4c6dd",
+    "imageHash": "eea542e8",
     "itemGuid": "1BDACD8A-F59E-4502-B82F-9E986F96380B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -77064,8 +77096,7 @@
     "uuid": "0FB3F442-9A2B-4B08-93AB-CC61ED620076",
     "blurb": "",
     "categories": [
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -77451,8 +77482,7 @@
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -77539,7 +77569,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": true,
-    "imageHash": "44e4c6dd",
+    "imageHash": "34817058",
     "itemGuid": "B5A7CDC8-D4C8-47C9-A7E9-63AF2C973BD2",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -77700,8 +77730,7 @@
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "71841D94-C462-4316-9C77-307E2E1EA148",
       "989B6878-997E-409E-8D6C-51C7BE6AAC81",
-      "4C45415F-948D-4D93-8493-06585E5EDD61",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "4C45415F-948D-4D93-8493-06585E5EDD61"
     ],
     "categoriesOld": [
       "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
@@ -78293,14 +78322,22 @@
     "categories": [
       "1CEB8F58-1473-46B0-BBD8-B6683A613233",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
     "categoriesOld": [
       "1CEB8F58-1473-46B0-BBD8-B6683A613233",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
-    "categoryLifespansOld": [],
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-09-12T16:00:00Z",
+        "end": "2023-09-26T16:00:00Z"
+      }
+    ],
     "contents": [
       {
         "disablePreview": false,
@@ -78321,18 +78358,24 @@
     "description": "This will change the appearance of your mount and unlock this mount skin for all characters on your account. Mounts must be unlocked before mount skins can be applied.",
     "excludedFeatures": [],
     "giftable": true,
-    "hide": true,
-    "imageHash": "44e4c6dd",
-    "latestEndDate": null,
-    "latestStartDate": null,
+    "hide": false,
+    "imageHash": "9232a805",
+    "latestEndDate": "2023-09-26T16:00:00Z",
+    "latestStartDate": "2023-09-12T16:00:00Z",
     "name": "Amnytas Feathered Raptors Mounts Pack",
     "randomchance": false,
-    "requiredFeatures": [
-      58
-    ],
+    "requiredFeatures": [],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": false,
-    "type": "package"
+    "type": "package",
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-09-26T16:00:00Z",
+          "start": "2023-09-12T16:00:00Z"
+        }
+      ]
+    }
   },
   {
     "uuid": "C0E867D5-22A8-434C-983A-6D4992DF8CD1",
@@ -78481,7 +78524,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": true,
-    "imageHash": "44e4c6dd",
+    "imageHash": "aad751a3",
     "itemGuid": "94CFCD87-CCF9-444E-A3D3-EA29F41FE820",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -78519,5 +78562,548 @@
     "requirementMissing": "",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "2514C226-AF76-43B1-9932-02630366015D",
+    "blurb": "Intimidate your foes with a new look!",
+    "categories": [
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-10-03T16:00:00Z",
+          "start": "2023-09-19T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-09-19T16:00:00Z",
+        "end": "2023-10-03T16:00:00Z"
+      }
+    ],
+    "dataId": 101011,
+    "description": "Double-click to wear this outfit.\n\nOutfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "2f59eb15",
+    "itemGuid": "CC2C20CA-E642-4273-A361-229F32B4FEC1",
+    "latestEndDate": "2023-10-03T16:00:00Z",
+    "latestStartDate": "2023-09-19T16:00:00Z",
+    "name": "Dark Tyrant Outfit",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "251EC0A8-3D93-4D8A-B79C-3932B9049D51",
+    "availableDate": "2023-10-27T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Unique Weapon Skins!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "A1112660-50CD-45EC-8C3F-BE07BAC9EF17",
+    "imageHash": "6ce50f1",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-10-31T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "2F1FEDCC-A035-41A1-83A6-A4474693BF4A",
+    "availableDate": "2023-01-01T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Permanent Finishers and Lounge Passes!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "62348C32-536A-4D2B-889E-5D8EFCD30DD0",
+    "imageHash": "aa5ba124",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-01-01T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "3A46CAD4-6295-4660-A8DB-9ABDED011DA1",
+    "availableDate": "2023-10-20T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Back Items!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "86514CFE-DD0B-46E2-8903-6C170D412C8F",
+    "imageHash": "85f644ec",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-10-24T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "3EFF1F2B-E3B0-4B29-B9D5-E50F8D6D33C1",
+    "availableDate": "2023-10-13T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Gliders!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "1967AC7C-29D1-4DCF-B0FB-341EF02B61D8",
+    "imageHash": "5f91e4c6",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-10-17T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "49E91ACC-D062-4B7F-9266-E73E81E26BBE",
+    "blurb": "Get the new Weekly Black Lion Supply Package!",
+    "categories": [
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "14DEE963-18C9-429F-8DC6-A75C6F91675B",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
+    ],
+    "categoriesOld": [
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "14DEE963-18C9-429F-8DC6-A75C6F91675B",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
+    ],
+    "categoryLifespans": {
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F": [
+        {
+          "end": "2019-11-29T16:00:00Z",
+          "start": "2019-11-28T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+        "start": "2019-11-28T16:00:00Z",
+        "end": "2019-11-29T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "77156714-7D04-4090-82BF-86CA00ACDFDE",
+        "quantity": 2
+      },
+      {
+        "disablePreview": false,
+        "guid": "00C4C9A1-A836-46D2-92B8-1C3C9BB1F9E0",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "567CE0D5-C302-4C45-B8C2-0508C8C4B7D9",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "D18441AC-ECAA-477C-AD19-C044458D806C",
+        "quantity": 5
+      }
+    ],
+    "description": "This package is available once a week per account.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": true,
+    "imageHash": "5507f336",
+    "latestEndDate": "2019-11-29T16:00:00Z",
+    "latestStartDate": "2019-11-28T16:00:00Z",
+    "name": "Weekly Black Lion Supply Package",
+    "randomchance": true,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "567CE0D5-C302-4C45-B8C2-0508C8C4B7D9",
+    "blurb": "",
+    "categories": [
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C"
+    ],
+    "categoriesOld": [
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 100999,
+    "description": "Consuming this will unlock one random dye color in your wardrobe that you do not already have.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": true,
+    "imageHash": "a70c3d3f",
+    "itemGuid": "918CC509-D256-4AA0-8315-2A1C5B1FFB11",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Guaranteed Dye Unlock",
+    "randomchance": true,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "6199CBD0-DDD4-4ED1-BC30-982EA6585A3C",
+    "availableDate": "2023-11-17T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Mount Licenses and Packs!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "57B8BA33-5F08-4BF0-A84B-2FD9DA69B469",
+    "imageHash": "6d55f856",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-11-21T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "63F74C0F-5B34-4E3F-AF7F-6103BEB05128",
+    "availableDate": "2023-09-29T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Gliders!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "C72DDF90-6DD8-4681-9D3F-5C83F758E7AC",
+    "imageHash": "a84c9689",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-10-03T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "68364E5E-E831-4AEC-9764-9F6D73ACB009",
+    "blurb": "Exclusive weapon<br>skins available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-10-03T16:00:00Z",
+          "start": "2023-09-19T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-09-19T16:00:00Z",
+        "end": "2023-10-03T16:00:00Z"
+      }
+    ],
+    "dataId": 100981,
+    "description": "Double-click to apply this look to any other axe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "8e5a4dd8",
+    "itemGuid": "15FDCA44-0D88-439E-A843-268CF82EAD61",
+    "latestEndDate": "2023-10-03T16:00:00Z",
+    "latestStartDate": "2023-09-19T16:00:00Z",
+    "name": "Dark Tyrant Axe Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "6D44B4C5-684B-4591-9039-4F73DC2C9E42",
+    "blurb": "Dark Tyrant Appearance Package now available!",
+    "categories": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-10-03T16:00:00Z",
+          "start": "2023-09-19T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-09-19T16:00:00Z",
+        "end": "2023-10-03T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "2514C226-AF76-43B1-9932-02630366015D",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "68364E5E-E831-4AEC-9764-9F6D73ACB009",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "BB5F2495-6CFF-4DFD-B872-757D5820EB21",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "197A7A03-776F-4A0F-B14D-3130DCAD6953",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "310C5CA3-9738-434D-896A-4844BB4C64AF",
+        "quantity": 5
+      }
+    ],
+    "description": "Appearance skins override the look of your equipment and have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "d0fe4091",
+    "latestEndDate": "2023-10-03T16:00:00Z",
+    "latestStartDate": "2023-09-19T16:00:00Z",
+    "name": "Dark Tyrant Appearance Package",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "ADBE914C-CE0E-4407-8EEA-011AFEC57C73",
+    "availableDate": "2023-11-10T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Dye Kits!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "EC1839FA-8BEA-42D3-AB9F-9EB09C0B113C",
+    "imageHash": "11264eda",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-11-14T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "B059D1AE-CFB5-4E10-A327-B9CF839C8726",
+    "availableDate": "2023-09-15T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Outfits!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "01A7319B-9EFD-4FE7-B84D-185271A1B5C1",
+    "imageHash": "5b5ee3e9",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-09-19T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "BB5F2495-6CFF-4DFD-B872-757D5820EB21",
+    "blurb": "Exclusive weapon<br>skins available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-10-03T16:00:00Z",
+          "start": "2023-09-19T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-09-19T16:00:00Z",
+        "end": "2023-10-03T16:00:00Z"
+      }
+    ],
+    "dataId": 100998,
+    "description": "Double-click to apply this look to any other sword.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "ba5e1768",
+    "itemGuid": "88228A37-34B5-4FC2-B1C2-1A8BF1938296",
+    "latestEndDate": "2023-10-03T16:00:00Z",
+    "latestStartDate": "2023-09-19T16:00:00Z",
+    "name": "Dark Tyrant Sword Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "BC6F37B1-3FCA-4639-8C16-E70AA2504591",
+    "availableDate": "2023-09-22T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Minis!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "CBA3E27A-B826-48A9-80A0-C8ABC0D24C0F",
+    "imageHash": "77f8e957",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-09-26T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "C533D8D1-09FA-4FFF-8D1C-122AF8AD17D3",
+    "availableDate": "2023-10-06T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Armor Skin Sets!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "C74E7CBD-7189-417B-B50E-3A060070E77B",
+    "imageHash": "3a1d265",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-10-10T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "D197AA3F-9A2A-48F3-9654-D23B1188EFEA",
+    "availableDate": "2023-11-03T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Novelty Chairs!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "8F164822-6E73-4BE7-8960-D28483321A9F",
+    "imageHash": "d55f51e3",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-11-07T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "DAEA9819-D342-45B0-BA49-A58632587EF3",
+    "availableDate": "2023-11-24T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Unique Mount Skins!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "860AFDFF-06C2-4C70-A0C2-4F556FA1348A",
+    "imageHash": "5300d698",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-11-28T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "DFE308FC-C538-47FB-A003-9C212CEE4FF7",
+    "availableDate": "2023-01-01T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Unique Armor Skins!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "D77A607A-A9E9-4B72-9548-BBFEB1D402A7",
+    "imageHash": "b9811b0f",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-01-01T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
   }
 ]

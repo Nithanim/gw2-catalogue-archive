@@ -30068,7 +30068,7 @@
     "itemGuid": "E55C4CAF-54E1-4B31-86CF-6BA16D45AAFF",
     "latestEndDate": null,
     "latestStartDate": null,
-    "name": "Paper Bag Helm Skin (Happy)",
+    "name": "Paper Bag Helm Skin (Sad)",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
@@ -33553,7 +33553,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "97fe197d",
+    "imageHash": "6bc20d19",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -79083,8 +79083,7 @@
     "uuid": "2514C226-AF76-43B1-9932-02630366015D",
     "blurb": "Intimidate your foes with a new look!",
     "categories": [
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -79252,7 +79251,7 @@
     "description": "This package is available once a week per account.",
     "excludedFeatures": [],
     "giftable": false,
-    "hide": true,
+    "hide": false,
     "imageHash": "5507f336",
     "latestEndDate": "2019-11-29T16:00:00Z",
     "latestStartDate": "2019-11-28T16:00:00Z",
@@ -79333,8 +79332,7 @@
     "uuid": "68364E5E-E831-4AEC-9764-9F6D73ACB009",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -79383,8 +79381,7 @@
       "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
-      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -79494,8 +79491,7 @@
     "uuid": "BB5F2495-6CFF-4DFD-B872-757D5820EB21",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -79696,8 +79692,7 @@
     "uuid": "58BF6D25-8D71-425F-991F-5C3D52839773",
     "blurb": "",
     "categories": [
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -79741,8 +79736,7 @@
       "1CEB8F58-1473-46B0-BBD8-B6683A613233",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
       "891B92A1-E865-4711-BE50-3748D76F5F3C",
-      "FC34C13F-D39A-4DEF-8089-4C3658239E1F",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
     ],
     "categoriesOld": [
       "1CEB8F58-1473-46B0-BBD8-B6683A613233",
@@ -79846,12 +79840,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2023-10-17T16:00:00Z",
+          "end": "2023-10-24T16:00:00Z",
           "start": "2023-10-03T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-10-03T16:00:00Z",
+        "end": "2023-10-24T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2023-10-03T16:00:00Z",
@@ -79875,7 +79874,7 @@
     "giftable": true,
     "hide": false,
     "imageHash": "55e8290a",
-    "latestEndDate": "2023-10-17T16:00:00Z",
+    "latestEndDate": "2023-10-24T16:00:00Z",
     "latestStartDate": "2023-10-03T16:00:00Z",
     "name": "Gentle Garden Swing Chair Glider Combo",
     "randomchance": false,
@@ -80006,8 +80005,7 @@
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
       "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
-      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -80021,12 +80019,6 @@
       "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
-        {
-          "end": "2023-10-17T16:00:00Z",
-          "start": "2023-10-03T16:00:00Z"
-        }
-      ],
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F": [
         {
           "end": "2019-12-01T16:00:00Z",
@@ -80086,5 +80078,198 @@
     "requirementMissing": "",
     "returning": false,
     "type": "package"
+  },
+  {
+    "uuid": "5F1526C9-F92F-466B-8A67-0286550982AF",
+    "blurb": "Exclusive weapon<br>skins available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-11-14T16:00:00Z",
+          "start": "2023-10-24T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-10-24T16:00:00Z",
+        "end": "2023-11-14T16:00:00Z"
+      }
+    ],
+    "dataId": 101081,
+    "description": "Double-click to apply this look to any other torch.\nThis will also unlock this skin for your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "8790c1b0",
+    "itemGuid": "39E4BB25-3F0C-40CD-A452-7AAFE9771F7D",
+    "latestEndDate": "2023-11-14T16:00:00Z",
+    "latestStartDate": "2023-10-24T16:00:00Z",
+    "name": "Soulfire Lantern Torch Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "6A37C273-6169-409E-BF61-C5D7F562CB75",
+    "blurb": "Haunted Ghost Skiff Skin now available!",
+    "categories": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-11-07T16:00:00Z",
+          "start": "2023-10-24T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-10-24T16:00:00Z",
+        "end": "2023-11-07T16:00:00Z"
+      }
+    ],
+    "dataId": 101110,
+    "description": "Double-click to unlock this skiff skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "39113f82",
+    "itemGuid": "EE0D6D62-9082-4949-A46A-DF139C1F5AE1",
+    "latestEndDate": "2023-11-07T16:00:00Z",
+    "latestStartDate": "2023-10-24T16:00:00Z",
+    "name": "Haunted Ghost Skiff Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      65
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "70736D49-8842-496B-97C3-F567945F5528",
+    "blurb": "Conquer the night with the Moonshadow Bat Griffon Skin!",
+    "categories": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-11-07T16:00:00Z",
+          "start": "2023-10-17T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-10-17T16:00:00Z",
+        "end": "2023-11-07T16:00:00Z"
+      }
+    ],
+    "dataId": 101083,
+    "description": "Double-click to unlock this griffon mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "989e98d9",
+    "itemGuid": "3DDD8D74-D2DC-4E4A-AC2A-BD2BB87D6377",
+    "latestEndDate": "2023-11-07T16:00:00Z",
+    "latestStartDate": "2023-10-17T16:00:00Z",
+    "name": "Moonshadow Bat Griffon Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      58
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "79B1641C-524B-46BF-9433-589AF0CCF7E8",
+    "blurb": "Krytan Rogue Chestpiece now available!",
+    "categories": [
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2023-11-14T16:00:00Z",
+          "start": "2023-10-31T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2023-10-31T16:00:00Z",
+        "end": "2023-11-14T16:00:00Z"
+      }
+    ],
+    "dataId": 101087,
+    "description": "Double-click to apply this appearance to your current chest armor. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "b1abb1eb",
+    "itemGuid": "5AF31B53-2724-4303-80FE-3931ED920755",
+    "latestEndDate": "2023-11-14T16:00:00Z",
+    "latestStartDate": "2023-10-31T16:00:00Z",
+    "name": "Krytan Rogue Chestpiece Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A6A95A58-5320-45BF-B859-75E2F05E3B7D",
+    "availableDate": "2023-10-17T16:00:00Z",
+    "blurb": "Halloween items now available!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "",
+    "excludedFeatures": [],
+    "imageHash": "4ce9bb2c",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2023-10-24T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
   }
 ]

@@ -80718,5 +80718,31 @@
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "24E615BA-2D3E-440F-8AD8-50AC6FEC9D5D",
+    "blurb": "",
+    "categories": [
+      "066B8EBE-214C-4456-8F8E-86E58C270BE9"
+    ],
+    "categoriesOld": [
+      "066B8EBE-214C-4456-8F8E-86E58C270BE9"
+    ],
+    "categoryLifespansOld": [],
+    "contentGuid": "C53BE41C-CB3F-4DB5-8F96-2BDAB236CB20",
+    "dataId": 138,
+    "description": "The wayfinder is called back into action by Peitha and the Wizard's Court.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": true,
+    "imageHash": "43d657c5",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "11. Duress",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "content"
   }
 ]

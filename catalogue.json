@@ -7395,7 +7395,10 @@
     "requiredFeatures": [],
     "requirementMissing": "",
     "returning": true,
-    "type": "item"
+    "type": "item",
+    "passwords": {
+      "967228": "14493493523363"
+    }
   },
   {
     "uuid": "A22BD926-F9EC-4D11-8F7A-44B1DD25482C",
@@ -28153,7 +28156,7 @@
   },
   {
     "uuid": "4FFE652B-44C1-4A46-9192-B5FF291A8F73",
-    "blurb": "Lord Caudecus's Weapons Now Available!",
+    "blurb": "Lord Caudecus's Weapons now available!",
     "categories": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -34927,7 +34930,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "ddfd1de0",
+    "imageHash": "905b3f31",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -56337,7 +56340,7 @@
   },
   {
     "uuid": "DD8DC913-6C19-47D2-9EF9-FB2EB146FF06",
-    "blurb": "Lord Caudecus's Weapons Now Available!",
+    "blurb": "Lord Caudecus's Weapons now available!",
     "categories": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -69967,12 +69970,14 @@
     "blurb": "",
     "categories": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
       "B0637A2D-9924-4317-8004-6361B0EFFA9B",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -72828,13 +72833,15 @@
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "17B9FFDA-D038-4617-97D7-45EAE28803FF",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoriesOld": [
       "17B9FFDA-D038-4617-97D7-45EAE28803FF",
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoryLifespansOld": [
       {
@@ -72879,13 +72886,15 @@
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "F279DD87-F364-469C-98EF-5FA1DC3E175C",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoriesOld": [
       "F279DD87-F364-469C-98EF-5FA1DC3E175C",
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoryLifespansOld": [
       {
@@ -72973,13 +72982,15 @@
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "75468DB0-E377-4E82-AD87-E0A62AC810E0",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoriesOld": [
       "75468DB0-E377-4E82-AD87-E0A62AC810E0",
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoryLifespansOld": [
       {
@@ -73191,14 +73202,16 @@
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "61A97107-0422-4F31-8405-2F5565434BE1",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoriesOld": [
       "17B9FFDA-D038-4617-97D7-45EAE28803FF",
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "61A97107-0422-4F31-8405-2F5565434BE1"
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoryLifespansOld": [
       {
@@ -73322,13 +73335,15 @@
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoriesOld": [
       "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoryLifespansOld": [
       {
@@ -73373,13 +73388,15 @@
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "0DD74CD4-0BCD-42EA-9E39-46076548A584",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoriesOld": [
       "0DD74CD4-0BCD-42EA-9E39-46076548A584",
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+      "F4EB9C7B-E078-4247-A5C6-AF27895D1F69"
     ],
     "categoryLifespansOld": [
       {
@@ -84109,8 +84126,7 @@
     "uuid": "E67B957E-6686-40EE-84C6-E1405F648DB4",
     "blurb": "Alchemic Power Skiff Skin now available!",
     "categories": [
-      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48"
     ],
     "categoriesOld": [
       "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
@@ -84184,8 +84200,7 @@
     "uuid": "3448B1E9-BBC3-4D6A-B1C1-AC01CC086D48",
     "blurb": "Plush Vulpine Jackal Skin now available!",
     "categories": [
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
@@ -84728,7 +84743,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-01-30T16:00:00Z",
+          "end": "2024-02-06T16:00:00Z",
           "start": "2024-01-16T16:00:00Z"
         }
       ]
@@ -84738,6 +84753,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-01-16T16:00:00Z",
         "end": "2024-01-30T16:00:00Z"
+      },
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-01-16T16:00:00Z",
+        "end": "2024-02-06T16:00:00Z"
       }
     ],
     "dataId": 101392,
@@ -84760,8 +84780,7 @@
     "uuid": "CBFCA8EE-080C-4301-A07A-0629736C88CF",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -84803,8 +84822,7 @@
     "blurb": "Conquer the skies with the Regal Moth Skyscale Skin!",
     "categories": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
@@ -84842,6 +84860,257 @@
       72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "547F7606-CA93-433B-85AD-7CE02877E099",
+    "blurb": "Elegant Noble's Glider Combo now available!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-02-27T16:00:00Z",
+          "start": "2024-02-13T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-02-13T16:00:00Z",
+        "end": "2024-02-27T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "87FFFE3E-4AA8-4097-8FBB-56E522A05C48",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "7E5B76F8-BCEB-4D82-B909-945EAEC7971D",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "C4078A5E-67A4-4904-93E3-D08B1CF852CF",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any back item and unlock the backpack skin and the glider in your account wardrobe.\n\nThis backpack skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "50a77cc0",
+    "latestEndDate": "2024-02-27T16:00:00Z",
+    "latestStartDate": "2024-02-13T16:00:00Z",
+    "name": "Elegant Noble's Glider Combo",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      72
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "7E5B76F8-BCEB-4D82-B909-945EAEC7971D",
+    "blurb": "Take to the skies with a<br>new glider skin!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101401,
+    "description": "This will unlock the glider skin in your account wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "49f14138",
+    "itemGuid": "1FE1669B-6C75-4BBE-98F8-F8A5553DECD3",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Elegant Noble's Glider",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      72
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A9BFF2A3-D5F4-4A77-A9DD-71F4F376390F",
+    "blurb": "Synergetics Cyberhound Skin now available!",
+    "categories": [
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-02-27T16:00:00Z",
+          "start": "2024-02-06T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-02-06T16:00:00Z",
+        "end": "2024-02-27T16:00:00Z"
+      }
+    ],
+    "dataId": 101434,
+    "description": "Double-click to unlock this jackal mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "84673dcb",
+    "itemGuid": "E7F2FC91-07C4-46C4-AB31-D722913D6FE4",
+    "latestEndDate": "2024-02-27T16:00:00Z",
+    "latestStartDate": "2024-02-06T16:00:00Z",
+    "name": "Synergetics Cyberhound Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      58
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "BEFF8200-C685-4600-9FE2-C9D8D1272D88",
+    "blurb": "Pull up a seat with a new chair skin!",
+    "categories": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-02-20T16:00:00Z",
+          "start": "2024-01-30T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-01-30T16:00:00Z",
+        "end": "2024-02-20T16:00:00Z"
+      }
+    ],
+    "dataId": 101399,
+    "description": "Double-click to unlock this item in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "c611fad4",
+    "itemGuid": "1DAB474A-5F72-4ADC-ADF0-58EB2E955D1C",
+    "latestEndDate": "2024-02-20T16:00:00Z",
+    "latestStartDate": "2024-01-30T16:00:00Z",
+    "name": "Peaceful Shrine Chair",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "C4078A5E-67A4-4904-93E3-D08B1CF852CF",
+    "blurb": "",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101425,
+    "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "4b3a5eb6",
+    "itemGuid": "C5F84DC0-D37D-4399-9601-B553132654FB",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Elegant Noble's Backpack",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "DDFBFD72-8430-4497-AA3F-D17751BB9D8C",
+    "blurb": "Arcane Marksman Pistol now available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-03-05T16:00:00Z",
+          "start": "2024-02-20T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-02-20T16:00:00Z",
+        "end": "2024-03-05T16:00:00Z"
+      }
+    ],
+    "dataId": 101416,
+    "description": "Double-click to apply this look to any other pistol. This will also unlock this skin for your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "694f22c4",
+    "itemGuid": "A8A9668B-9048-48A9-A819-3F5894919E4A",
+    "latestEndDate": "2024-03-05T16:00:00Z",
+    "latestStartDate": "2024-02-20T16:00:00Z",
+    "name": "Arcane Marksman Pistol Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
     "returning": false,
     "type": "item"
   }

@@ -46529,7 +46529,7 @@
   },
   {
     "uuid": "A7756AA3-A153-4231-8D9F-6D82C2FD521E",
-    "availableDate": "2023-12-12T16:00:00Z",
+    "availableDate": "2024-02-27T16:00:00Z",
     "blurb": "New weapon set available for Black Lion Claim Tickets!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
@@ -46537,11 +46537,11 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemStoreBannerItem": "77156714-7D04-4090-82BF-86CA00ACDFDE",
-    "imageHash": "c564d648",
+    "imageHash": "c65ae73d",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2023-12-19T16:00:00Z",
+    "removeDate": "2024-03-12T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"

@@ -1060,7 +1060,7 @@
       }
     ],
     "dataId": 94887,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2021-03-23T16:01:02.515Z",
     "giftable": true,
@@ -2810,7 +2810,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 94469,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2021-01-19T17:00:04.144Z",
     "giftable": true,
@@ -2971,7 +2971,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 94556,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2021-01-19T17:00:04.144Z",
     "giftable": true,
@@ -3983,7 +3983,7 @@
       }
     ],
     "dataId": 94368,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2020-12-01T17:01:04.835Z",
     "giftable": true,
@@ -6136,7 +6136,7 @@
       }
     ],
     "dataId": 93997,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2020-08-25T16:00:05.007Z",
     "giftable": true,
@@ -8422,7 +8422,7 @@
       }
     ],
     "dataId": 93333,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2020-04-28T16:01:02.971Z",
     "gemPrice": 400,
@@ -10469,7 +10469,7 @@
       }
     ],
     "dataId": 92551,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-12-17T17:01:09.763Z",
     "gemPrice": 400,
@@ -11779,7 +11779,7 @@
       }
     ],
     "dataId": 92201,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:47.568Z",
     "gemPrice": 125,
@@ -12701,8 +12701,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "780038c6",
     "itemGuid": "03184044-52B0-4414-B674-E0D23F40AD95",
     "latestEndDate": null,
@@ -12711,7 +12711,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item"
   },
   {
@@ -12763,7 +12763,7 @@
       }
     ],
     "dataId": 90165,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
@@ -13675,8 +13675,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 600,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "8b3c3709",
     "itemGuid": "B3DDF85C-BB21-4679-896B-2648E0A0949B",
     "latestEndDate": "2024-10-14T16:00:00Z",
@@ -13685,7 +13685,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item",
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -14675,7 +14675,7 @@
     },
     "categoryLifespansOld": [],
     "dataId": 90335,
-    "description": "Use this item to teleport to a party member's location.<br><br>One-hour cooldown. Can only be used by characters level 10 or greater.",
+    "description": "Use this item to teleport to a party member's location.<br><br>Ten-minute cooldown. Can only be used by characters level 10 or greater.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 800,
@@ -15873,7 +15873,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 20022,
-    "description": "Double-click to identify the exact color.",
+    "description": "Double-click to identify the exact color.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -16047,7 +16047,7 @@
       }
     ],
     "dataId": 87603,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": true,
@@ -16336,8 +16336,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "472b38e0",
     "itemGuid": "D2083881-4529-45BE-96BC-CC1FDAD2FA59",
     "latestEndDate": null,
@@ -17293,8 +17293,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "60771742",
     "itemGuid": "65D197EF-F982-42AD-ACDC-F241D7EA487D",
     "latestEndDate": null,
@@ -19031,7 +19031,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 20027,
-    "description": "Double-click to identify the exact color.",
+    "description": "Double-click to identify the exact color.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -19145,8 +19145,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 300,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "abafd040",
     "itemGuid": "D14079A3-693E-40A6-BCE8-4743CEABE912",
     "latestEndDate": null,
@@ -20762,7 +20762,7 @@
       }
     ],
     "dataId": 70367,
-    "description": "Double-click to gain one random color. Includes six exclusive Mad King colors.",
+    "description": "Double-click to gain one random color. Includes six exclusive Mad King colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -24049,8 +24049,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "8ea1c968",
     "itemGuid": "97BCE409-DE8E-46E1-AC14-ED4D0A693587",
     "latestEndDate": null,
@@ -24213,8 +24213,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 501,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "e6529ef1",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -24892,7 +24892,7 @@
       }
     ],
     "dataId": 89717,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": true,
@@ -26052,8 +26052,8 @@
     "description": "Double-click to receive the Mini Super Piranha, Mini Super Bunny, and Mini Super Turtle. Combine in the Mystic Forge with a Continue Coin to unlock the Mini Super Angry Cloud.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "4f89ea42",
     "itemGuid": "4492FA02-EF02-4041-AAA0-A6F151E9027C",
     "latestEndDate": "2024-10-11T16:00:00Z",
@@ -26062,7 +26062,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item",
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -26188,7 +26188,7 @@
       }
     ],
     "dataId": 41745,
-    "description": "Double-click to gain one random frost-inspired color. Includes a chance at 1 of 6 exclusive colors.",
+    "description": "Double-click to gain one random frost-inspired color. Includes a chance at 1 of 6 exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -26990,8 +26990,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "6560d3a0",
     "itemGuid": "286AA541-3F45-4D07-A0CE-C3EDA1670025",
     "latestEndDate": "2024-10-13T16:00:00Z",
@@ -27000,7 +27000,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item",
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -27545,7 +27545,7 @@
       }
     ],
     "dataId": 79354,
-    "description": "Double-click to gain one random color. Includes six exclusive Bloodstone colors.",
+    "description": "Double-click to gain one random color. Includes six exclusive bloodstone colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -30648,7 +30648,7 @@
       }
     ],
     "dataId": 89325,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
@@ -31409,8 +31409,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "c80c7cd0",
     "itemGuid": "5D77A26D-8246-4BBB-9969-E8AF4F9732AE",
     "latestEndDate": null,
@@ -33215,7 +33215,7 @@
       }
     ],
     "dataId": 43935,
-    "description": "Double-click to gain a random deathly dye color. Includes a chance at 1 of 6 exclusive colors.",
+    "description": "Double-click to gain a random deathly dye color. Includes a chance at 1 of 6 exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -35062,7 +35062,7 @@
       }
     ],
     "dataId": 88258,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -35363,7 +35363,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 20026,
-    "description": "Double-click to identify the exact color.",
+    "description": "Double-click to identify the exact color.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -36254,7 +36254,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "8b5869df",
+    "imageHash": "2c4b2563",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -37136,7 +37136,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 20028,
-    "description": "Double-click to identify the exact color.",
+    "description": "Double-click to identify the exact color.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -37691,8 +37691,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 700,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "3cf8a229",
     "itemGuid": "66608C6E-F279-4BC6-89FE-4F54D56C5BBF",
     "latestEndDate": null,
@@ -38598,7 +38598,7 @@
       }
     ],
     "dataId": 91654,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -38984,7 +38984,7 @@
       }
     ],
     "dataId": 77470,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -39053,7 +39053,7 @@
       }
     ],
     "dataId": 85628,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": true,
@@ -39395,7 +39395,7 @@
       }
     ],
     "dataId": 80069,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -40208,7 +40208,7 @@
       }
     ],
     "dataId": 67291,
-    "description": "Contains one of 25 random colors handpicked by Taimi. Includes the possibility of six exclusive electro colors created by Taimi.",
+    "description": "Contains one of 25 random colors handpicked by Taimi. Includes the possibility of six exclusive electro colors created by Taimi.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -40591,7 +40591,7 @@
       }
     ],
     "dataId": 43078,
-    "description": "Double-click to gain one of 25 random colors commemorating Lion's Arch of old. Includes six exclusive colors.",
+    "description": "Double-click to gain one of 25 random colors commemorating Lion's Arch of old. Includes six exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -43246,8 +43246,8 @@
     "description": "Double-click to receive 3 randomly selected Minis (2 common and 1 uncommon) to add to your collection.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "f2c1c111",
     "itemGuid": "041B3A88-7B71-45D9-8045-15210C31099E",
     "latestEndDate": null,
@@ -44491,7 +44491,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 20024,
-    "description": "Double-click to identify the exact color.",
+    "description": "Double-click to identify the exact color.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -45035,8 +45035,8 @@
     "description": "Contains:\n• Mini Black Bear Cub\n• Mini Hippo Calf\n• Mini White Kitten\n• Mini Lion Cub\n• Mini Moa Chick",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "2fb3f9f",
     "itemGuid": "CF486302-3808-4C38-AE7C-889E98FBEABA",
     "latestEndDate": null,
@@ -45136,7 +45136,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "cb8f7212",
     "itemGuid": "370D0DF8-9FE5-4F0C-97C0-251084449DAB",
     "latestEndDate": null,
@@ -47146,7 +47146,7 @@
       }
     ],
     "dataId": 69934,
-    "description": "Double-click to gain one of 25 random colors commemorating the rebirth of Lion's Arch. Includes six exclusive colors.",
+    "description": "Double-click to gain one of 25 random colors commemorating the rebirth of Lion's Arch. Includes six exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -48155,8 +48155,8 @@
     "description": "Double-click to receive 3 randomly selected Minis (2 common and 1 uncommon) to add to your collection.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "ebff8ccd",
     "itemGuid": "76AF5438-C42C-461D-A06C-FC1C52A98C84",
     "latestEndDate": null,
@@ -48411,8 +48411,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "c029b01d",
     "itemGuid": "C4FEBFA8-169C-4F41-AC40-F4C0C0A68844",
     "latestEndDate": null,
@@ -48584,7 +48584,7 @@
       }
     ],
     "dataId": 81545,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -49153,7 +49153,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 67278,
-    "description": "Each dye box contains 7 random dyes (5 common and 2 uncommon or rare). \n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Each dye box contains 7 random dyes (5 common and 2 uncommon or rare). \n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All common dyes have an equal chance to drop.\n\nRare or uncommon dye chances:\n• Rare: ~20%\n• Uncommon: ~80%</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -49477,7 +49477,7 @@
       }
     ],
     "dataId": 48954,
-    "description": "Double-click to gain one random toxic-inspired color. Includes a chance at 1 of 6 exclusive colors.",
+    "description": "Double-click to gain one random toxic-inspired color. Includes a chance at 1 of 6 exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -49886,7 +49886,7 @@
       }
     ],
     "dataId": 68653,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -51128,7 +51128,7 @@
       }
     ],
     "dataId": 90079,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": true,
@@ -51798,7 +51798,7 @@
       }
     ],
     "dataId": 86163,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -52203,7 +52203,7 @@
       }
     ],
     "dataId": 68786,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes 10 exclusive colors.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes 10 exclusive colors.\n\n<c=#FFC957>All dyes have equal chances to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -52633,7 +52633,7 @@
       }
     ],
     "dataId": 91795,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
@@ -53129,7 +53129,7 @@
       }
     ],
     "dataId": 87368,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
@@ -53261,7 +53261,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 19998,
-    "description": "Each dye box contains 7 random dyes (5 common and 2 uncommon or rare). \n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Each dye box contains 7 random dyes (5 common and 2 uncommon or rare). \n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All common dyes have an equal chance to drop.\n\nRare or uncommon dye chances:\n• Rare: ~20%\n• Uncommon: ~80%</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": true,
@@ -53714,7 +53714,7 @@
       }
     ],
     "dataId": 85580,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
@@ -53817,7 +53817,7 @@
       }
     ],
     "dataId": 78734,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes nine exclusive new shades of blue.\n\nDyes can be unlocked for unlimited uses to color armor on all characters.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes nine exclusive new shades of blue.\n\nDyes can be unlocked for unlimited uses to color armor on all characters.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -54194,7 +54194,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 20023,
-    "description": "Double-click to identify the exact color.",
+    "description": "Double-click to identify the exact color.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -54721,8 +54721,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "4de1f913",
     "itemGuid": "7D345165-A664-499F-BE1B-C25BD9D2DB18",
     "latestEndDate": null,
@@ -54731,7 +54731,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item"
   },
   {
@@ -55214,8 +55214,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "202ac749",
     "itemGuid": "DE89CC7D-C414-401D-9D0C-DBC1CD7CD766",
     "latestEndDate": null,
@@ -55238,7 +55238,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 20029,
-    "description": "Double-click to identify the exact color.",
+    "description": "Double-click to identify the exact color.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
@@ -55362,8 +55362,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "8a8818d3",
     "itemGuid": "8DD3A551-BC53-431F-B74E-0FD4AD3172F6",
     "latestEndDate": "2024-10-13T16:00:00Z",
@@ -55372,7 +55372,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item",
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -55491,7 +55491,7 @@
       }
     ],
     "dataId": 80974,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -56021,7 +56021,7 @@
       }
     ],
     "dataId": 47900,
-    "description": "Double-click to gain one random metal-themed color. Includes six exclusive colors.",
+    "description": "Double-click to gain one random metal-themed color. Includes six exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -57480,7 +57480,7 @@
       }
     ],
     "dataId": 64254,
-    "description": "Double-click to gain one of 25 random colors commemorating Lion's Arch of old. Includes six exclusive colors.",
+    "description": "Double-click to gain one of 25 random colors commemorating Lion's Arch of old. Includes six exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -58712,7 +58712,7 @@
       }
     ],
     "dataId": 86898,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -61591,7 +61591,7 @@
       }
     ],
     "dataId": 79695,
-    "description": "Double-click to gain one random Vibrant-inspired color. Includes a chance at 1 of 6 exclusive colors.",
+    "description": "Double-click to gain one random vibrant color. Includes a chance at 1 of 6 exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -62301,7 +62301,7 @@
       }
     ],
     "dataId": 88200,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
@@ -63353,7 +63353,7 @@
       }
     ],
     "dataId": 68005,
-    "description": "Contains one of 25 random colors reminiscent of the good dragon, Glint. Includes the possibility of six exclusive winter colors created in honor of her struggle against Kralkatorrik.",
+    "description": "Contains one of 25 random colors reminiscent of the good dragon, Glint. Includes the possibility of six exclusive winter colors created in honor of her struggle against Kralkatorrik.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -64589,8 +64589,8 @@
     "description": "Double-click to receive 3 randomly selected Minis (2 common and 1 uncommon) to add to your collection.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "bd8170ac",
     "itemGuid": "53EF3D86-AC6A-4A69-960D-5240D8D49D19",
     "latestEndDate": null,
@@ -65065,7 +65065,7 @@
       }
     ],
     "dataId": 41744,
-    "description": "Double-click to gain one random flame-inspired color. Includes a chance at 1 of 6 exclusive colors.",
+    "description": "Double-click to gain one random flame-inspired color. Includes a chance at 1 of 6 exclusive colors.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 125,
@@ -65622,8 +65622,8 @@
     "description": "Contains:\n• Mini Arctodus Cub\n• Mini Polar Bear Cub\n• Mini Jaguar Cub\n• Mini Orange Kitten\n• Mini Piglet",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "6a9f495f",
     "itemGuid": "B9122E8C-FA92-419E-AC55-B245A9A19ACD",
     "latestEndDate": null,
@@ -67654,7 +67654,7 @@
       }
     ],
     "dataId": 95268,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -68178,7 +68178,7 @@
       }
     ],
     "dataId": 95362,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -70588,7 +70588,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 79696,
-    "description": "Consuming this will unlock one random wardrobe option that you do not already own in the following categories:\n* Equipment Skins (exotic or lower)\n* Outfits\n* Dyes\n* Gliders\n* Minis\n* Finishers\n* Mail Carriers\nLast Update: August 2023",
+    "description": "Consuming this will unlock one random wardrobe option that you do not already own in the following categories:\n* Equipment Skins (exotic or lower)\n* Outfits\n* Dyes\n* Gliders\n* Minis\n* Finishers\n* Mail Carriers\nLast Update: August 2023\n\n<c=@Task>All unobtained items and skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -71291,7 +71291,7 @@
       }
     ],
     "dataId": 97666,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -74392,7 +74392,7 @@
       }
     ],
     "dataId": 98106,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -74774,7 +74774,7 @@
       }
     ],
     "dataId": 98288,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -75674,7 +75674,7 @@
       }
     ],
     "dataId": 98496,
-    "description": "Contains one random exclusive, rare, and uncommon dye selected from among the seven Elder Dragon-themed dye kits.",
+    "description": "Contains one random exclusive, rare, and uncommon dye selected from among the seven Elder Dragon-themed dye kits.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -78613,7 +78613,7 @@
       }
     ],
     "dataId": 99156,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -82022,7 +82022,7 @@
       }
     ],
     "dataId": 99566,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -83376,7 +83376,7 @@
       }
     ],
     "dataId": 99806,
-    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.",
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -84188,7 +84188,7 @@
       }
     ],
     "dataId": 99901,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -86038,7 +86038,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 100999,
-    "description": "Consuming this will unlock one random dye color in your wardrobe that you do not already have.",
+    "description": "Consuming this will unlock one random dye color in your wardrobe that you do not already have.\n\n<c=@Task>All unobtained dyes have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": false,
     "hide": true,
@@ -87262,7 +87262,7 @@
       }
     ],
     "dataId": 101147,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -88488,8 +88488,7 @@
       "989B6878-997E-409E-8D6C-51C7BE6AAC81",
       "4C45415F-948D-4D93-8493-06585E5EDD61",
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
-      "71841D94-C462-4316-9C77-307E2E1EA148",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+      "71841D94-C462-4316-9C77-307E2E1EA148"
     ],
     "categoriesOld": [
       "989B6878-997E-409E-8D6C-51C7BE6AAC81",
@@ -88559,8 +88558,7 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
@@ -88606,8 +88604,7 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
@@ -88630,7 +88627,7 @@
       }
     ],
     "dataId": 101604,
-    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.",
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -88664,12 +88661,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-03-26T16:00:00Z",
+          "end": "2024-04-09T16:00:00Z",
           "start": "2024-03-12T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-03-12T16:00:00Z",
+        "end": "2024-04-09T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-03-12T16:00:00Z",
@@ -88683,7 +88685,7 @@
     "hide": false,
     "imageHash": "2ef8a6fa",
     "itemGuid": "35241CE2-82F0-4A53-A125-BD229212E5FF",
-    "latestEndDate": "2024-03-26T16:00:00Z",
+    "latestEndDate": "2024-04-09T16:00:00Z",
     "latestStartDate": "2024-03-12T16:00:00Z",
     "name": "Baggy Cargo Pants Skin",
     "randomchance": false,
@@ -88697,8 +88699,7 @@
     "blurb": "Fashionable Kilt now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "61A97107-0422-4F31-8405-2F5565434BE1",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "61A97107-0422-4F31-8405-2F5565434BE1"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -88855,5 +88856,330 @@
     "requirementMissing": "",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "2AE06CD8-3BC4-42F4-8D59-0EAF7B05201F",
+    "blurb": "",
+    "categories": [
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-04-23T16:00:00Z",
+          "start": "2024-04-02T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-04-02T16:00:00Z",
+        "end": "2024-04-23T16:00:00Z"
+      }
+    ],
+    "dataId": 101657,
+    "description": "Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.\n\nDyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.\n\n<c=#FFC957>All dyes have an equal chance to drop.</c>",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "5fb2211a",
+    "itemGuid": "49684687-B1EF-4BC8-9E5A-0F5CE99EDD48",
+    "latestEndDate": "2024-04-23T16:00:00Z",
+    "latestStartDate": "2024-04-02T16:00:00Z",
+    "name": "Smooth Berry Dye Kit",
+    "randomchance": true,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2C755808-4B49-4FD1-8127-8C0842EB99A1",
+    "blurb": "",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101655,
+    "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "f1c88cb3",
+    "itemGuid": "3BF31C1C-522A-41C3-B760-2279D5B3EDD7",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Shattered Stone Wings Backpack Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "5187CFFA-4A12-4719-83FD-241FE39AAC96",
+    "blurb": "Shattered Stone Wings Backpack and Glider Combo now available!",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-04-23T16:00:00Z",
+          "start": "2024-03-26T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-03-26T16:00:00Z",
+        "end": "2024-04-23T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "87FFFE3E-4AA8-4097-8FBB-56E522A05C48",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "A24B8BAB-EEE1-4DB1-88B1-2D130993019F",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "2C755808-4B49-4FD1-8127-8C0842EB99A1",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any back item and unlock the backpack skin and the glider in your account wardrobe.\n\nThis backpack skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "cb7b191",
+    "latestEndDate": "2024-04-23T16:00:00Z",
+    "latestStartDate": "2024-03-26T16:00:00Z",
+    "name": "Shattered Stone Wings Backpack and Glider Combo",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "A24B8BAB-EEE1-4DB1-88B1-2D130993019F",
+    "blurb": "Take to the skies with a<br>new glider skin!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101661,
+    "description": "This will unlock the glider skin in your account wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "e79bf5b0",
+    "itemGuid": "7E5FF148-5CBB-4F8B-9891-CA3B381E71DC",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Shattered Stone Wings Glider Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "B91AAE68-18EC-47AA-868D-9F24C29E3979",
+    "blurb": "Exclusive weapon<br>skins available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-04-23T16:00:00Z",
+          "start": "2024-03-19T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-03-19T16:00:00Z",
+        "end": "2024-04-23T16:00:00Z"
+      }
+    ],
+    "dataId": 101667,
+    "description": "Double-click to apply this look to any other shield.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "4193331e",
+    "itemGuid": "E81ED619-F1CD-4F6E-B388-D0432F5ECC2F",
+    "latestEndDate": "2024-04-23T16:00:00Z",
+    "latestStartDate": "2024-03-19T16:00:00Z",
+    "name": "Synergetics Energized Shield Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "C64985AD-64B9-4FCE-8313-A92EA3E02187",
+    "blurb": "Exclusive weapon<br>skins available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-04-23T16:00:00Z",
+          "start": "2024-04-09T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-04-09T16:00:00Z",
+        "end": "2024-04-23T16:00:00Z"
+      }
+    ],
+    "dataId": 101652,
+    "description": "Double-click to apply this look to any other dagger.\nThis will also unlock this skin for your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "a60eab17",
+    "itemGuid": "1748C728-33EC-4210-B3D6-3C860AF20FA6",
+    "latestEndDate": "2024-04-23T16:00:00Z",
+    "latestStartDate": "2024-04-09T16:00:00Z",
+    "name": "Devil-Rending Dagger Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "E43C5DD6-372E-4A4C-93F3-0A14E586CD1E",
+    "blurb": "",
+    "categories": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61",
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "42B9C1EF-2A5E-4C29-827C-80F20C32BF2A",
+      "891B92A1-E865-4711-BE50-3748D76F5F3C",
+      "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+    ],
+    "categoriesOld": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61",
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "42B9C1EF-2A5E-4C29-827C-80F20C32BF2A",
+      "891B92A1-E865-4711-BE50-3748D76F5F3C",
+      "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+    ],
+    "categoryLifespans": {
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F": [
+        {
+          "end": "2024-04-02T16:00:00Z",
+          "start": "2024-03-19T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+        "start": "2024-03-19T16:00:00Z",
+        "end": "2024-04-02T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "0B62A381-5846-43F6-AE1B-8D78EC3A3393",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "3977EDE0-D6B8-4EE3-8E2E-7859A2F6428B",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "4004F335-B1D5-4D72-94A4-D6A56130FE61",
+        "quantity": 25
+      },
+      {
+        "disablePreview": false,
+        "guid": "0CC159D9-4866-4F85-B84D-5A364519E302",
+        "quantity": 1
+      }
+    ],
+    "description": "",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "d295f08a",
+    "latestEndDate": "2024-04-02T16:00:00Z",
+    "latestStartDate": "2024-03-19T16:00:00Z",
+    "name": "Travel with Friends Package",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
   }
 ]

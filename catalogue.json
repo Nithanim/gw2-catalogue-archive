@@ -316,7 +316,7 @@
   },
   {
     "uuid": "DEC9492D-CB27-49FB-921E-7E866BE92E6C",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -572,7 +572,7 @@
   },
   {
     "uuid": "7F96E0FD-2F6E-403B-8637-DA766BA11C29",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -1217,7 +1217,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -1995,8 +1995,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-09T16:00:00Z",
-          "start": "2024-08-26T16:00:00Z"
+          "end": "2024-09-08T16:00:00Z",
+          "start": "2024-08-25T16:00:00Z"
         }
       ]
     },
@@ -2010,6 +2010,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-26T16:00:00Z",
         "end": "2024-09-09T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-25T16:00:00Z",
+        "end": "2024-09-08T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -2125,7 +2130,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -2225,7 +2230,7 @@
       58
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package",
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
@@ -2344,7 +2349,7 @@
   },
   {
     "uuid": "EE635B75-E94B-4F76-9AAB-4ED0E44F3829",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -2597,7 +2602,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -2698,8 +2703,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-06T16:00:00Z",
-          "start": "2024-08-23T16:00:00Z"
+          "end": "2024-09-09T16:00:00Z",
+          "start": "2024-08-26T16:00:00Z"
         }
       ]
     },
@@ -2708,6 +2713,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-30T16:00:00Z",
         "end": "2024-09-13T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-26T16:00:00Z",
+        "end": "2024-09-09T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -3519,7 +3529,7 @@
   },
   {
     "uuid": "8910C011-2AE0-485B-8BE5-89F561318A05",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -3595,8 +3605,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-07T16:00:00Z",
-          "start": "2024-08-24T16:00:00Z"
+          "end": "2024-09-06T16:00:00Z",
+          "start": "2024-08-23T16:00:00Z"
         }
       ]
     },
@@ -3610,6 +3620,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-24T16:00:00Z",
         "end": "2024-09-07T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-23T16:00:00Z",
+        "end": "2024-09-06T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -3698,8 +3713,7 @@
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "2919480C-0389-4431-8B7C-F95E7E5D0760",
-      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
     ],
     "categoriesOld": [
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
@@ -3764,7 +3778,7 @@
     "excludedFeatures": [],
     "firstAdded": "2020-12-01T17:01:04.835Z",
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "95be95ac",
     "latestEndDate": "2024-01-28T16:00:00Z",
     "latestStartDate": "2024-01-14T16:00:00Z",
@@ -3960,7 +3974,7 @@
     "excludedFeatures": [],
     "firstAdded": "2020-12-01T17:01:04.835Z",
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "592e918",
     "itemGuid": "1BA67156-7D9A-4846-BA3B-523BB799F4F8",
     "latestEndDate": "2019-10-01T16:00:00Z",
@@ -4158,7 +4172,7 @@
     "excludedFeatures": [],
     "firstAdded": "2020-12-01T17:01:04.835Z",
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "41b55e98",
     "itemGuid": "7C204E96-3368-4B3E-A34F-ED7A7BE7DB55",
     "latestEndDate": null,
@@ -4491,7 +4505,7 @@
   },
   {
     "uuid": "F028929E-0670-457B-B2D9-9FE0B9973330",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -4554,7 +4568,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -4944,7 +4958,7 @@
   },
   {
     "uuid": "CE0CFE95-283B-4693-B1A1-46C708CC4EC8",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -5556,7 +5570,7 @@
   },
   {
     "uuid": "D500237A-8301-4699-92C8-50EDE24DD1C5",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -5877,7 +5891,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -6143,7 +6157,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -6234,7 +6248,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -7080,7 +7094,7 @@
   },
   {
     "uuid": "C114B74C-0E20-408B-AF1D-3C8EF95C787A",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -7555,7 +7569,7 @@
   },
   {
     "uuid": "7344E90F-703E-498B-BB29-9710DCC277A6",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -7872,7 +7886,7 @@
   },
   {
     "uuid": "A22BD926-F9EC-4D11-8F7A-44B1DD25482C",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -8543,7 +8557,7 @@
     "excludedFeatures": [],
     "firstAdded": "2020-04-28T16:01:02.971Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "e3acef40",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -8551,7 +8565,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -8639,7 +8653,7 @@
   },
   {
     "uuid": "DF1A6512-65E0-4207-B4C1-136F25C6A4F8",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -9480,6 +9494,7 @@
     "uuid": "67FF5E3B-FB86-4083-A083-A17AEE4F37A3",
     "blurb": "Never run out of mining picks again!",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -9487,7 +9502,8 @@
     "categoriesOld": [
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -9743,8 +9759,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-08T16:00:00Z",
-          "start": "2024-08-25T16:00:00Z"
+          "end": "2024-09-07T16:00:00Z",
+          "start": "2024-08-24T16:00:00Z"
         }
       ]
     },
@@ -9758,6 +9774,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-25T16:00:00Z",
         "end": "2024-09-08T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-24T16:00:00Z",
+        "end": "2024-09-07T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -9835,7 +9856,7 @@
   },
   {
     "uuid": "2121D237-0895-4F7B-B4B6-966B1FAD08A1",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -10864,7 +10885,7 @@
   },
   {
     "uuid": "61F14D89-6E1D-4A6B-9B26-06C3025DF5DE",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -11419,7 +11440,7 @@
   },
   {
     "uuid": "2DEE0B14-0A1E-41DC-BED4-DB149A4FA0E6",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -13901,7 +13922,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -13995,8 +14016,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 600,
-    "giftable": false,
-    "hide": true,
+    "giftable": true,
+    "hide": false,
     "imageHash": "8b3c3709",
     "itemGuid": "B3DDF85C-BB21-4679-896B-2648E0A0949B",
     "latestEndDate": "2024-10-14T16:00:00Z",
@@ -14171,7 +14192,7 @@
   },
   {
     "uuid": "07DEB5D7-D558-43F3-9BA6-E08FF3A49B4C",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -14203,7 +14224,7 @@
   },
   {
     "uuid": "0820D5AD-6AD8-45DB-8807-2111856110E0",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -14306,6 +14327,7 @@
     "uuid": "083BE38E-42D9-4918-B7A5-6EE2DE614D9A",
     "blurb": "",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -14313,7 +14335,8 @@
     "categoriesOld": [
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -14903,7 +14926,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "bb6c8db7",
     "itemGuid": "03E4F465-13B7-4798-B8B9-CAC4D292F757",
     "latestEndDate": null,
@@ -14912,7 +14935,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -15356,7 +15379,7 @@
   },
   {
     "uuid": "0E2521B1-9B33-412B-B013-248272220BED",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -17344,7 +17367,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "f1239e21",
     "itemGuid": "762E67A5-7DF1-4CD1-80C7-44F5FC6AA29D",
     "latestEndDate": null,
@@ -17353,7 +17376,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -17752,8 +17775,7 @@
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "2919480C-0389-4431-8B7C-F95E7E5D0760",
-      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
     ],
     "categoriesOld": [
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
@@ -17844,7 +17866,7 @@
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 2700,
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "45b95501",
     "latestEndDate": "2024-11-02T16:00:00Z",
     "latestStartDate": "2024-10-19T16:00:00Z",
@@ -18087,7 +18109,7 @@
   },
   {
     "uuid": "1A6B7196-9F74-4FA1-9981-7EDCFBFB61E0",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -19203,7 +19225,7 @@
   },
   {
     "uuid": "1FF06E94-6342-4CA7-8CE0-9CB486FF569D",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -19258,7 +19280,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -19412,7 +19434,7 @@
   },
   {
     "uuid": "21531286-2C88-444B-B40A-32DE6D8EBB5F",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "E42EB376-178F-43A5-9432-7748422B5853",
@@ -20551,7 +20573,7 @@
   },
   {
     "uuid": "25191A95-6C28-4F4E-B4DD-CD560177CF26",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -20713,6 +20735,7 @@
     "uuid": "255D2861-572B-41E9-B3F4-4AE320B1B52D",
     "blurb": "",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -20720,7 +20743,8 @@
     "categoriesOld": [
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -21144,8 +21168,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "c5308ce6",
     "itemGuid": "D767616C-E265-4B72-8B90-D1EBAF9DE6F9",
     "latestEndDate": "2022-07-26T16:00:00Z",
@@ -22279,7 +22303,7 @@
       2
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -23455,6 +23479,7 @@
     "uuid": "2F1032BB-E10C-4E57-83CA-1BFBFCB4818A",
     "blurb": "Never run out of mining picks again!",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -23462,7 +23487,8 @@
     "categoriesOld": [
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -23751,7 +23777,7 @@
       2
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -24472,8 +24498,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "38e0a133",
     "itemGuid": "820B4D78-257D-49B1-8555-254F868A3CAE",
     "latestEndDate": null,
@@ -24654,7 +24680,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -25173,7 +25199,7 @@
   },
   {
     "uuid": "38E8F527-EC19-41D7-9E3E-0265F54B85F0",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -25636,7 +25662,7 @@
   },
   {
     "uuid": "3ADFEE52-5D25-4A3A-BBBF-A3A18447C918",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -25884,7 +25910,7 @@
   },
   {
     "uuid": "3C185679-C5E3-4B2C-88ED-2F32477B3538",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -26679,8 +26705,8 @@
     "description": "Double-click to receive the Mini Super Piranha, Mini Super Bunny, and Mini Super Turtle. Combine in the Mystic Forge with a Continue Coin to unlock the Mini Super Angry Cloud.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
-    "giftable": false,
-    "hide": true,
+    "giftable": true,
+    "hide": false,
     "imageHash": "4f89ea42",
     "itemGuid": "4492FA02-EF02-4041-AAA0-A6F151E9027C",
     "latestEndDate": "2024-10-11T16:00:00Z",
@@ -26901,7 +26927,7 @@
   },
   {
     "uuid": "426696B8-5AD7-4071-A752-62867DB19C53",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "B0BF30C2-525F-4FE6-B3C6-5188DC63AD13",
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
@@ -27356,7 +27382,7 @@
   },
   {
     "uuid": "44556573-1BE2-486B-8EA3-2000336AD3C3",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "5D9A5F19-DB16-44D1-BF90-9194A9EC6137",
@@ -27472,7 +27498,7 @@
   },
   {
     "uuid": "44AD1DA7-7B1D-48E9-8ED5-990C75397D81",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -27642,8 +27668,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": false,
-    "hide": true,
+    "giftable": true,
+    "hide": false,
     "imageHash": "6560d3a0",
     "itemGuid": "286AA541-3F45-4D07-A0CE-C3EDA1670025",
     "latestEndDate": "2024-10-13T16:00:00Z",
@@ -27916,7 +27942,7 @@
   },
   {
     "uuid": "472EFE61-4B7E-4665-97F6-244DE822F667",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "158A13A9-E826-4EEB-B6C4-C3A14FA063EB"
@@ -28670,7 +28696,7 @@
   },
   {
     "uuid": "49A959B9-0820-4EBA-A109-A0E1455FC4C8",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -28728,7 +28754,7 @@
   },
   {
     "uuid": "49AAA117-6FDE-44E3-BC2B-1E267BA7826A",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "233147A2-AFFB-4115-9BDD-4D9CE665E4B7",
@@ -29042,7 +29068,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "65a2fbd8",
     "itemGuid": "B9D81651-8C25-4106-8341-E34960DE5775",
     "latestEndDate": null,
@@ -29051,7 +29077,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -30541,7 +30567,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "fc2931ff",
     "itemGuid": "15B1BC4B-7221-484E-9F1C-C3D7048F2940",
     "latestEndDate": null,
@@ -30550,7 +30576,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -31862,8 +31888,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 167,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "e6529ef1",
     "itemGuid": "111E1B32-D4D3-41D9-9AF4-C7B68E659031",
     "latestEndDate": null,
@@ -32116,7 +32142,7 @@
   },
   {
     "uuid": "5B030DDD-BA33-4C27-99CC-1696E87079BF",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -32969,7 +32995,7 @@
   },
   {
     "uuid": "5E7EFC0E-7A82-4306-8695-B01D66F49BD1",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "5D9A5F19-DB16-44D1-BF90-9194A9EC6137"
@@ -33675,7 +33701,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -33915,7 +33941,7 @@
   },
   {
     "uuid": "64C1AFF2-AC21-4F4B-8BD7-A79FF33E3A95",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -34123,7 +34149,7 @@
   },
   {
     "uuid": "66024AA7-6C55-4890-B48A-0F600AB0BAF3",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -34601,8 +34627,7 @@
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "2919480C-0389-4431-8B7C-F95E7E5D0760",
-      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
     ],
     "categoriesOld": [
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
@@ -34667,7 +34692,7 @@
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 2700,
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "3e5a214d",
     "latestEndDate": "2024-04-27T16:00:00Z",
     "latestStartDate": "2024-04-13T16:00:00Z",
@@ -35490,7 +35515,7 @@
   },
   {
     "uuid": "6F2A5A71-292E-4333-88C8-D6F7C06A3C6A",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -36093,7 +36118,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "33f535cf",
     "itemGuid": "03EDE9CD-F7C7-4ECC-99F3-C6E897C01D8A",
     "latestEndDate": null,
@@ -36102,12 +36127,12 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
     "uuid": "721D2126-9CBF-4F87-9CE2-1DC9C2AE2343",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -36290,7 +36315,7 @@
   },
   {
     "uuid": "745BF2F3-AD78-43D2-8B96-3614AB638FE2",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "5D9A5F19-DB16-44D1-BF90-9194A9EC6137"
@@ -37088,7 +37113,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "84337640",
+    "imageHash": "d2a2757d",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -37176,6 +37201,7 @@
     "uuid": "7777B74A-8B2E-454D-8538-E1D13BDFE7B6",
     "blurb": "",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "2919480C-0389-4431-8B7C-F95E7E5D0760",
       "891B92A1-E865-4711-BE50-3748D76F5F3C",
@@ -37185,7 +37211,8 @@
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
       "2919480C-0389-4431-8B7C-F95E7E5D0760",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
-      "891B92A1-E865-4711-BE50-3748D76F5F3C"
+      "891B92A1-E865-4711-BE50-3748D76F5F3C",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -37700,7 +37727,7 @@
   },
   {
     "uuid": "7A4F52D0-AB12-45C0-92DD-9CD5234D4C58",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -38235,8 +38262,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "7329917f",
     "itemGuid": "26128470-079A-45F4-A505-25DA1A02F955",
     "latestEndDate": "2020-12-15T16:00:00Z",
@@ -38245,7 +38272,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item"
   },
   {
@@ -38484,7 +38511,7 @@
   },
   {
     "uuid": "7DBFF75C-15A7-4509-9586-DDCEB62CF674",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -38751,7 +38778,7 @@
   },
   {
     "uuid": "7F3C2AA1-B1CC-4B24-B2BA-1A96C920B4BD",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -38893,7 +38920,7 @@
   },
   {
     "uuid": "805AC499-9735-4341-A127-81E40A782E82",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -39570,7 +39597,7 @@
   },
   {
     "uuid": "83954CB9-352B-40D4-8F36-A35023556A63",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -39675,7 +39702,7 @@
   },
   {
     "uuid": "84060DDA-572F-41A1-939B-6B4640811DF7",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -40315,6 +40342,7 @@
     "uuid": "87A82F75-FFD2-4C52-A4BD-184E97A6E6D5",
     "blurb": "New Permanent Gathering<br>R-Model Trons<br>Available Now",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -40322,7 +40350,8 @@
     "categoriesOld": [
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -40831,7 +40860,7 @@
   },
   {
     "uuid": "8A56840B-0B31-419A-AA9C-DED2A76DC1A7",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -42023,7 +42052,7 @@
   },
   {
     "uuid": "8FD25678-0762-4EBA-8B92-CC3114309050",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -42452,7 +42481,7 @@
   },
   {
     "uuid": "90B6026A-EFEE-4E88-BF6E-7E5AACB7E177",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "891B92A1-E865-4711-BE50-3748D76F5F3C",
@@ -42559,6 +42588,7 @@
     "uuid": "91280D7A-FAEC-46BC-89A6-BDF7AC840C29",
     "blurb": "Never run out of mining picks again!",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -42566,7 +42596,8 @@
     "categoriesOld": [
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -43025,7 +43056,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -43699,7 +43730,7 @@
       2
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -43728,7 +43759,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -44085,7 +44116,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -44255,7 +44286,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -45114,7 +45145,7 @@
   },
   {
     "uuid": "9DDA990C-5BF2-4EC5-AA28-98BAAD6A3F96",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "F4EB9C7B-E078-4247-A5C6-AF27895D1F69",
@@ -45676,7 +45707,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -45685,6 +45716,7 @@
     "categories": [
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
       "A92DEB6B-8B2C-4EC9-8B88-B372D458520E"
     ],
@@ -45692,7 +45724,8 @@
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
       "A92DEB6B-8B2C-4EC9-8B88-B372D458520E",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -45869,8 +45902,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "d12b0a7d",
     "itemGuid": "B6AEC353-E9F2-4774-A286-199EAECFD6BC",
     "latestEndDate": null,
@@ -45879,7 +45912,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item"
   },
   {
@@ -47016,7 +47049,7 @@
   },
   {
     "uuid": "A4FCD5CC-8314-4FF1-96C0-DDC20F34FF6A",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -47585,7 +47618,7 @@
   },
   {
     "uuid": "A7756AA3-A153-4231-8D9F-6D82C2FD521E",
-    "availableDate": "2024-05-21T16:00:00Z",
+    "availableDate": "2024-06-04T16:00:00Z",
     "blurb": "New weapon set available for Black Lion Claim Tickets!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
@@ -47593,11 +47626,11 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemStoreBannerItem": "77156714-7D04-4090-82BF-86CA00ACDFDE",
-    "imageHash": "b620543c",
+    "imageHash": "e26aabe9",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-05-28T16:00:00Z",
+    "removeDate": "2024-06-11T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -48138,7 +48171,7 @@
   },
   {
     "uuid": "AAFE25E1-E0C0-4544-8512-9F702DA9DEA0",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -49277,7 +49310,7 @@
   },
   {
     "uuid": "B1BD5A6F-8F66-4E36-A5C2-B8EC512FA8B7",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -49797,7 +49830,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "f6e14ec",
     "itemGuid": "FCD9431D-E1C8-4D4A-971D-9F193A6F4B4B",
     "latestEndDate": null,
@@ -49806,7 +49839,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -50353,7 +50386,7 @@
   },
   {
     "uuid": "B740FAF5-C3C4-4AC4-BF6F-0F148A6AA231",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -51606,8 +51639,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "d5ce649b",
     "itemGuid": "8E166059-D7BE-4218-AFDD-3C752D0A4220",
     "latestEndDate": null,
@@ -51616,7 +51649,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item"
   },
   {
@@ -51647,7 +51680,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -53500,7 +53533,7 @@
   },
   {
     "uuid": "C22EBEBA-3B86-4043-A2BA-CD50992638CE",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -53732,7 +53765,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "3911d3ee",
     "itemGuid": "5E1F994D-4486-46C4-84C4-8E257F0E9BF9",
     "latestEndDate": null,
@@ -53741,7 +53774,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -53931,7 +53964,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -54218,7 +54251,7 @@
   },
   {
     "uuid": "C5052662-C8F0-433E-A719-D96E8AD4EDFF",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -54648,8 +54681,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "44e109e2",
     "itemGuid": "C391344A-F04D-4304-AFF4-7D2B5A45178A",
     "latestEndDate": null,
@@ -54687,7 +54720,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -55054,7 +55087,7 @@
   },
   {
     "uuid": "C806D462-4601-4BA6-8853-66F986B77DD0",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -55203,7 +55236,7 @@
   },
   {
     "uuid": "C85ED04B-93C7-42C2-9537-C9863A656DFA",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -56277,7 +56310,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -56405,7 +56438,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "a1f93dc0",
     "itemGuid": "0AB4B2B0-FD8F-40F4-A399-178D338512F2",
     "latestEndDate": null,
@@ -56414,7 +56447,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -56472,7 +56505,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -56615,8 +56648,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
-    "giftable": false,
-    "hide": true,
+    "giftable": true,
+    "hide": false,
     "imageHash": "8a8818d3",
     "itemGuid": "8DD3A551-BC53-431F-B74E-0FD4AD3172F6",
     "latestEndDate": "2024-10-13T16:00:00Z",
@@ -57556,8 +57589,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 400,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "9879ab92",
     "itemGuid": "144198D9-EB74-4C97-BD5D-5FE122757BAB",
     "latestEndDate": null,
@@ -57566,7 +57599,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": true,
+    "returning": false,
     "type": "item"
   },
   {
@@ -57649,7 +57682,7 @@
   },
   {
     "uuid": "D42C0382-E238-4A80-9BFD-14F34FD8CFE3",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "233147A2-AFFB-4115-9BDD-4D9CE665E4B7"
@@ -57819,7 +57852,7 @@
   },
   {
     "uuid": "D6578718-C9D6-4835-B8C9-4D1CA957AA22",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "B86B0CE8-67F7-49C8-B5BB-BDD3018176BE",
@@ -58000,6 +58033,7 @@
     "uuid": "D6E17EA9-327D-465F-B472-33FCA74E9A7B",
     "blurb": "",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -58009,7 +58043,8 @@
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
       "5D9A5F19-DB16-44D1-BF90-9194A9EC6137",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -58621,7 +58656,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -59126,7 +59161,7 @@
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 135,
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "b1002242",
     "itemGuid": "5C4A12B8-78CD-4651-A00D-5A843EEC196F",
     "latestEndDate": null,
@@ -59135,7 +59170,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -59155,8 +59190,8 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 350,
-    "giftable": true,
-    "hide": false,
+    "giftable": false,
+    "hide": true,
     "imageHash": "93a0a8d0",
     "itemGuid": "3C976A65-DCF0-4FDE-AB7F-EBE2ECD9F0D9",
     "latestEndDate": null,
@@ -59553,7 +59588,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -59635,7 +59670,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -60556,7 +60591,7 @@
   },
   {
     "uuid": "E0D447E0-FB8F-43BA-99DC-96CA975FD15E",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "5D9A5F19-DB16-44D1-BF90-9194A9EC6137",
@@ -61005,7 +61040,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "11c489f5",
     "itemGuid": "7C2E1457-9A66-4B71-B4CE-D33F149D1065",
     "latestEndDate": null,
@@ -61339,7 +61374,7 @@
   },
   {
     "uuid": "E58A4DD5-B5B8-46D5-BC58-996699339699",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -61532,7 +61567,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -62377,7 +62412,8 @@
       "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
       "4C45415F-948D-4D93-8493-06585E5EDD61",
       "5D9A5F19-DB16-44D1-BF90-9194A9EC6137",
-      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -62388,7 +62424,8 @@
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
       "5D9A5F19-DB16-44D1-BF90-9194A9EC6137",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
-      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C"
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespansOld": [],
     "contents": [
@@ -62436,7 +62473,7 @@
   },
   {
     "uuid": "EC78CD89-6840-42B8-B6FF-8F71D4EC57D1",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "F4EB9C7B-E078-4247-A5C6-AF27895D1F69",
@@ -62578,7 +62615,7 @@
       2
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -63956,7 +63993,7 @@
   },
   {
     "uuid": "F2095881-6346-4B5B-94CC-3CA79E35BEE4",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -64479,7 +64516,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -64840,7 +64877,7 @@
   },
   {
     "uuid": "F5364367-49DD-47A9-B338-77E18E706918",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -64911,12 +64948,14 @@
     "categories": [
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
@@ -66252,8 +66291,8 @@
     "uuid": "FBF58F27-F6EF-4AA9-93A3-E6A3CC095AD8",
     "blurb": "Earthshaker Mining Tool now available!",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
@@ -66261,19 +66300,14 @@
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
     ],
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
           "end": "2024-04-28T16:00:00Z",
           "start": "2024-04-14T16:00:00Z"
-        }
-      ],
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F": [
-        {
-          "end": "2019-10-01T16:00:00Z",
-          "start": "2019-09-24T16:00:00Z"
         }
       ]
     },
@@ -66815,9 +66849,9 @@
     "uuid": "FEA4C6D4-4670-45A4-8CA1-B24868318CFC",
     "blurb": "Never run out of mining picks again!",
     "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
-      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
@@ -67476,7 +67510,7 @@
   },
   {
     "uuid": "A0857834-BD6B-4F36-9F98-64B238FFEA46",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -68187,7 +68221,7 @@
   },
   {
     "uuid": "0D00937B-ADCA-473D-814B-7F8C460998FF",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -68585,7 +68619,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -68628,7 +68662,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -68760,7 +68794,7 @@
   },
   {
     "uuid": "9650AFB2-AC69-494A-BCAC-8412B442CAEA",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -69150,7 +69184,7 @@
   },
   {
     "uuid": "919AA73C-356A-4260-A8CB-7A205823F9DA",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -70081,7 +70115,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -70283,7 +70317,7 @@
   },
   {
     "uuid": "A2E441D4-E9CD-4088-84E7-F734F68678DD",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -70970,7 +71004,7 @@
       58
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package",
     "gemPrice": 1400
   },
@@ -72023,7 +72057,7 @@
   },
   {
     "uuid": "B76CC028-D764-4197-8D85-6EB18DC48441",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -72273,8 +72307,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-07T16:00:00Z",
-          "start": "2024-08-24T16:00:00Z"
+          "end": "2024-09-09T16:00:00Z",
+          "start": "2024-08-26T16:00:00Z"
         }
       ]
     },
@@ -72283,6 +72317,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-31T16:00:00Z",
         "end": "2024-09-14T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-26T16:00:00Z",
+        "end": "2024-09-09T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -72474,7 +72513,7 @@
   },
   {
     "uuid": "67B27C26-51FB-46AF-85AB-B424C9D3D7A7",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0"
@@ -72876,7 +72915,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -73170,7 +73209,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -73791,7 +73830,7 @@
       45
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -73832,7 +73871,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item",
     "gemPrice": 1200
   },
@@ -73859,7 +73898,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -74639,7 +74678,7 @@
   },
   {
     "uuid": "2C69A8F3-267B-4E22-B9DA-393933BF929C",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -76567,7 +76606,7 @@
   },
   {
     "uuid": "A9BA1404-D078-4431-B64D-78DCA9E62F9A",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -77456,7 +77495,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -77784,12 +77823,12 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
     "uuid": "BD071A33-4D06-45D3-B2BB-1DFB995F659E",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -78084,7 +78123,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -78296,7 +78335,7 @@
       72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -79492,12 +79531,12 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
     "uuid": "F21983FC-3FD6-4972-9125-16BB3D7BA4A6",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -79786,7 +79825,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -80144,7 +80183,7 @@
   },
   {
     "uuid": "59E5B29D-0337-4033-B62C-65E49B86A410",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -80710,7 +80749,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -80827,7 +80866,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -81421,6 +81460,11 @@
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-23T16:00:00Z",
+        "end": "2024-09-06T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2023-08-27T16:00:00Z",
         "end": "2023-09-10T16:00:00Z"
       },
@@ -81450,8 +81494,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-08T16:00:00Z",
-          "start": "2024-08-25T16:00:00Z"
+          "end": "2024-09-06T16:00:00Z",
+          "start": "2024-08-23T16:00:00Z"
         }
       ]
     }
@@ -81732,7 +81776,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -81784,7 +81828,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -81829,7 +81873,7 @@
       2
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -81851,8 +81895,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-06T16:00:00Z",
-          "start": "2024-08-23T16:00:00Z"
+          "end": "2024-09-08T16:00:00Z",
+          "start": "2024-08-25T16:00:00Z"
         }
       ]
     },
@@ -81861,6 +81905,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-30T16:00:00Z",
         "end": "2024-09-13T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-25T16:00:00Z",
+        "end": "2024-09-08T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -81916,8 +81965,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-07T16:00:00Z",
-          "start": "2024-08-24T16:00:00Z"
+          "end": "2024-09-08T16:00:00Z",
+          "start": "2024-08-25T16:00:00Z"
         }
       ]
     },
@@ -81926,6 +81975,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-31T16:00:00Z",
         "end": "2024-09-14T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-25T16:00:00Z",
+        "end": "2024-09-08T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -82345,6 +82399,11 @@
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-24T16:00:00Z",
+        "end": "2024-09-07T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2023-08-28T16:00:00Z",
         "end": "2023-09-11T16:00:00Z"
       },
@@ -82374,8 +82433,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-09T16:00:00Z",
-          "start": "2024-08-26T16:00:00Z"
+          "end": "2024-09-07T16:00:00Z",
+          "start": "2024-08-24T16:00:00Z"
         }
       ]
     }
@@ -82484,7 +82543,7 @@
   },
   {
     "uuid": "E0BD1233-9D8F-4159-BA1A-C03966ED0E1C",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -82951,7 +83010,7 @@
   },
   {
     "uuid": "BF71B675-FB4F-4A13-BB6E-6025A81F20FD",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -84284,8 +84343,7 @@
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "2919480C-0389-4431-8B7C-F95E7E5D0760",
-      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
     ],
     "categoriesOld": [
       "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
@@ -84359,7 +84417,7 @@
     "description": "This pack of gathering tools offers all the benefits of the Herald of Aurene gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
     "excludedFeatures": [],
     "giftable": true,
-    "hide": false,
+    "hide": true,
     "imageHash": "8fa86135",
     "latestEndDate": "2024-11-02T16:00:00Z",
     "latestStartDate": "2024-10-19T16:00:00Z",
@@ -84758,7 +84816,7 @@
   },
   {
     "uuid": "C5882F95-8232-4D48-86D1-16AE8EC87C81",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -85388,7 +85446,7 @@
   },
   {
     "uuid": "1E92BC7E-31CF-4111-B1E3-55034D2E1224",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -85553,7 +85611,7 @@
       72
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -86082,7 +86140,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -86337,7 +86395,7 @@
       2
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -87307,7 +87365,7 @@
   },
   {
     "uuid": "75747908-0559-430F-9D00-C6AD6D334735",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -87446,7 +87504,7 @@
   },
   {
     "uuid": "A6726580-BA2C-45F0-B10E-C3F8279BA9ED",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -87944,18 +88002,18 @@
   },
   {
     "uuid": "251EC0A8-3D93-4D8A-B79C-3932B9049D51",
-    "availableDate": "2024-04-26T16:00:00Z",
+    "availableDate": "2024-07-26T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Weapon Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "84E55465-B32F-4B50-A633-1CAE71368C17",
-    "imageHash": "4e1168c0",
+    "gemStoreBannerItem": "25F14999-3043-4CD1-905C-62780EC26023",
+    "imageHash": "91d5cc62",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-04-30T16:00:00Z",
+    "removeDate": "2024-07-30T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -87980,36 +88038,36 @@
   },
   {
     "uuid": "3A46CAD4-6295-4660-A8DB-9ABDED011DA1",
-    "availableDate": "2024-04-19T16:00:00Z",
+    "availableDate": "2024-07-19T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Back Items!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "64A8F2C2-72CE-467A-9708-4F2ADDE411BA",
-    "imageHash": "b56b84b0",
+    "gemStoreBannerItem": "D6F3CCA9-E989-4313-8E96-64832CB1D95F",
+    "imageHash": "524048c3",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-04-23T16:00:00Z",
+    "removeDate": "2024-07-23T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "3EFF1F2B-E3B0-4B29-B9D5-E50F8D6D33C1",
-    "availableDate": "2024-04-12T16:00:00Z",
+    "availableDate": "2024-07-12T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Tools!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "B7D253A6-1AC1-467A-8C9E-48098EA52D2C",
-    "imageHash": "f441f1c4",
+    "gemStoreBannerItem": "246D03D8-226E-4390-8A89-28FEF544F608",
+    "imageHash": "bf0e0350",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-04-16T16:00:00Z",
+    "removeDate": "2024-07-16T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -88120,36 +88178,36 @@
   },
   {
     "uuid": "6199CBD0-DDD4-4ED1-BC30-982EA6585A3C",
-    "availableDate": "2024-05-17T16:00:00Z",
+    "availableDate": "2024-08-16T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Mount Licenses and Packs!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "A93FE4EA-4660-4571-96A4-3A28447C5D4D",
-    "imageHash": "5973ee30",
+    "gemStoreBannerItem": "95D45CE3-5CA7-499F-B3B6-E4B6696B9CFA",
+    "imageHash": "ad9318d4",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-05-21T16:00:00Z",
+    "removeDate": "2024-08-20T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "63F74C0F-5B34-4E3F-AF7F-6103BEB05128",
-    "availableDate": "2024-03-29T16:00:00Z",
+    "availableDate": "2024-06-28T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Gliders!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "F15FC2FF-E35F-403D-93C5-E4EF692781EA",
-    "imageHash": "c7741f69",
+    "gemStoreBannerItem": "21D55312-6EBC-4441-9BAD-DF8C54314CCD",
+    "imageHash": "7e12f18c",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-04-02T16:00:00Z",
+    "removeDate": "2024-07-02T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -88291,36 +88349,36 @@
   },
   {
     "uuid": "ADBE914C-CE0E-4407-8EEA-011AFEC57C73",
-    "availableDate": "2024-05-10T16:00:00Z",
+    "availableDate": "2024-08-09T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Dye Kits!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "1237BD26-4170-4116-AFD9-FE73CF937E22",
-    "imageHash": "430cd877",
+    "gemStoreBannerItem": "310C5CA3-9738-434D-896A-4844BB4C64AF",
+    "imageHash": "66dbd325",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-05-14T16:00:00Z",
+    "removeDate": "2024-08-13T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "B059D1AE-CFB5-4E10-A327-B9CF839C8726",
-    "availableDate": "2024-03-15T16:00:00Z",
+    "availableDate": "2024-06-14T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Outfits!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "FF894830-633A-4E5F-A896-538E08626295",
-    "imageHash": "fafc446c",
+    "gemStoreBannerItem": "FB10B9A9-F34C-47C3-9F3E-C1F7788B45F4",
+    "imageHash": "3fa86894",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-03-19T16:00:00Z",
+    "removeDate": "2024-06-18T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -88380,90 +88438,90 @@
   },
   {
     "uuid": "BC6F37B1-3FCA-4639-8C16-E70AA2504591",
-    "availableDate": "2024-03-22T16:00:00Z",
+    "availableDate": "2024-06-21T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Minis!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "435A7DBA-CEAB-456F-8D30-CC46FB361B2A",
-    "imageHash": "810c35a1",
+    "gemStoreBannerItem": "42CED7CA-8F65-453B-8945-71CC73CBDB3A",
+    "imageHash": "ee4d3ed2",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-03-26T16:00:00Z",
+    "removeDate": "2024-06-25T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "C533D8D1-09FA-4FFF-8D1C-122AF8AD17D3",
-    "availableDate": "2024-04-05T16:00:00Z",
+    "availableDate": "2024-07-05T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Armor Skin Sets!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "1293E82C-1B6C-402C-A94F-C17B93326429",
-    "imageHash": "14e98126",
+    "gemStoreBannerItem": "E6CC0872-0B04-4DD5-B42F-34D6CFA3830B",
+    "imageHash": "b5cfc8a6",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-04-09T16:00:00Z",
+    "removeDate": "2024-07-09T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "D197AA3F-9A2A-48F3-9654-D23B1188EFEA",
-    "availableDate": "2024-05-03T16:00:00Z",
+    "availableDate": "2024-08-02T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Novelty Chairs!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "BE474E11-6A7B-4CCB-B077-86E86EC9D433",
-    "imageHash": "f2acfb81",
+    "gemStoreBannerItem": "8ED69AD7-0547-489F-A7BF-8C1AA319F45E",
+    "imageHash": "22578510",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-05-07T16:00:00Z",
+    "removeDate": "2024-08-06T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "DAEA9819-D342-45B0-BA49-A58632587EF3",
-    "availableDate": "2024-05-24T16:00:00Z",
+    "availableDate": "2024-08-23T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Mount Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "6E30EE20-142F-409F-B2E7-609B157CFE00",
-    "imageHash": "96666c50",
+    "gemStoreBannerItem": "A9BFF2A3-D5F4-4A77-A9DD-71F4F376390F",
+    "imageHash": "8f3c16b4",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-05-28T16:00:00Z",
+    "removeDate": "2024-08-27T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "DFE308FC-C538-47FB-A003-9C212CEE4FF7",
-    "availableDate": "2024-03-08T16:00:00Z",
+    "availableDate": "2024-06-07T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Armor Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "495336A3-DB4D-434F-898E-502A9DCD3CAE",
-    "imageHash": "9474a5ba",
+    "gemStoreBannerItem": "A3634442-02C7-4452-80C2-47A1EEEAC639",
+    "imageHash": "43152617",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-03-12T16:00:00Z",
+    "removeDate": "2024-06-11T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -88786,7 +88844,7 @@
   },
   {
     "uuid": "85967500-DAD8-4AF4-B81C-F7B75FDE159B",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -89730,6 +89788,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-06-30T16:00:00Z",
         "end": "2024-07-14T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-06-28T16:00:00Z",
+        "end": "2024-07-12T16:00:00Z"
       }
     ],
     "contents": [
@@ -89768,8 +89831,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-07-14T16:00:00Z",
-          "start": "2024-06-30T16:00:00Z"
+          "end": "2024-07-12T16:00:00Z",
+          "start": "2024-06-28T16:00:00Z"
         }
       ]
     }
@@ -89923,7 +89986,7 @@
   },
   {
     "uuid": "8A1C6988-23AE-40B1-B1DD-A8F02704B58D",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -90229,8 +90292,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-08T16:00:00Z",
-          "start": "2024-08-25T16:00:00Z"
+          "end": "2024-09-07T16:00:00Z",
+          "start": "2024-08-24T16:00:00Z"
         }
       ]
     },
@@ -90244,6 +90307,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-25T16:00:00Z",
         "end": "2024-09-08T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-24T16:00:00Z",
+        "end": "2024-09-07T16:00:00Z"
       },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
@@ -90350,7 +90418,7 @@
   },
   {
     "uuid": "7E5B76F8-BCEB-4D82-B909-945EAEC7971D",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -90393,8 +90461,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-09T16:00:00Z",
-          "start": "2024-08-26T16:00:00Z"
+          "end": "2024-09-06T16:00:00Z",
+          "start": "2024-08-23T16:00:00Z"
         }
       ]
     },
@@ -90408,6 +90476,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-26T16:00:00Z",
         "end": "2024-09-09T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-23T16:00:00Z",
+        "end": "2024-09-06T16:00:00Z"
       },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
@@ -90570,22 +90643,29 @@
     "blurb": "Trapper's Fur Cape now available!",
     "categories": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
-      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "A0361A06-68A8-481C-914A-AD353BD9A5BC",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-03-26T16:00:00Z",
-          "start": "2024-03-05T16:00:00Z"
+          "end": "2024-11-01T16:00:00Z",
+          "start": "2024-10-18T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-10-18T16:00:00Z",
+        "end": "2024-11-01T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-03-05T16:00:00Z",
@@ -90609,13 +90689,13 @@
     "giftable": true,
     "hide": false,
     "imageHash": "4237f777",
-    "latestEndDate": "2024-03-26T16:00:00Z",
-    "latestStartDate": "2024-03-05T16:00:00Z",
+    "latestEndDate": "2024-11-01T16:00:00Z",
+    "latestStartDate": "2024-10-18T16:00:00Z",
     "name": "Trapper's Fur Cape Skin",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -90713,7 +90793,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -90721,22 +90801,29 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-03-26T16:00:00Z",
-          "start": "2024-02-27T16:00:00Z"
+          "end": "2024-08-30T16:00:00Z",
+          "start": "2024-08-16T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-16T16:00:00Z",
+        "end": "2024-08-30T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-02-27T16:00:00Z",
@@ -90750,8 +90837,8 @@
     "hide": false,
     "imageHash": "e716f8ba",
     "itemGuid": "ED9D22A8-0219-43BC-B190-CCA81FC5D592",
-    "latestEndDate": "2024-03-26T16:00:00Z",
-    "latestStartDate": "2024-02-27T16:00:00Z",
+    "latestEndDate": "2024-08-30T16:00:00Z",
+    "latestStartDate": "2024-08-16T16:00:00Z",
     "name": "Reclaimed Bonds Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
@@ -90759,7 +90846,7 @@
       72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -90767,22 +90854,29 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-03-26T16:00:00Z",
-          "start": "2024-02-27T16:00:00Z"
+          "end": "2024-08-30T16:00:00Z",
+          "start": "2024-08-16T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-16T16:00:00Z",
+        "end": "2024-08-30T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-02-27T16:00:00Z",
@@ -90796,8 +90890,8 @@
     "hide": false,
     "imageHash": "1f860b57",
     "itemGuid": "C35C5E8A-3FC1-438C-9071-CB0D7211AE21",
-    "latestEndDate": "2024-03-26T16:00:00Z",
-    "latestStartDate": "2024-02-27T16:00:00Z",
+    "latestEndDate": "2024-08-30T16:00:00Z",
+    "latestStartDate": "2024-08-16T16:00:00Z",
     "name": "Reclaimed Bonds Mount Adoption License",
     "randomchance": true,
     "requiredFeatures": [
@@ -90805,7 +90899,7 @@
       72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -90813,22 +90907,29 @@
     "blurb": "Baggy Cargo Pants now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "61A97107-0422-4F31-8405-2F5565434BE1"
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "61A97107-0422-4F31-8405-2F5565434BE1",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-04-09T16:00:00Z",
-          "start": "2024-03-12T16:00:00Z"
+          "end": "2024-09-20T16:00:00Z",
+          "start": "2024-09-06T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-09-06T16:00:00Z",
+        "end": "2024-09-20T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-03-12T16:00:00Z",
@@ -90847,13 +90948,13 @@
     "hide": false,
     "imageHash": "2ef8a6fa",
     "itemGuid": "35241CE2-82F0-4A53-A125-BD229212E5FF",
-    "latestEndDate": "2024-04-09T16:00:00Z",
-    "latestStartDate": "2024-03-12T16:00:00Z",
+    "latestEndDate": "2024-09-20T16:00:00Z",
+    "latestStartDate": "2024-09-06T16:00:00Z",
     "name": "Baggy Cargo Pants Skin",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -90861,22 +90962,29 @@
     "blurb": "Fashionable Kilt now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "61A97107-0422-4F31-8405-2F5565434BE1"
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "61A97107-0422-4F31-8405-2F5565434BE1",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-03-26T16:00:00Z",
-          "start": "2024-02-27T16:00:00Z"
+          "end": "2024-06-21T16:00:00Z",
+          "start": "2024-06-07T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-06-07T16:00:00Z",
+        "end": "2024-06-21T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-02-27T16:00:00Z",
@@ -90890,13 +90998,13 @@
     "hide": false,
     "imageHash": "f91bcf0b",
     "itemGuid": "3E3317A1-CEB4-4E33-9600-56D426C58C82",
-    "latestEndDate": "2024-03-26T16:00:00Z",
-    "latestStartDate": "2024-02-27T16:00:00Z",
+    "latestEndDate": "2024-06-21T16:00:00Z",
+    "latestStartDate": "2024-06-07T16:00:00Z",
     "name": "Fashionable Kilt Skin",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -90969,7 +91077,7 @@
       2
     ],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -91023,22 +91131,29 @@
     "blurb": "",
     "categories": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "ABDFF38E-C19F-443C-A66A-2E25E6261D34"
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
       "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-04-23T16:00:00Z",
-          "start": "2024-04-02T16:00:00Z"
+          "end": "2024-11-22T16:00:00Z",
+          "start": "2024-11-08T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-11-08T16:00:00Z",
+        "end": "2024-11-22T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-04-02T16:00:00Z",
@@ -91052,13 +91167,13 @@
     "hide": false,
     "imageHash": "aa38c2e7",
     "itemGuid": "49684687-B1EF-4BC8-9E5A-0F5CE99EDD48",
-    "latestEndDate": "2024-04-23T16:00:00Z",
-    "latestStartDate": "2024-04-02T16:00:00Z",
+    "latestEndDate": "2024-11-22T16:00:00Z",
+    "latestStartDate": "2024-11-08T16:00:00Z",
     "name": "Smooth Berry Dye Kit",
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -91094,24 +91209,31 @@
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
-      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3"
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-04-23T16:00:00Z",
-          "start": "2024-03-26T16:00:00Z"
+          "end": "2024-10-14T16:00:00Z",
+          "start": "2024-09-30T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-09-30T16:00:00Z",
+        "end": "2024-10-14T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-03-26T16:00:00Z",
@@ -91140,8 +91262,8 @@
     "giftable": true,
     "hide": false,
     "imageHash": "cb7b191",
-    "latestEndDate": "2024-04-23T16:00:00Z",
-    "latestStartDate": "2024-03-26T16:00:00Z",
+    "latestEndDate": "2024-10-14T16:00:00Z",
+    "latestStartDate": "2024-09-30T16:00:00Z",
     "name": "Shattered Stone Wings Backpack and Glider Combo",
     "randomchance": false,
     "requiredFeatures": [
@@ -91149,12 +91271,12 @@
       58
     ],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
     "uuid": "A24B8BAB-EEE1-4DB1-88B1-2D130993019F",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -91185,21 +91307,28 @@
     "uuid": "B91AAE68-18EC-47AA-868D-9F24C29E3979",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-04-23T16:00:00Z",
-          "start": "2024-03-19T16:00:00Z"
+          "end": "2024-11-08T16:00:00Z",
+          "start": "2024-10-25T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-10-25T16:00:00Z",
+        "end": "2024-11-08T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-03-19T16:00:00Z",
@@ -91213,34 +91342,41 @@
     "hide": false,
     "imageHash": "4193331e",
     "itemGuid": "E81ED619-F1CD-4F6E-B388-D0432F5ECC2F",
-    "latestEndDate": "2024-04-23T16:00:00Z",
-    "latestStartDate": "2024-03-19T16:00:00Z",
+    "latestEndDate": "2024-11-08T16:00:00Z",
+    "latestStartDate": "2024-10-25T16:00:00Z",
     "name": "Synergetics Energized Shield Skin",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
     "uuid": "C64985AD-64B9-4FCE-8313-A92EA3E02187",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-04-23T16:00:00Z",
-          "start": "2024-04-09T16:00:00Z"
+          "end": "2024-11-08T16:00:00Z",
+          "start": "2024-10-25T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-10-25T16:00:00Z",
+        "end": "2024-11-08T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-04-09T16:00:00Z",
@@ -91254,13 +91390,13 @@
     "hide": false,
     "imageHash": "a60eab17",
     "itemGuid": "1748C728-33EC-4210-B3D6-3C860AF20FA6",
-    "latestEndDate": "2024-04-23T16:00:00Z",
-    "latestStartDate": "2024-04-09T16:00:00Z",
+    "latestEndDate": "2024-11-08T16:00:00Z",
+    "latestStartDate": "2024-10-25T16:00:00Z",
     "name": "Devil-Rending Dagger Skin",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -91335,7 +91471,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -91343,8 +91479,7 @@
     "blurb": "Delicate Lace Cape now available!",
     "categories": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
-      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
     ],
     "categoriesOld": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
@@ -91474,7 +91609,7 @@
     "randomchance": true,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -91521,7 +91656,7 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -91556,8 +91691,7 @@
     "uuid": "730E9E62-0CA5-4283-B8B4-03CF99453420",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -91601,7 +91735,7 @@
   },
   {
     "uuid": "7E4B7AB6-6921-435A-8BCF-2FF36B4C33A5",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
@@ -91877,8 +92011,7 @@
     "blurb": "Howl in the wind with the Wolf Griffon Skin!",
     "categories": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
@@ -91934,7 +92067,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-06-11T16:00:00Z",
+          "end": "2024-06-18T16:00:00Z",
           "start": "2024-05-28T16:00:00Z"
         }
       ]
@@ -91944,6 +92077,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-05-28T16:00:00Z",
         "end": "2024-06-11T16:00:00Z"
+      },
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-05-28T16:00:00Z",
+        "end": "2024-06-18T16:00:00Z"
       }
     ],
     "dataId": 101766,
@@ -91990,10 +92128,9 @@
   },
   {
     "uuid": "CD1888F5-7948-448E-9A25-F70BEE4E6E53",
-    "blurb": "((Take to the skies with a new glider skin!))",
+    "blurb": "Take to the skies with a new glider skin!",
     "categories": [
-      "F12B786F-018A-4207-B169-89CA41BDFCCD",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
     ],
     "categoriesOld": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
@@ -92075,6 +92212,989 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "0561A8DB-6CDD-407B-8720-143688FE7CD9",
+    "blurb": "Luxury Speeder Skiff Skin now available!",
+    "categories": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-02T16:00:00Z",
+          "start": "2024-06-18T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-18T16:00:00Z",
+        "end": "2024-07-02T16:00:00Z"
+      }
+    ],
+    "dataId": 101983,
+    "description": "Double-click to unlock this skiff skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "69eea2f9",
+    "itemGuid": "282AA55A-F32F-45D0-9DF4-55240B230D61",
+    "latestEndDate": "2024-07-02T16:00:00Z",
+    "latestStartDate": "2024-06-18T16:00:00Z",
+    "name": "Luxury Speeder Skiff Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      65
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "0903387A-0373-4D27-B681-F994EE93FE3C",
+    "blurb": "Disguised Umbrella Skin now available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-02T16:00:00Z",
+          "start": "2024-06-11T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-11T16:00:00Z",
+        "end": "2024-07-02T16:00:00Z"
+      }
+    ],
+    "dataId": 101967,
+    "description": "Double-click to apply this look to any other sword. This will also unlock this skin for your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "31caef45",
+    "itemGuid": "0D79042D-B90C-4A38-8929-57207E7BA587",
+    "latestEndDate": "2024-07-02T16:00:00Z",
+    "latestStartDate": "2024-06-11T16:00:00Z",
+    "name": "Disguised Umbrella Sword Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "15F7A567-4055-4043-A770-B47EB3C7CBD6",
+    "blurb": "Prepurchase Guild Wars 2: Janthir Wilds<br>\nBuy Now",
+    "categories": [
+      "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
+    ],
+    "categoriesOld": [
+      "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102029,
+    "description": "",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": true,
+    "imageHash": "f84225b",
+    "itemGuid": "9B169E46-1BE2-499D-A584-0773FF8EDFCB",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "1C405853-134A-4516-9A4A-A1154CD73EF2",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102049,
+    "description": "Perfect for use on all types of trees. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "782ee4d5",
+    "itemGuid": "CB4C9C82-29B2-4D30-9846-E4AD6836655F",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Herald of Aurene Logging Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "248B998A-0F75-4388-B27D-E435E078A354",
+    "blurb": "",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoryLifespans": {
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
+        {
+          "end": "2024-04-27T16:00:00Z",
+          "start": "2024-04-13T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-04-13T16:00:00Z",
+        "end": "2024-04-27T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "A5E7462F-C010-4312-988F-3A8D1CED26FC",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "8FADB7BE-4CFE-4372-96F8-DBD9F9D6BB40",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "2C3E225F-E321-457B-A71D-E120C0A6E513",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "47206BD2-33A4-498E-B206-B99656A9AFF8",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "14505736-AE28-4A7C-8914-B6322EDACB5E",
+        "quantity": 3
+      }
+    ],
+    "description": "This pack of gathering tools offers all the benefits of the Unbound Magic gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "3e5a214d",
+    "latestEndDate": "2024-04-27T16:00:00Z",
+    "latestStartDate": "2024-04-13T16:00:00Z",
+    "name": "Infinite Unbound Magic Gathering Tools",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": true,
+    "type": "package"
+  },
+  {
+    "uuid": "269B2DCA-CAEF-49D2-8984-07CF3F40C73E",
+    "blurb": "((Guild Wars 2: Janthir Wilds<br>Deluxe Upgrade))",
+    "categories": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61"
+    ],
+    "categoriesOld": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61"
+    ],
+    "categoryLifespansOld": [],
+    "description": "((Upgrade your Guild Wars 2: Janthir Wilds edition to Digital Deluxe and receive the following in-game items:\n• Additional Character Slot\n• Identity Repair Kit\n• Wayfinder's Versatile Table Homestead Decoration\n• Eldritch Gathering Tools Set\n\nItems will be delivered next time you log in.))",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "5adf89c5",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "((Janthir Wilds—Deluxe Upgrade))",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "sku": 301,
+    "type": "upgrade"
+  },
+  {
+    "uuid": "2C3E225F-E321-457B-A71D-E120C0A6E513",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101975,
+    "description": "Used to gather all plants. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "c2d466f",
+    "itemGuid": "17F3BF86-8E82-4D4C-B27F-45ECF6843471",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Unbound Magic Harvesting Blast",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2FE212E8-3A96-419D-9A78-823CBE79556F",
+    "blurb": "",
+    "categories": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoriesOld": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102032,
+    "description": "Used to mine all metals. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "79d96759",
+    "itemGuid": "A4D26EB7-64DA-4FCF-81DB-EB28E3BAF04E",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Herald of Aurene Mining Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "34EDFE96-6274-4AD3-B704-40B9E2F5232C",
+    "blurb": "",
+    "categories": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoriesOld": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101989,
+    "description": "Used to mine all metals. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "6806e780",
+    "itemGuid": "35214590-DC03-46F7-9B38-6A64C688A6E5",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Volatile Magic Mining Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "3D73C08E-66B9-4F14-86E7-530D474A0AEB",
+    "blurb": "Striated Caprine Warclaw Skin",
+    "categories": [
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+    ],
+    "categoriesOld": [
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102001,
+    "description": "Double-click to unlock this warclaw mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "12fe5316",
+    "itemGuid": "502E4614-D8E5-4768-8549-D2E780A37F9E",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Striated Caprine Warclaw Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "3F87A28E-115C-45BF-978D-867EDCEFA714",
+    "blurb": "Charged Caprine Warclaw Skin",
+    "categories": [
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+    ],
+    "categoriesOld": [
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102005,
+    "description": "Double-click to unlock this warclaw mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "a49458d6",
+    "itemGuid": "5C673756-D72A-4C12-BF08-F81438AA4EA2",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Charged Caprine Warclaw Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "56AC3236-F3C0-4526-AB40-DA781B7478B4",
+    "blurb": "",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoryLifespans": {
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
+        {
+          "end": "2024-10-26T16:00:00Z",
+          "start": "2024-10-12T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-10-12T16:00:00Z",
+        "end": "2024-10-26T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "34EDFE96-6274-4AD3-B704-40B9E2F5232C",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "6C24FC2F-5B28-4486-BEE9-5BEDC5B7309F",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "573EE320-D3DE-4EAB-83AD-1FF9B781709C",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "14505736-AE28-4A7C-8914-B6322EDACB5E",
+        "quantity": 3
+      }
+    ],
+    "description": "This pack of gathering tools offers all the benefits of the Volatile Magic gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "45b95501",
+    "latestEndDate": "2024-10-26T16:00:00Z",
+    "latestStartDate": "2024-10-12T16:00:00Z",
+    "name": "Infinite Volatile Magic Gathering Tools",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": true,
+    "type": "package"
+  },
+  {
+    "uuid": "573EE320-D3DE-4EAB-83AD-1FF9B781709C",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102006,
+    "description": "Used to harvest all plants. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "36023470",
+    "itemGuid": "5D3AE650-FF6D-4D67-9F0D-73EAF025A21E",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Volatile Magic Harvesting Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "6C24FC2F-5B28-4486-BEE9-5BEDC5B7309F",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101992,
+    "description": "Perfect for use on all types of trees. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "a61f47cc",
+    "itemGuid": "3ACC9E0A-1D55-4158-A29A-405047E9B751",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Volatile Magic Logging Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "7DD6F146-DF09-422D-A338-C32D0F5FB687",
+    "blurb": "",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoryLifespans": {
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
+        {
+          "end": "2024-01-28T16:00:00Z",
+          "start": "2024-01-14T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-01-14T16:00:00Z",
+        "end": "2024-01-28T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "A52EAA22-BE1B-4391-90D0-A399B87BBA66",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "F06D3979-098E-4813-A8E7-83BAC7A7A7C1",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "A27E9215-6ADC-4F40-977C-C67754FE8105",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "14505736-AE28-4A7C-8914-B6322EDACB5E",
+        "quantity": 3
+      }
+    ],
+    "description": "This pack of gathering tools offers all the benefits of the Spirits of the Wild gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "95be95ac",
+    "latestEndDate": "2024-01-28T16:00:00Z",
+    "latestStartDate": "2024-01-14T16:00:00Z",
+    "name": "Infinite Spirits of the Wild Gathering Tools",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": true,
+    "type": "package"
+  },
+  {
+    "uuid": "84B22794-FFDB-446A-96BA-B48AAF6BC6C6",
+    "blurb": "",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
+    ],
+    "categoryLifespans": {
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
+        {
+          "end": "2024-10-26T16:00:00Z",
+          "start": "2024-10-12T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-10-12T16:00:00Z",
+        "end": "2024-10-26T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "2FE212E8-3A96-419D-9A78-823CBE79556F",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "1C405853-134A-4516-9A4A-A1154CD73EF2",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "F580CA93-3932-4090-8574-24F1583A20BD",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "14505736-AE28-4A7C-8914-B6322EDACB5E",
+        "quantity": 3
+      }
+    ],
+    "description": "This pack of gathering tools offers all the benefits of the Herald of Aurene gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "8fa86135",
+    "latestEndDate": "2024-10-26T16:00:00Z",
+    "latestStartDate": "2024-10-12T16:00:00Z",
+    "name": "Infinite Herald of Aurene Gathering Tools",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": true,
+    "type": "package"
+  },
+  {
+    "uuid": "8FADB7BE-4CFE-4372-96F8-DBD9F9D6BB40",
+    "blurb": "",
+    "categories": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoriesOld": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102018,
+    "description": "Used to mine all metals. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "ad990a46",
+    "itemGuid": "8410C793-0441-4C32-A8B6-596C12B6DF12",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Unbound Magic Mining Beam",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A27E9215-6ADC-4F40-977C-C67754FE8105",
+    "blurb": "Never run out of mining picks again!",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102007,
+    "description": "Used to mine all metals. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "d2c52450",
+    "itemGuid": "68D38E4E-76F2-4230-AAD0-DC641BC521EC",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Spirit of Bear Mining Tool",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A4AD1F14-AB66-44E3-BAF8-813246B8F488",
+    "blurb": "Janthir Caprine Warclaw Mount Pack now available!",
+    "categories": [
+      "1CEB8F58-1473-46B0-BBD8-B6683A613233",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "1CEB8F58-1473-46B0-BBD8-B6683A613233",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-02T16:00:00Z",
+          "start": "2024-06-04T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-04T16:00:00Z",
+        "end": "2024-07-02T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "3D73C08E-66B9-4F14-86E7-530D474A0AEB",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "C70FF99A-5F18-4798-9E42-FD0E2AB12EDD",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "3F87A28E-115C-45BF-978D-867EDCEFA714",
+        "quantity": 1
+      }
+    ],
+    "description": "This will change the appearance of your mount and unlock this mount skin for all characters on your account. Mounts must be unlocked before mount skins can be applied.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "df0e5825",
+    "latestEndDate": "2024-07-02T16:00:00Z",
+    "latestStartDate": "2024-06-04T16:00:00Z",
+    "name": "Janthir Caprine Warclaw Mount Pack",
+    "randomchance": false,
+    "requiredFeatures": [
+      58
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "A52EAA22-BE1B-4391-90D0-A399B87BBA66",
+    "blurb": "Harvesting for<br>any character<br>for all time!",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102046,
+    "description": "Used to harvest all plants. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "41b55e98",
+    "itemGuid": "C335C505-4C97-4FD4-9EBF-B9459B8B9453",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Spirit of Raven Harvesting Tool",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A5E7462F-C010-4312-988F-3A8D1CED26FC",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102065,
+    "description": "Used to chop down all saplings. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "4fd85927",
+    "itemGuid": "F0861526-003C-42C4-9985-AAB2F7AFBB7F",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Unbound Magic Logging Pulse",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "C70FF99A-5F18-4798-9E42-FD0E2AB12EDD",
+    "blurb": "Highland Caprine Warclaw Skin",
+    "categories": [
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+    ],
+    "categoriesOld": [
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102054,
+    "description": "Double-click to unlock this warclaw mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "c3a4fa16",
+    "itemGuid": "DDD4598E-28F0-493B-980E-9532779F3E8B",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Highland Caprine Warclaw Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "CD4D57F3-051D-4599-AB3D-50D82CE69EF2",
+    "blurb": "Secrets of the Obscure Expedition Contract",
+    "categories": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
+    ],
+    "categoriesOld": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101965,
+    "description": "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria and the Mists. \nExpedition options include the following:\n• Skywatch Archipelago\n• Amyntas\n• Inner Nayos\n• Rifts",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": true,
+    "imageHash": "44e4c6dd",
+    "itemGuid": "0A9D0DC5-1C26-4141-8B95-347524FC6775",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Secrets of the Obscure Expedition Contract",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "F06D3979-098E-4813-A8E7-83BAC7A7A7C1",
+    "blurb": "Logging for<br>any character<br>for all time!",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102008,
+    "description": "Perfect for use on all types of trees. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "592e918",
+    "itemGuid": "69AB3B55-7AB9-464A-A43E-944AD62B8C84",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Spirit of Wolf Logging Tool",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "F580CA93-3932-4090-8574-24F1583A20BD",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 101990,
+    "description": "Used to harvest all plants. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "ad9e2543",
+    "itemGuid": "36072036-9FBA-491E-B1AD-912B14E7DC8F",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Herald of Aurene Harvesting Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
     "returning": false,
     "type": "item"
   }

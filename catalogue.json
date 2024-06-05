@@ -92453,7 +92453,7 @@
     "description": "((Upgrade your Guild Wars 2: Janthir Wilds edition to Digital Deluxe and receive the following in-game items:\n• Additional Character Slot\n• Identity Repair Kit\n• Wayfinder's Versatile Table Homestead Decoration\n• Eldritch Gathering Tools Set\n\nItems will be delivered next time you log in.))",
     "excludedFeatures": [],
     "giftable": false,
-    "hide": false,
+    "hide": true,
     "imageHash": "5adf89c5",
     "latestEndDate": null,
     "latestStartDate": null,

@@ -37113,7 +37113,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "d2a2757d",
+    "imageHash": "1b02f439",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -89260,7 +89260,6 @@
     "uuid": "250BBFA2-B36E-4FD3-B455-87E7E0C7EE1D",
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
@@ -92056,8 +92055,7 @@
     "blurb": "Raven Vest is now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -92176,8 +92174,7 @@
     "blurb": "Raven Leggings now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "61A97107-0422-4F31-8405-2F5565434BE1",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "61A97107-0422-4F31-8405-2F5565434BE1"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -92263,8 +92260,7 @@
     "uuid": "0903387A-0373-4D27-B681-F994EE93FE3C",
     "blurb": "Disguised Umbrella Skin now available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -92963,8 +92959,7 @@
     "categories": [
       "1CEB8F58-1473-46B0-BBD8-B6683A613233",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "FC34C13F-D39A-4DEF-8089-4C3658239E1F",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "FC34C13F-D39A-4DEF-8089-4C3658239E1F"
     ],
     "categoriesOld": [
       "1CEB8F58-1473-46B0-BBD8-B6683A613233",
@@ -93195,6 +93190,316 @@
       2
     ],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "071083B6-CDEA-4ED6-A8C5-F181D5ADB6E6",
+    "blurb": "Get ready for the beach! The Long-Awaited Vacation Appearance Package is now available!",
+    "categories": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "CEFF54BF-33FF-4238-9940-B8C238C22AA7",
+      "997382D1-4123-4B79-8EBE-9116D3EB23B1",
+      "D6BC7A0B-07F7-4482-A090-06FEB621932D",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "F279DD87-F364-469C-98EF-5FA1DC3E175C",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "CEFF54BF-33FF-4238-9940-B8C238C22AA7",
+      "997382D1-4123-4B79-8EBE-9116D3EB23B1",
+      "D6BC7A0B-07F7-4482-A090-06FEB621932D",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "F279DD87-F364-469C-98EF-5FA1DC3E175C",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-16T16:00:00Z",
+          "start": "2024-06-25T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-25T16:00:00Z",
+        "end": "2024-07-16T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "B3424E8F-CC10-4BC0-923B-28A133E5492B",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "76AB1A1D-57FA-4119-B700-DAF02ED779F6",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "F6CC482B-54F2-4E48-B250-02E8B8582069",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "197A7A03-776F-4A0F-B14D-3130DCAD6953",
+        "quantity": 1
+      }
+    ],
+    "description": "Appearance skins override the look of your equipment and have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "9040938c",
+    "latestEndDate": "2024-07-16T16:00:00Z",
+    "latestStartDate": "2024-06-25T16:00:00Z",
+    "name": "Long-Awaited Vacation Appearance Package",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "21C7EB5E-64B2-41E4-9DD9-260045DA3111",
+    "blurb": "Exclusive weapon<br>skins available!",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-16T16:00:00Z",
+          "start": "2024-07-02T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-02T16:00:00Z",
+        "end": "2024-07-16T16:00:00Z"
+      }
+    ],
+    "dataId": 102097,
+    "description": "Double-click to apply this look to any other shield.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "6d303d59",
+    "itemGuid": "FFD452CB-8BFD-4877-8A49-6BBA76372AF8",
+    "latestEndDate": "2024-07-16T16:00:00Z",
+    "latestStartDate": "2024-07-02T16:00:00Z",
+    "name": "Disguised Fan Shield Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "3848F830-5499-4BC3-975C-F4DE0DADEDBF",
+    "blurb": "Summer Sale<br>\nUp to 75% Off Expansions<br>\nBuy Now",
+    "categories": [
+      "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
+    ],
+    "categoriesOld": [
+      "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102078,
+    "description": "",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "7acbcab8",
+    "itemGuid": "56C2F79C-34BA-463B-9F85-09817120319D",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "76AB1A1D-57FA-4119-B700-DAF02ED779F6",
+    "blurb": "",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "CEFF54BF-33FF-4238-9940-B8C238C22AA7",
+      "997382D1-4123-4B79-8EBE-9116D3EB23B1",
+      "D6BC7A0B-07F7-4482-A090-06FEB621932D",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "CEFF54BF-33FF-4238-9940-B8C238C22AA7",
+      "997382D1-4123-4B79-8EBE-9116D3EB23B1",
+      "D6BC7A0B-07F7-4482-A090-06FEB621932D",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-16T16:00:00Z",
+          "start": "2024-06-25T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-25T16:00:00Z",
+        "end": "2024-07-16T16:00:00Z"
+      }
+    ],
+    "dataId": 102074,
+    "description": "Contains a single-use armor skin for the coat and legs.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "8e989e81",
+    "itemGuid": "20CE2E63-550B-4C3E-8812-D442C4BA7F67",
+    "latestEndDate": "2024-07-16T16:00:00Z",
+    "latestStartDate": "2024-06-25T16:00:00Z",
+    "name": "Breezy Swim Pack",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "B3424E8F-CC10-4BC0-923B-28A133E5492B",
+    "blurb": "",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "CEFF54BF-33FF-4238-9940-B8C238C22AA7",
+      "997382D1-4123-4B79-8EBE-9116D3EB23B1",
+      "D6BC7A0B-07F7-4482-A090-06FEB621932D",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "F279DD87-F364-469C-98EF-5FA1DC3E175C",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "CEFF54BF-33FF-4238-9940-B8C238C22AA7",
+      "997382D1-4123-4B79-8EBE-9116D3EB23B1",
+      "D6BC7A0B-07F7-4482-A090-06FEB621932D",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "F279DD87-F364-469C-98EF-5FA1DC3E175C",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-16T16:00:00Z",
+          "start": "2024-06-25T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-25T16:00:00Z",
+        "end": "2024-07-16T16:00:00Z"
+      }
+    ],
+    "dataId": 102091,
+    "description": "Contains single-use armor skins for the coat, legs, helm, boots, and gloves.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "70f453e3",
+    "itemGuid": "A24D79C9-8C4F-4E23-82BF-3514E5770AEE",
+    "latestEndDate": "2024-07-16T16:00:00Z",
+    "latestStartDate": "2024-06-25T16:00:00Z",
+    "name": "Tropical Beach Pack",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "F6CC482B-54F2-4E48-B250-02E8B8582069",
+    "blurb": "Pull up a seat with a new chair skin!",
+    "categories": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-07-16T16:00:00Z",
+          "start": "2024-06-25T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-25T16:00:00Z",
+        "end": "2024-07-16T16:00:00Z"
+      }
+    ],
+    "dataId": 102087,
+    "description": "Double-click to unlock this item in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "9a53e712",
+    "itemGuid": "82574D5C-8A41-4549-B930-DF3DA9D4CA79",
+    "latestEndDate": "2024-07-16T16:00:00Z",
+    "latestStartDate": "2024-06-25T16:00:00Z",
+    "name": "Vacation Lounge Chair",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
     "returning": false,
     "type": "item"
   }

@@ -24387,7 +24387,7 @@
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 300,
-    "giftable": false,
+    "giftable": true,
     "hide": false,
     "imageHash": "59bcf0de",
     "itemGuid": "EBB352FF-EBB8-40F5-AE86-4748B817BA8F",
@@ -37113,7 +37113,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "1b02f439",
+    "imageHash": "fbfd23c7",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -88184,8 +88184,8 @@
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "95D45CE3-5CA7-499F-B3B6-E4B6696B9CFA",
-    "imageHash": "ad9318d4",
+    "gemStoreBannerItem": "3FBC9B0D-D8BD-45A6-9991-BF3B0B54F988",
+    "imageHash": "70e4f822",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
@@ -88480,8 +88480,8 @@
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "8ED69AD7-0547-489F-A7BF-8C1AA319F45E",
-    "imageHash": "22578510",
+    "gemStoreBannerItem": "76D2B26E-E8E6-4FF8-9F40-D9F775F3CD65",
+    "imageHash": "d9141852",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
@@ -88510,18 +88510,18 @@
   },
   {
     "uuid": "DFE308FC-C538-47FB-A003-9C212CEE4FF7",
-    "availableDate": "2024-06-07T16:00:00Z",
+    "availableDate": "2024-07-26T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Armor Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "A3634442-02C7-4452-80C2-47A1EEEAC639",
-    "imageHash": "43152617",
+    "gemStoreBannerItem": "A3BF5064-2407-45EB-A440-4E5119CB6738",
+    "imageHash": "c3bcba4c",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-06-11T16:00:00Z",
+    "removeDate": "2024-07-30T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -89766,7 +89766,6 @@
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
@@ -90019,7 +90018,6 @@
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
@@ -92216,8 +92214,7 @@
     "uuid": "0561A8DB-6CDD-407B-8720-143688FE7CD9",
     "blurb": "Luxury Speeder Skiff Skin now available!",
     "categories": [
-      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48"
     ],
     "categoriesOld": [
       "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
@@ -93211,8 +93208,7 @@
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -93297,12 +93293,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-07-16T16:00:00Z",
+          "end": "2024-07-23T16:00:00Z",
           "start": "2024-07-02T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-02T16:00:00Z",
+        "end": "2024-07-23T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-07-02T16:00:00Z",
@@ -93316,7 +93317,7 @@
     "hide": false,
     "imageHash": "6d303d59",
     "itemGuid": "FFD452CB-8BFD-4877-8A49-6BBA76372AF8",
-    "latestEndDate": "2024-07-16T16:00:00Z",
+    "latestEndDate": "2024-07-23T16:00:00Z",
     "latestStartDate": "2024-07-02T16:00:00Z",
     "name": "Disguised Fan Shield Skin",
     "randomchance": false,
@@ -93375,12 +93376,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-07-16T16:00:00Z",
+          "end": "2024-07-23T16:00:00Z",
           "start": "2024-06-25T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-06-25T16:00:00Z",
+        "end": "2024-07-23T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-06-25T16:00:00Z",
@@ -93394,7 +93400,7 @@
     "hide": false,
     "imageHash": "8e989e81",
     "itemGuid": "20CE2E63-550B-4C3E-8812-D442C4BA7F67",
-    "latestEndDate": "2024-07-16T16:00:00Z",
+    "latestEndDate": "2024-07-23T16:00:00Z",
     "latestStartDate": "2024-06-25T16:00:00Z",
     "name": "Breezy Swim Pack",
     "randomchance": false,
@@ -93415,8 +93421,7 @@
       "61A97107-0422-4F31-8405-2F5565434BE1",
       "F279DD87-F364-469C-98EF-5FA1DC3E175C",
       "17B9FFDA-D038-4617-97D7-45EAE28803FF",
-      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -93465,8 +93470,7 @@
     "uuid": "F6CC482B-54F2-4E48-B250-02E8B8582069",
     "blurb": "Pull up a seat with a new chair skin!",
     "categories": [
-      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
     ],
     "categoriesOld": [
       "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
@@ -93500,6 +93504,343 @@
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2514C610-802A-454B-BB2C-4E0F06AC520A",
+    "blurb": "Petal Throw Emote now available!",
+    "categories": [
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-08-20T16:00:00Z",
+          "start": "2024-07-30T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-30T16:00:00Z",
+        "end": "2024-08-20T16:00:00Z"
+      }
+    ],
+    "dataId": 102172,
+    "description": "Consuming this tome will give you access to a new emote!",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "cf478d29",
+    "itemGuid": "BA01FC91-C682-4AAD-8B75-D4A4AC5D8BBF",
+    "latestEndDate": "2024-08-20T16:00:00Z",
+    "latestStartDate": "2024-07-30T16:00:00Z",
+    "name": "\"/PetalThrow\" Emote Tome",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2BFDF732-7282-42B7-91BC-81978421C55F",
+    "blurb": "",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 102100,
+    "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "ad923dbc",
+    "itemGuid": "060879F3-60AA-476C-B75B-5B53A5BA58FA",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Magical Cape",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2D3EC8D2-E0EA-400E-B7BB-FC492F07F62C",
+    "blurb": "Let the experiment begin! The Phialslinger Manticore Appearance Package is now available!",
+    "categories": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-08-20T16:00:00Z",
+          "start": "2024-07-16T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-16T16:00:00Z",
+        "end": "2024-08-20T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "D6503E76-5A4A-4F80-AE53-B5869E71596A",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "FD625C04-E3A2-4AAB-B085-F7A139C1657E",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "197A7A03-776F-4A0F-B14D-3130DCAD6953",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "89605992-26F4-4366-9F1C-1CC8A8043561",
+        "quantity": 1
+      }
+    ],
+    "description": "Appearance skins override the look of your equipment and have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "24adac9d",
+    "latestEndDate": "2024-08-20T16:00:00Z",
+    "latestStartDate": "2024-07-16T16:00:00Z",
+    "name": "Phialslinger Manticore Appearance Package",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "744C2287-B2C7-412D-9668-57D991540119",
+    "blurb": "Ocean's Heart Fishing Rod Skin now available!",
+    "categories": [
+      "8771FAA1-2124-4E90-A434-26E2A7C0274B",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "8771FAA1-2124-4E90-A434-26E2A7C0274B",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-08-20T16:00:00Z",
+          "start": "2024-07-23T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-23T16:00:00Z",
+        "end": "2024-08-20T16:00:00Z"
+      }
+    ],
+    "dataId": 102161,
+    "description": "Double-click to apply this look to your fishing rod.\nThis will also unlock this skin for your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "ab6fdba3",
+    "itemGuid": "989BEFD5-8262-4C29-BC30-140DE2F3AC73",
+    "latestEndDate": "2024-08-20T16:00:00Z",
+    "latestStartDate": "2024-07-23T16:00:00Z",
+    "name": "Ocean's Heart Fishing Rod Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      65
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A461B13A-6F4E-4255-9CE5-FC79023CF587",
+    "blurb": "Magical Cape now available!",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-08-20T16:00:00Z",
+          "start": "2024-07-23T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-23T16:00:00Z",
+        "end": "2024-08-20T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "87FFFE3E-4AA8-4097-8FBB-56E522A05C48",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "2BFDF732-7282-42B7-91BC-81978421C55F",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any back item and unlock the skin in your account wardrobe. \n\nThis backpack skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "ad923dbc",
+    "latestEndDate": "2024-08-20T16:00:00Z",
+    "latestStartDate": "2024-07-23T16:00:00Z",
+    "name": "Magical Cape",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "D6503E76-5A4A-4F80-AE53-B5869E71596A",
+    "blurb": "Phialslinger Outfit is now available!",
+    "categories": [
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-08-20T16:00:00Z",
+          "start": "2024-07-16T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-16T16:00:00Z",
+        "end": "2024-08-20T16:00:00Z"
+      }
+    ],
+    "dataId": 102153,
+    "description": "Double-click to wear this outfit.\n\nOutfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "db45de7c",
+    "itemGuid": "90CE4898-BF2A-4C94-BBF5-370C1F855F4F",
+    "latestEndDate": "2024-08-20T16:00:00Z",
+    "latestStartDate": "2024-07-16T16:00:00Z",
+    "name": "Phialslinger Outfit",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "FD625C04-E3A2-4AAB-B085-F7A139C1657E",
+    "blurb": "Show off with the Manticore Skyscale Skin!",
+    "categories": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-08-20T16:00:00Z",
+          "start": "2024-07-16T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-07-16T16:00:00Z",
+        "end": "2024-08-20T16:00:00Z"
+      }
+    ],
+    "dataId": 102180,
+    "description": "Double-click to unlock this skyscale mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "b267a81f",
+    "itemGuid": "EA961B75-530D-48ED-A2E1-C07ECA12D022",
+    "latestEndDate": "2024-08-20T16:00:00Z",
+    "latestStartDate": "2024-07-16T16:00:00Z",
+    "name": "Phialslinger Manticore Skyscale Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      58,
+      72
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": false,
     "type": "item"
   }

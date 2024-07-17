@@ -93795,7 +93795,11 @@
     "requiredFeatures": [],
     "requirementMissing": "",
     "returning": false,
-    "type": "item"
+    "type": "item",
+    "passwords": {
+      "1122176": "12286066442417",
+      "1122229": "3574069355044"
+    }
   },
   {
     "uuid": "FD625C04-E3A2-4AAB-B085-F7A139C1657E",

@@ -37434,7 +37434,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "866ba4be",
+    "imageHash": "f3d371be",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -72981,7 +72981,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 79696,
-    "description": "Consuming this will unlock one random wardrobe option that you do not already own in the following categories:\n* Equipment Skins (exotic or lower)\n* Outfits\n* Dyes\n* Gliders\n* Minis\n* Finishers\n* Mail Carriers\nLast Update: April 2024\n\n<c=@Task>All unobtained items and skins have an equal chance of dropping.</c>",
+    "description": "Consuming this will unlock one random wardrobe option that you do not already own in the following categories:\n* Equipment Skins (exotic or lower)\n* Outfits\n* Dyes\n* Gliders\n* Minis\n* Finishers\n* Mail Carriers\nLast Update: September 2024\n\n<c=@Task>All unobtained items and skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -89286,8 +89286,8 @@
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "D54B7F16-46C6-46E9-97FF-AB00C28CC5C3",
-    "imageHash": "c104fc4e",
+    "gemStoreBannerItem": "D7F357C1-2B6F-4165-995C-C44EBCF143A0",
+    "imageHash": "bf0fb004",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
@@ -95063,8 +95063,7 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
@@ -95135,27 +95134,43 @@
     "uuid": "393A5902-715C-4671-BA1E-DE2B996BDA38",
     "blurb": "Wisteria Spear now available!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
     "categoriesOld": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
-    "categoryLifespansOld": [],
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-09-17T16:00:00Z",
+        "end": "2024-10-01T16:00:00Z"
+      }
+    ],
     "dataId": 103222,
     "description": "Double-click to apply this look to any other spear. This skin will be unlocked in your wardrobe for future use.",
     "excludedFeatures": [],
     "giftable": true,
-    "hide": true,
+    "hide": false,
     "imageHash": "9c52d0e",
     "itemGuid": "BA574D58-A3F0-43B9-BA54-0C98FA59B39C",
-    "latestEndDate": null,
-    "latestStartDate": null,
+    "latestEndDate": "2024-10-01T16:00:00Z",
+    "latestStartDate": "2024-09-17T16:00:00Z",
     "name": "Wisteria Spear Skin",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
     "returning": false,
-    "type": "item"
+    "type": "item",
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-10-01T16:00:00Z",
+          "start": "2024-09-17T16:00:00Z"
+        }
+      ]
+    }
   },
   {
     "uuid": "475AAD4F-64F2-4447-832B-5D2213C18B6B",
@@ -95193,8 +95208,7 @@
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -95267,8 +95281,7 @@
     "blurb": "Take hold of the elements with the Dueling Elements Chair Package!",
     "categories": [
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
     ],
     "categoriesOld": [
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
@@ -95348,8 +95361,8 @@
     "categories": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
     "categoriesOld": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
@@ -95360,7 +95373,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-09-14T16:00:00Z",
+          "end": "2024-09-17T16:00:00Z",
           "start": "2024-08-20T16:00:00Z"
         }
       ],
@@ -95372,6 +95385,11 @@
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-08-20T16:00:00Z",
+        "end": "2024-09-17T16:00:00Z"
+      },
       {
         "category": "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
         "start": "2024-08-20T16:00:00Z",
@@ -95390,7 +95408,7 @@
     "hide": false,
     "imageHash": "b514a689",
     "itemGuid": "25C76E6A-6E81-4465-8084-782A30B69AC0",
-    "latestEndDate": "2024-09-14T16:00:00Z",
+    "latestEndDate": "2024-09-17T16:00:00Z",
     "latestStartDate": "2024-08-20T16:00:00Z",
     "name": "Janthir Wilds Launch Supply Drop Requisition",
     "randomchance": true,
@@ -95422,8 +95440,7 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
@@ -95469,36 +95486,51 @@
     "blurb": "Janthir Wilds Expedition Contract",
     "categories": [
       "4C45415F-948D-4D93-8493-06585E5EDD61",
-      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
     "categoriesOld": [
       "4C45415F-948D-4D93-8493-06585E5EDD61",
-      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
-    "categoryLifespansOld": [],
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-09-17T16:00:00Z",
+        "end": "2024-09-24T16:00:00Z"
+      }
+    ],
     "dataId": 103184,
     "description": "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria.\nExpedition options include the following:\n• Lowland Shore\n• Janthir Syntri",
     "excludedFeatures": [],
     "giftable": false,
-    "hide": true,
+    "hide": false,
     "imageHash": "b2db2899",
     "itemGuid": "B2B7A5F1-06CD-4834-84E3-2356400D1459",
-    "latestEndDate": null,
-    "latestStartDate": null,
+    "latestEndDate": "2024-09-24T16:00:00Z",
+    "latestStartDate": "2024-09-17T16:00:00Z",
     "name": "Janthir Wilds Expedition Contract",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
     "returning": false,
-    "type": "item"
+    "type": "item",
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-09-24T16:00:00Z",
+          "start": "2024-09-17T16:00:00Z"
+        }
+      ]
+    }
   },
   {
     "uuid": "BCACC9F0-CD93-4797-BD10-560689EFA29C",
     "blurb": "Dueling Elements Outfit Package now available!",
     "categories": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -95536,7 +95568,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
-    "imageHash": "dbffa002",
+    "imageHash": "97c79f61",
     "latestEndDate": "2024-09-10T16:00:00Z",
     "latestStartDate": "2024-08-20T16:00:00Z",
     "name": "Dueling Elements Outfit Package",
@@ -95574,7 +95606,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": true,
-    "imageHash": "dbffa002",
+    "imageHash": "97c79f61",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "Dueling Elements Outfit Package",
@@ -95707,5 +95739,501 @@
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
+  },
+  {
+    "uuid": "15B2A9B9-8199-4AE9-9964-5E4DD22520BA",
+    "blurb": "Blissful Skirt and Boots Combo now available!",
+    "categories": [
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-10-08T16:00:00Z",
+          "start": "2024-10-01T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-10-01T16:00:00Z",
+        "end": "2024-10-08T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "77747D8E-8099-4C39-944E-8E91F3F13F6C",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "D91828DB-7F0A-472A-9394-4C393C113F2C",
+        "quantity": 1
+      }
+    ],
+    "description": "This package contains a Blissful Skirt Skin and Blissful Boots Skin.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "ef293aaa",
+    "latestEndDate": "2024-10-08T16:00:00Z",
+    "latestStartDate": "2024-10-01T16:00:00Z",
+    "name": "Blissful Skirt and Boots Combo",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "255538B7-6928-4509-B810-4BAC0D40534C",
+    "blurb": "Imperial Panda Warclaw Skin",
+    "categories": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-10-08T16:00:00Z",
+          "start": "2024-09-17T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-09-17T16:00:00Z",
+        "end": "2024-10-08T16:00:00Z"
+      }
+    ],
+    "dataId": 103609,
+    "description": "Double-click to unlock this warclaw mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "ba5f33eb",
+    "itemGuid": "94DC19F1-FA0D-46E5-8120-B196A8359EDB",
+    "latestEndDate": "2024-10-08T16:00:00Z",
+    "latestStartDate": "2024-09-17T16:00:00Z",
+    "name": "Imperial Panda Warclaw Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "469B84E8-387C-4F0F-BDDB-495687AA2C74",
+    "blurb": "",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-10-08T16:00:00Z",
+          "start": "2024-09-24T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-09-24T16:00:00Z",
+        "end": "2024-10-08T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "DE80A98B-7330-4CFF-825C-3384D2435965",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "6682B6D7-39A3-4DDA-96EA-F8DF7ED834E3",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "AC32082A-DC80-47C2-B341-7E45EFA78F1B",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "14505736-AE28-4A7C-8914-B6322EDACB5E",
+        "quantity": 3
+      }
+    ],
+    "description": "This pack of gathering tools offers all the benefits of the Holy Barrage gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "3e2b6597",
+    "latestEndDate": "2024-10-08T16:00:00Z",
+    "latestStartDate": "2024-09-24T16:00:00Z",
+    "name": "Infinite Holy Barrage Gathering Tools",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "4C5C093D-A0F9-4CC3-9BC9-3E4B12BA858E",
+    "blurb": "Plush Pals Homestead Package",
+    "categories": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103594,
+    "description": "This activates the decorations recipe for your homestead instance. One decoration will be immediately available to use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "1480e044",
+    "itemGuid": "01732053-E3BB-44FA-A4A2-75DD5E66C8ED",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Black Lion Plush Bear Head Pal Recipe",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "6682B6D7-39A3-4DDA-96EA-F8DF7ED834E3",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103614,
+    "description": "Perfect for use on all types of trees. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "a50fd128",
+    "itemGuid": "AFE1061D-6786-4700-A73E-520BBF680354",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Holy Barrage Logging Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "77747D8E-8099-4C39-944E-8E91F3F13F6C",
+    "blurb": "",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103595,
+    "description": "Double-click to apply this appearance to your current boots. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "61832402",
+    "itemGuid": "0CD7A7DB-6256-4DD4-AE13-4225AA0555B1",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Blissful Boots Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "7CECB28D-E3EB-43FC-8571-8B44229A6DC4",
+    "blurb": "Plush Pals Homestead Package",
+    "categories": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespansOld": [],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "4C5C093D-A0F9-4CC3-9BC9-3E4B12BA858E",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "D04A7631-58FC-4F04-B6F3-717A66D3EB63",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "D3AF5035-1366-4335-8ADF-AC90F2923CDC",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "8E95AD03-2B7F-4EFA-AEFB-D1A4963DE71D",
+        "quantity": 1
+      }
+    ],
+    "description": "Use this package to permanently unlock the recipes for these homestead decorations. You will receive one of each decoration for immediate use. Additional decorations must be crafted.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "84b1ac0f",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Plush Pals Homestead Package",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "8E95AD03-2B7F-4EFA-AEFB-D1A4963DE71D",
+    "blurb": "Plush Pals Homestead Package",
+    "categories": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103619,
+    "description": "This activates the decorations recipe for your homestead instance. One decoration will be immediately available to use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "63cf8abe",
+    "itemGuid": "F9B9303E-F1E7-474C-976C-A7E58D4185A9",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Black Lion Plush Quaggan Pal Recipe",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "AC32082A-DC80-47C2-B341-7E45EFA78F1B",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103611,
+    "description": "Used to harvest all plants. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "ddacfafd",
+    "itemGuid": "9F8FF84E-50D7-47D3-9043-D8DC143A6355",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Holy Barrage Harvesting Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "D04A7631-58FC-4F04-B6F3-717A66D3EB63",
+    "blurb": "Plush Pals Homestead Package",
+    "categories": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103615,
+    "description": "This activates the decorations recipe for your homestead instance. One decoration will be immediately available to use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "44aec5f4",
+    "itemGuid": "B4C8F142-4B0A-41D4-8AFF-1E85EEB259EE",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Black Lion Plush Bird Pal Recipe",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "D3AF5035-1366-4335-8ADF-AC90F2923CDC",
+    "blurb": "Plush Pals Homestead Package",
+    "categories": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103602,
+    "description": "This activates the decorations recipe for your homestead instance. One decoration will be immediately available to use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "84e908d8",
+    "itemGuid": "62E14912-BB64-474D-9281-9A5E7CFB2C8C",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Black Lion Plush Choya Pal Recipe",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "D91828DB-7F0A-472A-9394-4C393C113F2C",
+    "blurb": "",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "61A97107-0422-4F31-8405-2F5565434BE1"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "61A97107-0422-4F31-8405-2F5565434BE1"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103600,
+    "description": "Double-click to apply this appearance to your current leg armor. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "d336e63d",
+    "itemGuid": "510EB392-4017-44B1-ABBE-66E0242C7268",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Blissful Skirt Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "DE80A98B-7330-4CFF-825C-3384D2435965",
+    "blurb": "",
+    "categories": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoriesOld": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103599,
+    "description": "Used to mine all metals. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "cb5d5d84",
+    "itemGuid": "39C423BA-7208-41C2-A893-6599CFA5A594",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Holy Barrage Mining Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
   }
 ]

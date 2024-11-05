@@ -37376,7 +37376,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "32e86ba2",
+    "imageHash": "57bb8eda",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -70575,7 +70575,7 @@
       }
     ],
     "dataId": 95410,
-    "description": "Double-click to apply this appearance to your current chest armor. This will unlock the skin in your wardrobe.",
+    "description": "Double-click to apply this appearance to any other chest armor.\n<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -70705,7 +70705,7 @@
       }
     ],
     "dataId": 95435,
-    "description": "Double-click to apply this appearance to your current leg armor. This will unlock the skin in your wardrobe.",
+    "description": "Double-click to apply this appearance to any other leg armor.\n<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -72344,7 +72344,7 @@
       }
     ],
     "dataId": 95564,
-    "description": "Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.",
+    "description": "Double-click to apply this appearance to any other helms.\n<c=@flavor>Its baleful flames glow brighter as the hour of Adelbern's curse draws near.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -94137,8 +94137,7 @@
     "blurb": "Secrets of the Obscure Expedition Contract",
     "categories": [
       "4C45415F-948D-4D93-8493-06585E5EDD61",
-      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD"
     ],
     "categoriesOld": [
       "4C45415F-948D-4D93-8493-06585E5EDD61",
@@ -95609,8 +95608,7 @@
       "17B9FFDA-D038-4617-97D7-45EAE28803FF",
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "61A97107-0422-4F31-8405-2F5565434BE1",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "61A97107-0422-4F31-8405-2F5565434BE1"
     ],
     "categoriesOld": [
       "17B9FFDA-D038-4617-97D7-45EAE28803FF",
@@ -96163,7 +96161,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-11-12T16:00:00Z",
+          "end": "2024-11-19T16:00:00Z",
           "start": "2024-10-29T16:00:00Z"
         }
       ]
@@ -96173,6 +96171,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-10-29T16:00:00Z",
         "end": "2024-11-12T16:00:00Z"
+      },
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-10-29T16:00:00Z",
+        "end": "2024-11-19T16:00:00Z"
       }
     ],
     "contents": [
@@ -96281,7 +96284,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": true,
-    "imageHash": "3f442206",
+    "imageHash": "ee60fd2f",
     "itemGuid": "E6B6D6AB-D154-467A-A3AE-ADB4D7D8E028",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -96297,8 +96300,7 @@
     "blurb": "Breakdance Emote now available!",
     "categories": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
-      "37A14F43-016B-4D8E-865F-E0597F4D7988",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
     ],
     "categoriesOld": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
@@ -96351,7 +96353,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": true,
-    "imageHash": "e7822b21",
+    "imageHash": "4d381726",
     "itemGuid": "4BCD25B6-15B0-4ECD-9B2D-5E4967E3F1C5",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -96500,8 +96502,7 @@
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
-      "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "737C2400-E245-47D4-9DCA-A6422BD4B567"
     ],
     "categoriesOld": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
@@ -96546,7 +96547,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
-    "imageHash": "8b2b6f40",
+    "imageHash": "5be79d55",
     "latestEndDate": "2024-11-12T16:00:00Z",
     "latestStartDate": "2024-10-22T16:00:00Z",
     "name": "Flowing Silk Backpack and Glider Combo",
@@ -96593,8 +96594,7 @@
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
-      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3"
     ],
     "categoriesOld": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
@@ -96686,6 +96686,202 @@
       58
     ],
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "23B13BBF-5720-4A9B-A632-F73DB9174E14",
+    "blurb": "Take off on time with the Steamwork Skyscale Skin!",
+    "categories": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-11-19T16:00:00Z",
+          "start": "2024-11-05T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-11-05T16:00:00Z",
+        "end": "2024-11-19T16:00:00Z"
+      }
+    ],
+    "dataId": 103749,
+    "description": "Double-click to unlock this skyscale mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "4187a0de",
+    "itemGuid": "F1038708-08AE-4BD9-A504-FC2752D834F3",
+    "latestEndDate": "2024-11-19T16:00:00Z",
+    "latestStartDate": "2024-11-05T16:00:00Z",
+    "name": "Steamwork Skyscale Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      58,
+      72
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2F309594-2EAD-4EAC-9198-47142EB34DD5",
+    "blurb": "Dapper Wingtips now available!",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103735,
+    "description": "Double-click to apply this appearance to your current boots. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "416abd93",
+    "itemGuid": "94DCF704-904D-405C-A24A-223CCA15ECB1",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Dapper Wingtips Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "56BBF7C4-B449-44E5-9683-90F790B858A0",
+    "blurb": "Dapper Coat",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103734,
+    "description": "Double-click to apply this appearance to your current chest armor. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "d3486d24",
+    "itemGuid": "755501BE-70E5-479F-BCE4-AFECD2460197",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Dapper Coat Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "BA3EE21F-29DD-4E9B-8325-F3D26103993D",
+    "blurb": "Refine your style with the Dapper Suit Package!",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "61A97107-0422-4F31-8405-2F5565434BE1",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-11-19T16:00:00Z",
+          "start": "2024-11-12T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-11-12T16:00:00Z",
+        "end": "2024-11-19T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "56BBF7C4-B449-44E5-9683-90F790B858A0",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "C51006FD-1A0A-4AF2-8A38-A12E411653B1",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "2F309594-2EAD-4EAC-9198-47142EB34DD5",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any chest, leg, or boot armor, and it will unlock the skins in your account wardrobe. \n\nThe skins have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "a314570c",
+    "latestEndDate": "2024-11-19T16:00:00Z",
+    "latestStartDate": "2024-11-12T16:00:00Z",
+    "name": "Dapper Suit Package",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "C51006FD-1A0A-4AF2-8A38-A12E411653B1",
+    "blurb": "Dapper Pants now available!",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "61A97107-0422-4F31-8405-2F5565434BE1"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "61A97107-0422-4F31-8405-2F5565434BE1"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 103728,
+    "description": "Double-click to apply this appearance to your current leg armor. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "46f858c4",
+    "itemGuid": "605D66BD-4A60-4E11-94DA-2D4F433D1D15",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Dapper Pants Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
     "returning": false,
     "type": "item"
   }

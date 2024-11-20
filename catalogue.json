@@ -20558,12 +20558,11 @@
     "blurb": "",
     "categories": [
       "989B6878-997E-409E-8D6C-51C7BE6AAC81",
-      "4C45415F-948D-4D93-8493-06585E5EDD61",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
       "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
       "2919480C-0389-4431-8B7C-F95E7E5D0760",
-      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
-      "490BE6B3-DA27-42D8-9829-A7456D071B38"
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
     ],
     "categoriesOld": [
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
@@ -31146,7 +31145,7 @@
       }
     ],
     "dataId": 89409,
-    "description": "Double-click to salvage crafting materials from an item in your inventory. 20% chance of rarer materials. 100% chance of salvaging upgrades.",
+    "description": "Double-click to salvage crafting materials from an item in your inventory. 20% chance of rarer materials. 100% chance of salvaging upgrades within the item (does not recover them).",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 800,
@@ -37376,7 +37375,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "57bb8eda",
+    "imageHash": "4dac7e0b",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -48302,7 +48301,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 19986,
-    "description": "Double-click, then select an item in your inventory to salvage for crafting materials. 100% chance of recovering upgrades (excluding infusions). 50% chance to get rarer materials.",
+    "description": "Double-click, then select an item in your inventory to salvage for crafting materials. 100% chance of recovering upgrades (excluding infusions). 50% chance to get rarer materials. Limited to 25 uses.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 300,
@@ -50701,7 +50700,7 @@
       }
     ],
     "dataId": 67027,
-    "description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades.",
+    "description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades within the item (does not recover them).",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 500,
@@ -52472,8 +52471,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-12-07T16:00:00Z",
-          "start": "2024-11-23T16:00:00Z"
+          "end": "2024-12-06T16:00:00Z",
+          "start": "2024-11-22T16:00:00Z"
         }
       ]
     },
@@ -52487,6 +52486,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-11-23T16:00:00Z",
         "end": "2024-12-07T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-11-22T16:00:00Z",
+        "end": "2024-12-06T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -66358,7 +66362,7 @@
       }
     ],
     "dataId": 44602,
-    "description": "Double-click to salvage crafting materials from an item in your inventory. 10% chance of rarer materials. 20% chance of salvaging upgrades. Requires 3 copper per use.",
+    "description": "Double-click to salvage crafting materials from an item in your inventory. 10% chance of rarer materials. 20% chance of salvaging upgrades within the item (does not recover them). Requires 3 copper per use.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 800,
@@ -87265,8 +87269,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-12-30T16:00:00Z",
-          "start": "2024-12-16T16:00:00Z"
+          "end": "2024-12-27T16:00:00Z",
+          "start": "2024-12-13T16:00:00Z"
         }
       ]
     },
@@ -87275,6 +87279,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-12-16T16:00:00Z",
         "end": "2024-12-30T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-12-13T16:00:00Z",
+        "end": "2024-12-27T16:00:00Z"
       },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -88957,72 +88966,72 @@
   },
   {
     "uuid": "251EC0A8-3D93-4D8A-B79C-3932B9049D51",
-    "availableDate": "2024-10-25T16:00:00Z",
+    "availableDate": "2025-01-24T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Weapon Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "F4D12A4B-3F24-4F43-9DAE-EB8DC8F0CBB3",
-    "imageHash": "c7071d6a",
+    "gemStoreBannerItem": "C05D8ECD-B2DC-4E80-8A58-3DF6B5C1A511",
+    "imageHash": "5f81bbd9",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-10-29T16:00:00Z",
+    "removeDate": "2025-01-28T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "2F1FEDCC-A035-41A1-83A6-A4474693BF4A",
-    "availableDate": "2024-08-30T16:00:00Z",
+    "availableDate": "2024-11-29T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Permanent Finishers and Lounge Passes!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "30F1EEEC-4A58-4B99-858D-F59046C3A30D",
-    "imageHash": "cd24abad",
+    "gemStoreBannerItem": "62348C32-536A-4D2B-889E-5D8EFCD30DD0",
+    "imageHash": "aa5ba124",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-09-03T16:00:00Z",
+    "removeDate": "2024-12-03T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "3A46CAD4-6295-4660-A8DB-9ABDED011DA1",
-    "availableDate": "2024-10-18T16:00:00Z",
+    "availableDate": "2025-01-17T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Back Items!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "C55BC0C5-93E6-4949-A730-7F85CB94E2DF",
-    "imageHash": "4ecadd67",
+    "gemStoreBannerItem": "A461B13A-6F4E-4255-9CE5-FC79023CF587",
+    "imageHash": "98c1d27c",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-10-22T16:00:00Z",
+    "removeDate": "2025-01-21T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "3EFF1F2B-E3B0-4B29-B9D5-E50F8D6D33C1",
-    "availableDate": "2024-10-11T16:00:00Z",
+    "availableDate": "2025-01-10T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Tools!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "D1969F4B-18C1-4466-B53F-BF49F5F2F49C",
-    "imageHash": "509268de",
+    "gemStoreBannerItem": "9B5B4943-AF74-4148-9E23-CF9843237F1E",
+    "imageHash": "ce13050d",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-10-15T16:00:00Z",
+    "removeDate": "2025-01-14T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -89133,36 +89142,36 @@
   },
   {
     "uuid": "6199CBD0-DDD4-4ED1-BC30-982EA6585A3C",
-    "availableDate": "2024-11-15T16:00:00Z",
+    "availableDate": "2025-02-14T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Mount Licenses and Packs!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "86505ACF-7137-4F2F-8486-39BEFE44834C",
-    "imageHash": "bb3b7d5d",
+    "gemStoreBannerItem": "A4AD1F14-AB66-44E3-BAF8-813246B8F488",
+    "imageHash": "8edd5843",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-11-19T16:00:00Z",
+    "removeDate": "2025-02-18T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "63F74C0F-5B34-4E3F-AF7F-6103BEB05128",
-    "availableDate": "2024-09-27T16:00:00Z",
+    "availableDate": "2024-12-27T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Gliders!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "D7F357C1-2B6F-4165-995C-C44EBCF143A0",
-    "imageHash": "bf0fb004",
+    "gemStoreBannerItem": "CBF56B3A-FC45-49FE-BC1F-35F1E3A2823C",
+    "imageHash": "56ca70cd",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-10-01T16:00:00Z",
+    "removeDate": "2024-12-31T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -89303,36 +89312,36 @@
   },
   {
     "uuid": "ADBE914C-CE0E-4407-8EEA-011AFEC57C73",
-    "availableDate": "2024-11-08T16:00:00Z",
+    "availableDate": "2025-02-07T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Dye Kits!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "EF97F847-7777-4771-B307-D3F7D319F100",
-    "imageHash": "ed757e2d",
+    "gemStoreBannerItem": "2AE06CD8-3BC4-42F4-8D59-0EAF7B05201F",
+    "imageHash": "bf6ca28e",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-11-12T16:00:00Z",
+    "removeDate": "2025-02-11T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "B059D1AE-CFB5-4E10-A327-B9CF839C8726",
-    "availableDate": "2024-09-13T16:00:00Z",
+    "availableDate": "2024-12-13T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Outfits!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "F107B1C3-3979-453C-AD70-0A98215AB526",
-    "imageHash": "9f5b03b3",
+    "gemStoreBannerItem": "0FB3F442-9A2B-4B08-93AB-CC61ED620076",
+    "imageHash": "5352ff8",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-09-17T16:00:00Z",
+    "removeDate": "2024-12-17T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -89391,90 +89400,90 @@
   },
   {
     "uuid": "BC6F37B1-3FCA-4639-8C16-E70AA2504591",
-    "availableDate": "2024-09-20T16:00:00Z",
+    "availableDate": "2024-12-20T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Minis!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "43FAEB25-0F97-431B-AD2A-E9B9A302E02A",
-    "imageHash": "f2c3f2f",
+    "gemStoreBannerItem": "A431EE07-783F-4C63-91EB-4C4775FAA7E6",
+    "imageHash": "9fc502d6",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-09-24T16:00:00Z",
+    "removeDate": "2024-12-24T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "C533D8D1-09FA-4FFF-8D1C-122AF8AD17D3",
-    "availableDate": "2024-10-04T16:00:00Z",
-    "blurb": "Refreshing Seasonal Selection of Armor Skin Sets!",
+    "availableDate": "2025-01-03T16:00:00Z",
+    "blurb": "Refreshing Seasonal Selection of Miscellaneous Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "C74E7CBD-7189-417B-B50E-3A060070E77B",
-    "imageHash": "3a1d265",
+    "gemStoreBannerItem": "2748A9DB-0ED3-407D-890B-1D4BD83FE9CC",
+    "imageHash": "42032ea1",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-10-08T16:00:00Z",
+    "removeDate": "2025-01-07T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "D197AA3F-9A2A-48F3-9654-D23B1188EFEA",
-    "availableDate": "2024-11-01T16:00:00Z",
+    "availableDate": "2025-01-31T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Novelty Chairs!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "D1833F96-841D-4A07-BF63-7D91B43DD216",
-    "imageHash": "cb8353a4",
+    "gemStoreBannerItem": "F6CC482B-54F2-4E48-B250-02E8B8582069",
+    "imageHash": "dc711976",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-11-05T16:00:00Z",
+    "removeDate": "2025-02-04T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "DAEA9819-D342-45B0-BA49-A58632587EF3",
-    "availableDate": "2024-08-23T16:00:00Z",
+    "availableDate": "2024-11-22T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Mount Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "D856A41C-BAA7-41CB-BDA1-6432E9355BCA",
-    "imageHash": "4a206ff5",
+    "gemStoreBannerItem": "BCC90F83-DF03-4228-873C-6929CF531AAB",
+    "imageHash": "5300d698",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-08-27T16:00:00Z",
+    "removeDate": "2024-11-26T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
   },
   {
     "uuid": "DFE308FC-C538-47FB-A003-9C212CEE4FF7",
-    "availableDate": "2024-09-06T16:00:00Z",
+    "availableDate": "2024-12-06T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Armor Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "A872248F-5B58-4488-A8AF-37353F4E2B29",
-    "imageHash": "a02c1c16",
+    "gemStoreBannerItem": "1F04B014-5429-47FB-B8AA-B1CD3A5CAEBF",
+    "imageHash": "996a9a93",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2024-09-10T16:00:00Z",
+    "removeDate": "2024-12-10T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -91761,12 +91770,17 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-08-30T16:00:00Z",
-          "start": "2024-08-16T16:00:00Z"
+          "end": "2024-08-31T16:00:00Z",
+          "start": "2024-08-17T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-17T16:00:00Z",
+        "end": "2024-08-31T16:00:00Z"
+      },
       {
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2024-08-16T16:00:00Z",
@@ -91785,8 +91799,8 @@
     "hide": false,
     "imageHash": "e716f8ba",
     "itemGuid": "ED9D22A8-0219-43BC-B190-CCA81FC5D592",
-    "latestEndDate": "2024-08-30T16:00:00Z",
-    "latestStartDate": "2024-08-16T16:00:00Z",
+    "latestEndDate": "2024-08-31T16:00:00Z",
+    "latestStartDate": "2024-08-17T16:00:00Z",
     "name": "Reclaimed Bonds Mount Select License",
     "randomchance": false,
     "requiredFeatures": [
@@ -93232,8 +93246,8 @@
     "categoryLifespans": {
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2025-03-10T16:00:00Z",
-          "start": "2025-02-24T16:00:00Z"
+          "end": "2025-03-07T16:00:00Z",
+          "start": "2025-02-21T16:00:00Z"
         }
       ]
     },
@@ -93242,6 +93256,11 @@
         "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
         "start": "2025-02-24T16:00:00Z",
         "end": "2025-03-10T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2025-02-21T16:00:00Z",
+        "end": "2025-03-07T16:00:00Z"
       },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
@@ -94381,7 +94400,7 @@
   },
   {
     "uuid": "3848F830-5499-4BC3-975C-F4DE0DADEDBF",
-    "blurb": "Summer Sale<br>\nUp to 75% Off Expansions<br>\nBuy Now",
+    "blurb": "Up to 75% Off Expansions<br>\n*Sale not available on all platforms.",
     "categories": [
       "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
     ],
@@ -94731,22 +94750,29 @@
     "blurb": "Ocean's Heart Fishing Rod Skin now available!",
     "categories": [
       "8771FAA1-2124-4E90-A434-26E2A7C0274B",
-      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49"
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8771FAA1-2124-4E90-A434-26E2A7C0274B",
       "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-08-20T16:00:00Z",
-          "start": "2024-07-23T16:00:00Z"
+          "end": "2025-01-17T16:00:00Z",
+          "start": "2025-01-03T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2025-01-03T16:00:00Z",
+        "end": "2025-01-17T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-07-23T16:00:00Z",
@@ -94760,15 +94786,15 @@
     "hide": false,
     "imageHash": "ab6fdba3",
     "itemGuid": "989BEFD5-8262-4C29-BC30-140DE2F3AC73",
-    "latestEndDate": "2024-08-20T16:00:00Z",
-    "latestStartDate": "2024-07-23T16:00:00Z",
+    "latestEndDate": "2025-01-17T16:00:00Z",
+    "latestStartDate": "2025-01-03T16:00:00Z",
     "name": "Ocean's Heart Fishing Rod Skin",
     "randomchance": false,
     "requiredFeatures": [
       65
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -94776,22 +94802,29 @@
     "blurb": "Magical Cape now available!",
     "categories": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
-      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "A0361A06-68A8-481C-914A-AD353BD9A5BC",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-08-20T16:00:00Z",
-          "start": "2024-07-23T16:00:00Z"
+          "end": "2025-01-31T16:00:00Z",
+          "start": "2025-01-17T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2025-01-17T16:00:00Z",
+        "end": "2025-01-31T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-07-23T16:00:00Z",
@@ -94815,13 +94848,13 @@
     "giftable": true,
     "hide": false,
     "imageHash": "ad923dbc",
-    "latestEndDate": "2024-08-20T16:00:00Z",
-    "latestStartDate": "2024-07-23T16:00:00Z",
+    "latestEndDate": "2025-01-31T16:00:00Z",
+    "latestStartDate": "2025-01-17T16:00:00Z",
     "name": "Magical Cape",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -94934,18 +94967,20 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-10T16:00:00Z",
-          "start": "2024-08-20T16:00:00Z"
+          "end": "2024-08-31T16:00:00Z",
+          "start": "2024-08-17T16:00:00Z"
         }
       ]
     },
@@ -94954,6 +94989,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-08-20T16:00:00Z",
         "end": "2024-09-10T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-17T16:00:00Z",
+        "end": "2024-08-31T16:00:00Z"
       }
     ],
     "dataId": 103568,
@@ -94972,7 +95012,7 @@
       72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -95151,22 +95191,29 @@
     "blurb": "Take hold of the elements with the Dueling Elements Chair Package!",
     "categories": [
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
       "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-10T16:00:00Z",
-          "start": "2024-08-20T16:00:00Z"
+          "end": "2025-02-14T16:00:00Z",
+          "start": "2025-01-31T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2025-01-31T16:00:00Z",
+        "end": "2025-02-14T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-08-20T16:00:00Z",
@@ -95190,13 +95237,13 @@
     "giftable": true,
     "hide": false,
     "imageHash": "1a7969a",
-    "latestEndDate": "2024-09-10T16:00:00Z",
-    "latestStartDate": "2024-08-20T16:00:00Z",
+    "latestEndDate": "2025-02-14T16:00:00Z",
+    "latestStartDate": "2025-01-31T16:00:00Z",
     "name": "Dueling Elements Chair Package",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -95230,8 +95277,7 @@
     "blurb": "Gear Up with the Janthir Wilds Launch Supply Drop",
     "categories": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+      "737C2400-E245-47D4-9DCA-A6422BD4B567"
     ],
     "categoriesOld": [
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
@@ -95303,18 +95349,20 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
       "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-10T16:00:00Z",
-          "start": "2024-08-20T16:00:00Z"
+          "end": "2024-08-30T16:00:00Z",
+          "start": "2024-08-16T16:00:00Z"
         }
       ]
     },
@@ -95323,6 +95371,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-08-20T16:00:00Z",
         "end": "2024-09-10T16:00:00Z"
+      },
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-08-16T16:00:00Z",
+        "end": "2024-08-30T16:00:00Z"
       }
     ],
     "dataId": 103482,
@@ -95341,7 +95394,7 @@
       72
     ],
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
-    "returning": false,
+    "returning": true,
     "type": "item"
   },
   {
@@ -95392,22 +95445,29 @@
     "blurb": "Dueling Elements Outfit Package now available!",
     "categories": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoryLifespans": {
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF": [
         {
-          "end": "2024-09-10T16:00:00Z",
-          "start": "2024-08-20T16:00:00Z"
+          "end": "2024-12-27T16:00:00Z",
+          "start": "2024-12-13T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
+        "start": "2024-12-13T16:00:00Z",
+        "end": "2024-12-27T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-08-20T16:00:00Z",
@@ -95431,13 +95491,13 @@
     "giftable": true,
     "hide": false,
     "imageHash": "97c79f61",
-    "latestEndDate": "2024-09-10T16:00:00Z",
-    "latestStartDate": "2024-08-20T16:00:00Z",
+    "latestEndDate": "2024-12-27T16:00:00Z",
+    "latestStartDate": "2024-12-13T16:00:00Z",
     "name": "Dueling Elements Outfit Package",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
-    "returning": false,
+    "returning": true,
     "type": "package"
   },
   {
@@ -96103,8 +96163,7 @@
     "uuid": "0186DBBB-75D1-4EC1-8035-111E4907243A",
     "blurb": "",
     "categories": [
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -96148,8 +96207,7 @@
       "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
       "71841D94-C462-4316-9C77-307E2E1EA148",
       "6AE7A26D-D036-4048-B35C-B06CD3B872DA",
-      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C"
     ],
     "categoriesOld": [
       "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
@@ -96705,7 +96763,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-11-19T16:00:00Z",
+          "end": "2024-11-26T16:00:00Z",
           "start": "2024-11-05T16:00:00Z"
         }
       ]
@@ -96715,6 +96773,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-11-05T16:00:00Z",
         "end": "2024-11-19T16:00:00Z"
+      },
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-11-05T16:00:00Z",
+        "end": "2024-11-26T16:00:00Z"
       }
     ],
     "dataId": 103749,
@@ -96814,7 +96877,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2024-11-19T16:00:00Z",
+          "end": "2024-12-10T16:00:00Z",
           "start": "2024-11-12T16:00:00Z"
         }
       ]
@@ -96824,6 +96887,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-11-12T16:00:00Z",
         "end": "2024-11-19T16:00:00Z"
+      },
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-11-12T16:00:00Z",
+        "end": "2024-12-10T16:00:00Z"
       }
     ],
     "contents": [
@@ -96884,5 +96952,172 @@
     "requirementMissing": "",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "06637611-93E9-4677-81F0-3C59A4BA21DA",
+    "blurb": "Take to the skies with a new glider skin!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104009,
+    "description": "This will unlock the glider skin in your account wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "86b9e807",
+    "itemGuid": "D39C85FA-B03B-48B1-ACDD-571E070C561C",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Naga Spirit Glider Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      72
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "24FC113C-681F-4914-A788-8EC64F55CA21",
+    "blurb": "Star Blessed Skiff Skin now available!",
+    "categories": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-12-10T16:00:00Z",
+          "start": "2024-11-19T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-11-19T16:00:00Z",
+        "end": "2024-12-10T16:00:00Z"
+      }
+    ],
+    "dataId": 103824,
+    "description": "Double-click to unlock this skiff skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "e2db580a",
+    "itemGuid": "37FCB1BD-0925-4BEB-BCED-B36239A8F986",
+    "latestEndDate": "2024-12-10T16:00:00Z",
+    "latestStartDate": "2024-11-19T16:00:00Z",
+    "name": "Star Blessed Skiff Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      65
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2DC403EA-74DD-4347-9F59-FF12326D490F",
+    "blurb": "",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104011,
+    "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "98eb5a21",
+    "itemGuid": "D40F55EF-0438-4A6F-A64B-027DF1F0F6DC",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Naga Spirit Backpack Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "67DF36EE-7F16-4420-A004-3CEF3ABCE7E1",
+    "blurb": "Naga Spirit Backpack and Glider Combo now available!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2024-12-10T16:00:00Z",
+          "start": "2024-11-26T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-11-26T16:00:00Z",
+        "end": "2024-12-10T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "87FFFE3E-4AA8-4097-8FBB-56E522A05C48",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "06637611-93E9-4677-81F0-3C59A4BA21DA",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "2DC403EA-74DD-4347-9F59-FF12326D490F",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any back item and unlock the backpack skin and the glider in your account wardrobe.\n\nThis backpack skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "c4e50cbe",
+    "latestEndDate": "2024-12-10T16:00:00Z",
+    "latestStartDate": "2024-11-26T16:00:00Z",
+    "name": "Naga Spirit Backpack and Glider Combo",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      72
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "package"
   }
 ]

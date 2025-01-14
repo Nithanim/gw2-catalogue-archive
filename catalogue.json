@@ -20533,7 +20533,7 @@
         "quantity": 1
       }
     ],
-    "description": "This package combines the Electromagnetic Ascender travel toy and Electromagnetic Descender glider at a discounted price. Harness the power of electricity to float through the air on wings of lightning while gliding or running.",
+    "description": "This package combines the Electromagnetic Ascender travel toy and Electromagnetic Descender-Glider at a discounted price. Harness the power of electricity to float through the air on wings of lightning while gliding or running.",
     "excludedFeatures": [],
     "firstAdded": "2019-11-10T21:44:41.204Z",
     "gemPrice": 650,
@@ -37375,7 +37375,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "4a4c0daa",
+    "imageHash": "adfa21f9",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -56301,11 +56301,15 @@
     "blurb": "Greet the Day with a New You!",
     "categories": [
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
-      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C"
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "71841D94-C462-4316-9C77-307E2E1EA148"
     ],
     "categoriesOld": [
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
-      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C"
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "71841D94-C462-4316-9C77-307E2E1EA148"
     ],
     "categoryLifespansOld": [],
     "dataId": 49867,
@@ -96985,8 +96989,7 @@
     "uuid": "24FC113C-681F-4914-A788-8EC64F55CA21",
     "blurb": "Star Blessed Skiff Skin now available!",
     "categories": [
-      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48"
     ],
     "categoriesOld": [
       "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
@@ -97063,8 +97066,7 @@
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
-      "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "737C2400-E245-47D4-9DCA-A6422BD4B567"
     ],
     "categoriesOld": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
@@ -97156,7 +97158,7 @@
   },
   {
     "uuid": "2305B70D-9432-4BD5-BC71-6DDC30330555",
-    "blurb": "Tiny Royal Crown Helm now available!",
+    "blurb": "Tiny Royal Crown now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
@@ -97191,7 +97193,7 @@
     "itemGuid": "99B47BC1-9797-41DA-8993-BC88C8483227",
     "latestEndDate": "2025-01-14T16:00:00Z",
     "latestStartDate": "2024-12-24T16:00:00Z",
-    "name": "Tiny Royal Crown Helm Skin",
+    "name": "Tiny Royal Crown Skin",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
@@ -97212,12 +97214,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2025-01-14T16:00:00Z",
+          "end": "2025-02-04T16:00:00Z",
           "start": "2025-01-07T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-01-07T16:00:00Z",
+        "end": "2025-02-04T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2025-01-07T16:00:00Z",
@@ -97231,7 +97238,7 @@
     "hide": false,
     "imageHash": "25625bd1",
     "itemGuid": "493089B7-A53E-46DF-AB30-DF68B1349B06",
-    "latestEndDate": "2025-01-14T16:00:00Z",
+    "latestEndDate": "2025-02-04T16:00:00Z",
     "latestStartDate": "2025-01-07T16:00:00Z",
     "name": "Diabolic Pitchfork Spear Skin",
     "randomchance": false,
@@ -97247,15 +97254,13 @@
     "blurb": "Time to party under the sea! The Eternal Tides Appearance Package is now available!",
     "categories": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
-      "19291B38-3A31-4142-A400-49C09A3E9186",
-      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
-      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -97355,8 +97360,7 @@
     "blurb": "Bloodstone Boogie Emote now available!",
     "categories": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
-      "37A14F43-016B-4D8E-865F-E0597F4D7988",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
     ],
     "categoriesOld": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
@@ -97399,8 +97403,7 @@
     "blurb": "Plush Tiger Warclaw Skin",
     "categories": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
@@ -97452,12 +97455,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2025-01-14T16:00:00Z",
+          "end": "2025-01-21T16:00:00Z",
           "start": "2024-12-31T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2024-12-31T16:00:00Z",
+        "end": "2025-01-21T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2024-12-31T16:00:00Z",
@@ -97471,7 +97479,7 @@
     "hide": false,
     "imageHash": "5dbca0b",
     "itemGuid": "AEBDB977-A0AA-4DE9-B579-610B0E2EAC2E",
-    "latestEndDate": "2025-01-14T16:00:00Z",
+    "latestEndDate": "2025-01-21T16:00:00Z",
     "latestStartDate": "2024-12-31T16:00:00Z",
     "name": "Nothorium Hammer Mace Skin",
     "randomchance": false,
@@ -97479,5 +97487,257 @@
     "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "6B73C90A-6C8A-4ABF-8B30-B984E4044C45",
+    "blurb": "",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104149,
+    "description": "Use this item to select and unlock a Thundercrag weapon skin of your choice for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "c8403889",
+    "itemGuid": "AA5CF016-831E-44CB-B11A-A77351EF6C29",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Thundercrag Weapon Choice",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "71CF2C9A-66AB-4FFF-96D3-74C94540EB5E",
+    "blurb": "Increase your Build Storage space!",
+    "categories": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61"
+    ],
+    "categoriesOld": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61"
+    ],
+    "categoryLifespansOld": [],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "28B37B41-88BB-4078-86F4-B25D343A91BF",
+        "quantity": 1
+      }
+    ],
+    "description": "Add one space to your account's Build Storage. This discounted item is available only once per account.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "26e6151d",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Discounted Build Storage Expansion",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": true,
+    "type": "package"
+  },
+  {
+    "uuid": "76ECB0B7-D9EA-48F3-B148-203FC08E8C1D",
+    "blurb": "Hooded Windbreaker (Up)",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104144,
+    "description": "Double-click to apply this appearance to your current chest armor. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "e9af8438",
+    "itemGuid": "0D8BB54C-E0E4-46D7-A33A-51B193AECF81",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Hooded Windbreaker (Up) Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "96A695CF-6D61-4292-BF8C-83FA908CF2CF",
+    "blurb": "Hooded Windbreaker (Down)",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104147,
+    "description": "Double-click to apply this appearance to your current chest armor. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "7459ffda",
+    "itemGuid": "4ED923EE-E068-4A23-BE23-1734CBF95210",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Hooded Windbreaker (Down) Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A6AE74F5-700A-46E7-A8E9-59293CF4952B",
+    "blurb": "Mix up your style with the Hooded Windbreaker Package!",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-02-04T16:00:00Z",
+          "start": "2025-01-21T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-01-21T16:00:00Z",
+        "end": "2025-02-04T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "76ECB0B7-D9EA-48F3-B148-203FC08E8C1D",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "96A695CF-6D61-4292-BF8C-83FA908CF2CF",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any chest skin and unlock the skins in your account wardrobe. \n\nThe skins have no attributes of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "571bd084",
+    "latestEndDate": "2025-02-04T16:00:00Z",
+    "latestStartDate": "2025-01-21T16:00:00Z",
+    "name": "Hooded Windbreaker Package",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "E2E5CFC7-E8D6-4474-A3EB-6FD291DC317F",
+    "blurb": "Elemental Series: Lightning Pack now available!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "D134B1DC-0FF8-4838-AE6D-009E2131ACC8",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "D134B1DC-0FF8-4838-AE6D-009E2131ACC8",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-02-04T16:00:00Z",
+          "start": "2025-01-14T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-01-14T16:00:00Z",
+        "end": "2025-02-04T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "F5364367-49DD-47A9-B338-77E18E706918",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "4D78D24C-9FA2-40D0-84D6-3A5AF3A12449",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "F107B1C3-3979-453C-AD70-0A98215AB526",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "E66697F3-9249-42A9-8D84-D2E780ED5A2A",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "6B73C90A-6C8A-4ABF-8B30-B984E4044C45",
+        "quantity": 1
+      }
+    ],
+    "description": "This pack contains a glider, a toy, an outfit, a cape, and a choice of weapon skin.\n\nThe skins have no attributes of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "c8403889",
+    "latestEndDate": "2025-02-04T16:00:00Z",
+    "latestStartDate": "2025-01-14T16:00:00Z",
+    "name": "Elemental Series: Lightning Pack",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      72
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "package"
   }
 ]

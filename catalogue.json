@@ -37375,7 +37375,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "adfa21f9",
+    "imageHash": "694b860",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -89322,7 +89322,7 @@
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "2AE06CD8-3BC4-42F4-8D59-0EAF7B05201F",
+    "gemStoreBannerItem": "8731E30A-CF32-4F86-9272-3340A5DB0E50",
     "imageHash": "bf6ca28e",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -97161,8 +97161,7 @@
     "blurb": "Tiny Royal Crown now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -97445,8 +97444,7 @@
     "uuid": "7BFBE28B-67D6-40F7-A551-5FF0FAE84563",
     "blurb": "Smash the opposition with the Nothorium Metal Mace!",
     "categories": [
-      "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -97619,7 +97617,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2025-02-04T16:00:00Z",
+          "end": "2025-02-11T16:00:00Z",
           "start": "2025-01-21T16:00:00Z"
         }
       ]
@@ -97629,6 +97627,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2025-01-21T16:00:00Z",
         "end": "2025-02-04T16:00:00Z"
+      },
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-01-21T16:00:00Z",
+        "end": "2025-02-11T16:00:00Z"
       }
     ],
     "contents": [
@@ -97683,7 +97686,7 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2025-02-04T16:00:00Z",
+          "end": "2025-02-11T16:00:00Z",
           "start": "2025-01-14T16:00:00Z"
         }
       ]
@@ -97693,6 +97696,11 @@
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2025-01-14T16:00:00Z",
         "end": "2025-02-04T16:00:00Z"
+      },
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-01-14T16:00:00Z",
+        "end": "2025-02-11T16:00:00Z"
       }
     ],
     "contents": [
@@ -97730,6 +97738,115 @@
     "latestEndDate": "2025-02-04T16:00:00Z",
     "latestStartDate": "2025-01-14T16:00:00Z",
     "name": "Elemental Series: Lightning Pack",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      72
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "1BC1EFC7-4D33-491B-8B85-28FF44950597",
+    "blurb": "Pull up a seat with a new chair skin!",
+    "categories": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
+    ],
+    "categoriesOld": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104181,
+    "description": "Double-click to unlock this item in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "2b52ca78",
+    "itemGuid": "A7F8E548-4656-4651-9570-F460133670C8",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Campfire Chair",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "F20B7DE6-D6A3-4D1E-9EC8-A283DD2CFEFC",
+    "blurb": "Aurene's Champion Pack now available!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F279DD87-F364-469C-98EF-5FA1DC3E175C",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "75468DB0-E377-4E82-AD87-E0A62AC810E0",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F279DD87-F364-469C-98EF-5FA1DC3E175C",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "75468DB0-E377-4E82-AD87-E0A62AC810E0",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-02-11T16:00:00Z",
+          "start": "2025-02-04T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-02-04T16:00:00Z",
+        "end": "2025-02-11T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "A1BF5308-0C36-4484-9F70-5E55A0BF48CC",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "F8C31921-94CF-4F20-987E-05813AB1CF20",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "1EF08D7B-01BF-452D-AC06-EF3891224B51",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "A8161970-A61D-4279-BE12-A421D9018292",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "B76CC028-D764-4197-8D85-6EB18DC48441",
+        "quantity": 1
+      }
+    ],
+    "description": "This pack contains a glider, a backpack, a helmet, shoulders, and a weapon skin.\n\nThe skins have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "32ebf015",
+    "latestEndDate": "2025-02-11T16:00:00Z",
+    "latestStartDate": "2025-02-04T16:00:00Z",
+    "name": "Aurene's Champion Pack",
     "randomchance": false,
     "requiredFeatures": [
       45,

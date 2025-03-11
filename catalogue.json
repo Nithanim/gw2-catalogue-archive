@@ -38693,7 +38693,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "3f95891e",
+    "imageHash": "2af63419",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -96681,7 +96681,7 @@
   },
   {
     "uuid": "15F7A567-4055-4043-A770-B47EB3C7CBD6",
-    "blurb": "Prepurchase Guild Wars 2: Janthir Wilds<br>\nBuy Now",
+    "blurb": "Guild Wars 2: Janthir Wilds<br>\nBuy Now",
     "categories": [
       "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
     ],
@@ -97774,7 +97774,7 @@
     "excludedFeatures": [],
     "giftable": true,
     "hide": true,
-    "imageHash": "5d926056",
+    "imageHash": "c6a5f071",
     "itemGuid": "56C2F79C-34BA-463B-9F85-09817120319D",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -97964,11 +97964,13 @@
     "uuid": "2514C610-802A-454B-BB2C-4E0F06AC520A",
     "blurb": "Petal Throw Emote now available!",
     "categories": [
-      "29BB085D-5592-4B68-94D6-B7F417E43AF3"
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
     ],
     "categoriesOld": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
     ],
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
@@ -98801,7 +98803,7 @@
       }
     ],
     "dataId": 103184,
-    "description": "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria.\nExpedition options include the following:\n• Lowland Shore\n• Janthir Syntri",
+    "description": "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria.\nExpedition options include the following:\n• Lowland Shore\n• Janthir Syntri\n• Mistburned Barrens",
     "excludedFeatures": [],
     "giftable": false,
     "hide": false,
@@ -101153,8 +101155,7 @@
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -101336,8 +101337,7 @@
       "F279DD87-F364-469C-98EF-5FA1DC3E175C",
       "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
       "75468DB0-E377-4E82-AD87-E0A62AC810E0",
-      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
     ],
     "categoriesOld": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
@@ -101396,7 +101396,7 @@
         "quantity": 1
       }
     ],
-    "description": "This pack contains a glider, a backpack, a helmet, shoulders, and a weapon skin.\n\nThe skins have no stats of their own.",
+    "description": "This pack contains a glider skin, a backpack skin, a helmet skin, a shoulders skin, and a gloves skin.\n\nThe skins have no stats of their own.",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -101464,8 +101464,7 @@
       "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
     ],
     "categoriesOld": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
@@ -101743,8 +101742,7 @@
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
       "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
@@ -101917,6 +101915,216 @@
     "requiredFeatures": [
       78
     ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "0F431395-5C2E-45A8-84EA-A5CDA96D837F",
+    "blurb": "Adopt a new version of your mounts.",
+    "categories": [
+      "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
+    ],
+    "categoriesOld": [
+      "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104366,
+    "description": "Gain a mount skin of your choice from the Black Lion Stables. Right-click to preview available mount skins.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "1421849",
+    "itemGuid": "898B38BA-0E1F-4FD8-86DF-D2E3D5DDA95F",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Ferocious Fusions Mount Adoption Select License",
+    "randomchance": false,
+    "requiredFeatures": [
+      58,
+      72
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "1524671B-F8B1-476B-9DFF-CC4FC23C661E",
+    "blurb": "Adopt a new version of your mounts.",
+    "categories": [
+      "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-03-25T16:00:00Z",
+          "start": "2025-03-11T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-03-11T16:00:00Z",
+        "end": "2025-03-25T16:00:00Z"
+      }
+    ],
+    "dataId": 104239,
+    "description": "Gain a random mount skin that you do not already own from the Black Lion Stables. Right-click to preview available mount skins.\n\n<c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "9b5f5120",
+    "itemGuid": "098A9617-7D36-4B32-8738-E2610E7AE454",
+    "latestEndDate": "2025-03-25T16:00:00Z",
+    "latestStartDate": "2025-03-11T16:00:00Z",
+    "name": "Ferocious Fusions Mount Adoption License",
+    "randomchance": true,
+    "requiredFeatures": [
+      58,
+      72
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire. Purchase Guild Wars 2: Path of Fire and receive a FREE account upgrade for Guild Wars 2: Heart of Thorns plus a FREE Level-80 Boost.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2B0F4B4B-1449-4CCA-A7F8-D5A80AB015BF",
+    "blurb": "Upgraded Bag Slot Expansion",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "4C45415F-948D-4D93-8493-06585E5EDD61",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "4C45415F-948D-4D93-8493-06585E5EDD61",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-03-25T16:00:00Z",
+          "start": "2025-03-18T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-03-18T16:00:00Z",
+        "end": "2025-03-25T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "DD98B623-0D91-4493-B569-C092C2C2BCE7",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "A5DCB760-6A41-4637-BE89-4B8530EA486E",
+        "quantity": 1
+      }
+    ],
+    "description": "Add an extra bag slot to a character's inventory.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "3c390fdd",
+    "latestEndDate": "2025-03-25T16:00:00Z",
+    "latestStartDate": "2025-03-18T16:00:00Z",
+    "name": "Upgraded Bag Slot Expansion",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "A5DCB760-6A41-4637-BE89-4B8530EA486E",
+    "blurb": "",
+    "categories": [
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
+    ],
+    "categoriesOld": [
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104268,
+    "description": "28 Slots",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": true,
+    "imageHash": "df3f9007",
+    "itemGuid": "238359A7-7482-451F-B6D1-C4DCA94D84A5",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "28 Slot Black Lion Satchel",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "D83367B9-0001-4A32-8062-46A1D364C772",
+    "blurb": "Fashion Pose Emotes now available!",
+    "categories": [
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-03-25T16:00:00Z",
+          "start": "2025-03-18T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-03-18T16:00:00Z",
+        "end": "2025-03-25T16:00:00Z"
+      }
+    ],
+    "dataId": 104389,
+    "description": "Consuming this tome will give you access to emotes!",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "dfe33ed5",
+    "itemGuid": "A0F84584-710A-4EA9-BEDB-7A8E04C393C1",
+    "latestEndDate": "2025-03-25T16:00:00Z",
+    "latestStartDate": "2025-03-18T16:00:00Z",
+    "name": "Fashion Poses Emote Tome",
+    "randomchance": false,
+    "requiredFeatures": [],
     "requirementMissing": "",
     "returning": false,
     "type": "item"

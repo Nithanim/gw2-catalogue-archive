@@ -38693,7 +38693,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "2af63419",
+    "imageHash": "adb233e2",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -101418,8 +101418,7 @@
     "uuid": "03E64B53-6065-443D-B85B-8010D6CCAD73",
     "blurb": "",
     "categories": [
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -101557,8 +101556,7 @@
     "blurb": "Rose Masquerade Cape now available!",
     "categories": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
-      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
     ],
     "categoriesOld": [
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
@@ -101966,12 +101964,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2025-03-25T16:00:00Z",
+          "end": "2025-04-15T16:00:00Z",
           "start": "2025-03-11T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-03-11T16:00:00Z",
+        "end": "2025-04-15T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2025-03-11T16:00:00Z",
@@ -101985,7 +101988,7 @@
     "hide": false,
     "imageHash": "9b5f5120",
     "itemGuid": "098A9617-7D36-4B32-8738-E2610E7AE454",
-    "latestEndDate": "2025-03-25T16:00:00Z",
+    "latestEndDate": "2025-04-15T16:00:00Z",
     "latestStartDate": "2025-03-11T16:00:00Z",
     "name": "Ferocious Fusions Mount Adoption License",
     "randomchance": true,
@@ -102045,7 +102048,7 @@
     "excludedFeatures": [],
     "giftable": false,
     "hide": false,
-    "imageHash": "3c390fdd",
+    "imageHash": "df3f9007",
     "latestEndDate": "2025-03-25T16:00:00Z",
     "latestStartDate": "2025-03-18T16:00:00Z",
     "name": "Upgraded Bag Slot Expansion",
@@ -102072,7 +102075,7 @@
     "excludedFeatures": [],
     "giftable": false,
     "hide": true,
-    "imageHash": "df3f9007",
+    "imageHash": "3c390fdd",
     "itemGuid": "238359A7-7482-451F-B6D1-C4DCA94D84A5",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -102101,12 +102104,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2025-03-25T16:00:00Z",
+          "end": "2025-04-22T16:00:00Z",
           "start": "2025-03-18T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-03-18T16:00:00Z",
+        "end": "2025-04-22T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2025-03-18T16:00:00Z",
@@ -102120,12 +102128,289 @@
     "hide": false,
     "imageHash": "dfe33ed5",
     "itemGuid": "A0F84584-710A-4EA9-BEDB-7A8E04C393C1",
-    "latestEndDate": "2025-03-25T16:00:00Z",
+    "latestEndDate": "2025-04-22T16:00:00Z",
     "latestStartDate": "2025-03-18T16:00:00Z",
     "name": "Fashion Poses Emote Tome",
     "randomchance": false,
     "requiredFeatures": [],
     "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "56715BC6-3314-4DD6-BBB4-4A621DA47037",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104547,
+    "description": "Perfect for use on all types of trees. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "a894d0ca",
+    "itemGuid": "898B188B-0177-4123-A267-ADBD22C41F18",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Sweet Treat Logging Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "5DF315E8-DD10-4713-9465-01C93DD6E814",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104558,
+    "description": "Used to harvest all plants. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "e7f850fd",
+    "itemGuid": "A692C5E9-90BD-4E48-AA8F-C3E65AE1E04D",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Sweet Treat Harvesting Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "8BEC4D48-F2E4-4979-8867-4603C7EF6AFC",
+    "availableDate": "2025-03-25T16:00:00Z",
+    "blurb": "All upgrades on sale this week!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "D8A4F234-BB31-4C01-8B7E-E78A8BB7709A",
+    "imageHash": "3e007495",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2025-04-01T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "8F7CFF49-4CBB-4271-9975-A60022C4FA20",
+    "blurb": "",
+    "categories": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoriesOld": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104560,
+    "description": "Used to mine all metals. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "65264c74",
+    "itemGuid": "AAFC05D6-12EA-4085-8548-E08565EE5138",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Sweet Treat Mining Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "B6CFE44F-7824-4422-91D3-DB1CF50E5E63",
+    "blurb": "Avian Aspect Helm Skin now available!",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-04-22T16:00:00Z",
+          "start": "2025-03-25T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-03-25T16:00:00Z",
+        "end": "2025-04-22T16:00:00Z"
+      }
+    ],
+    "dataId": 104564,
+    "description": "Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "da344c66",
+    "itemGuid": "BDA75EF6-BEF3-4E67-A5B4-77EAFF587EF5",
+    "latestEndDate": "2025-04-22T16:00:00Z",
+    "latestStartDate": "2025-03-25T16:00:00Z",
+    "name": "Avian Aspect Helm Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "DF02EE6F-83A1-40F1-B678-CF268DDA4CE9",
+    "blurb": "Sweet Treat Gathering Tools now available!",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-04-22T16:00:00Z",
+          "start": "2025-04-08T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-04-08T16:00:00Z",
+        "end": "2025-04-22T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "8F7CFF49-4CBB-4271-9975-A60022C4FA20",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "56715BC6-3314-4DD6-BBB4-4A621DA47037",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "5DF315E8-DD10-4713-9465-01C93DD6E814",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "14505736-AE28-4A7C-8914-B6322EDACB5E",
+        "quantity": 3
+      }
+    ],
+    "description": "This pack of gathering tools offers all the benefits of the Holy Barrage gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "fdfd6425",
+    "latestEndDate": "2025-04-22T16:00:00Z",
+    "latestStartDate": "2025-04-08T16:00:00Z",
+    "name": "Sweet Treat Gathering Tools",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "FBB1C511-AC75-497D-BA53-F53014CCECFF",
+    "blurb": "Wisteria Arborscale Skyscale Skin now available!",
+    "categories": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-04-22T16:00:00Z",
+          "start": "2025-04-01T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-04-01T16:00:00Z",
+        "end": "2025-04-22T16:00:00Z"
+      }
+    ],
+    "dataId": 104504,
+    "description": "Double-click to unlock this skyscale mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "26897431",
+    "itemGuid": "0724DCF5-D7DB-4B98-B6BA-2E1144116965",
+    "latestEndDate": "2025-04-22T16:00:00Z",
+    "latestStartDate": "2025-04-01T16:00:00Z",
+    "name": "Wisteria Arborscale Skyscale Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      58,
+      72
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": false,
     "type": "item"
   }

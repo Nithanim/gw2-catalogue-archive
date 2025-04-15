@@ -636,9 +636,9 @@
     "uuid": "8B0E2E14-E2E5-43A3-A55D-9DC40C10A8DA",
     "blurb": "",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -849,6 +849,7 @@
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
       "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
       "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
       "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
@@ -866,7 +867,8 @@
       "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
       "B0637A2D-9924-4317-8004-6361B0EFFA9B",
-      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C"
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "EE5ED7B3-DB2C-447F-839D-09733565667C"
     ],
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
@@ -930,9 +932,9 @@
     "uuid": "E56EFE2B-B977-4EF3-BD19-FC4381A66FBE",
     "blurb": "True Assassin's Guise Outfit now available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -2148,12 +2150,14 @@
     "blurb": "Legacy Outfit Package",
     "categories": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
-      "BDE0EFAC-3E45-4938-986D-764D02EDA40A"
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "EE5ED7B3-DB2C-447F-839D-09733565667C"
     ],
     "categoriesOld": [
       "ED156F66-F41C-485F-BA33-02410D7A4EFC",
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "EE5ED7B3-DB2C-447F-839D-09733565667C"
     ],
     "categoryLifespans": {
       "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F": [
@@ -9091,8 +9095,8 @@
     "blurb": "Intimidate your foes with a new look!",
     "categories": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -14355,9 +14359,9 @@
     "uuid": "05FA92CE-E614-450A-8227-36D6FE414590",
     "blurb": "",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -15150,10 +15154,10 @@
     "uuid": "09E6FCEA-C57E-4A7C-8F3B-5E5C84EAE6FB",
     "blurb": "Get these classic Guild Wars items today!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -17945,8 +17949,8 @@
     "blurb": "Skirmish in style<br>with a new outfit!",
     "categories": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -19099,9 +19103,9 @@
     "uuid": "1B8519F7-1129-40FD-8DFA-BE32723383B8",
     "blurb": "",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -19271,9 +19275,9 @@
     "uuid": "1C4214FD-8C42-452E-923B-98A39AB3E2F5",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -23796,9 +23800,9 @@
     "uuid": "2CA4B501-F594-4AC9-891B-7E768D2581BF",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -32901,9 +32905,9 @@
     "uuid": "5800281B-8FAA-4AEF-9D36-9AB622455D8E",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -34034,9 +34038,9 @@
     "uuid": "5CD3B401-EE09-450D-A246-D674EC3E6049",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -38693,7 +38697,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "adb233e2",
+    "imageHash": "12dd273f",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -39570,9 +39574,9 @@
     "uuid": "7B079F95-E4DF-455B-8818-C74317A4F56C",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -53266,9 +53270,9 @@
     "uuid": "B9886254-C0C5-4ABE-8676-713DDA89DD5F",
     "blurb": "",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -54619,9 +54623,9 @@
     "uuid": "BD3E01F1-6CEB-4FD3-8A66-3017F6C6A936",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
@@ -59832,9 +59836,9 @@
     "uuid": "D1BB4D99-16B2-46C7-B6DC-8795AD1470CD",
     "blurb": "Exclusive weapon<br>skins available!",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
@@ -60752,9 +60756,9 @@
     "uuid": "D7413507-88DD-4D9A-9D3F-78EF16B69EEF",
     "blurb": "",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -63811,9 +63815,9 @@
     "uuid": "E4AA6F82-A7C7-4B1F-9275-99723DA6B96D",
     "blurb": "",
     "categories": [
+      "EE5ED7B3-DB2C-447F-839D-09733565667C",
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
-      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF",
-      "EE5ED7B3-DB2C-447F-839D-09733565667C"
+      "3B9C1847-786B-4BF5-A21C-FD6A33E930DF"
     ],
     "categoriesOld": [
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
@@ -75443,7 +75447,7 @@
     ],
     "categoryLifespansOld": [],
     "dataId": 79696,
-    "description": "Consuming this will unlock one random wardrobe option that you do not already own in the following categories:\n* Equipment Skins (exotic or lower)\n* Outfits\n* Dyes\n* Gliders\n* Minis\n* Finishers\n* Mail Carriers\nLast Update: December 2024\n\n<c=@Task>All unobtained items and skins have an equal chance of dropping.</c>",
+    "description": "Consuming this will unlock one random wardrobe option that you do not already own in the following categories:\n* Equipment Skins (exotic or lower)\n* Outfits\n* Dyes\n* Gliders\n* Minis\n* Finishers\n* Mail Carriers\nLast Update: April 2025\n\n<c=@Task>All unobtained items and skins have an equal chance of dropping.</c>",
     "excludedFeatures": [],
     "giftable": true,
     "hide": false,
@@ -92079,8 +92083,8 @@
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "2BE98678-3381-4D0F-B130-E426D7A76F31",
-    "imageHash": "38752272",
+    "gemStoreBannerItem": "EF77D867-75E7-4776-A848-0C46A3A6CE1A",
+    "imageHash": "14738d1",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
@@ -101953,8 +101957,7 @@
     "blurb": "Adopt a new version of your mounts.",
     "categories": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "A9C82434-1546-4EBD-BC0A-23CF41BCFA14",
@@ -102007,8 +102010,7 @@
       "989B6878-997E-409E-8D6C-51C7BE6AAC81",
       "4C45415F-948D-4D93-8493-06585E5EDD61",
       "490BE6B3-DA27-42D8-9829-A7456D071B38",
-      "71841D94-C462-4316-9C77-307E2E1EA148",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "71841D94-C462-4316-9C77-307E2E1EA148"
     ],
     "categoriesOld": [
       "989B6878-997E-409E-8D6C-51C7BE6AAC81",
@@ -102093,8 +102095,7 @@
     "blurb": "Fashion Pose Emotes now available!",
     "categories": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
-      "37A14F43-016B-4D8E-865F-E0597F4D7988",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
     ],
     "categoriesOld": [
       "29BB085D-5592-4B68-94D6-B7F417E43AF3",
@@ -102252,8 +102253,7 @@
     "blurb": "Avian Aspect Helm Skin now available!",
     "categories": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
-      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -102317,12 +102317,17 @@
     "categoryLifespans": {
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
-          "end": "2025-04-22T16:00:00Z",
-          "start": "2025-04-08T16:00:00Z"
+          "end": "2025-04-29T16:00:00Z",
+          "start": "2025-04-14T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-04-14T16:00:00Z",
+        "end": "2025-04-29T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2025-04-08T16:00:00Z",
@@ -102356,8 +102361,8 @@
     "giftable": true,
     "hide": false,
     "imageHash": "fdfd6425",
-    "latestEndDate": "2025-04-22T16:00:00Z",
-    "latestStartDate": "2025-04-08T16:00:00Z",
+    "latestEndDate": "2025-04-29T16:00:00Z",
+    "latestStartDate": "2025-04-14T16:00:00Z",
     "name": "Sweet Treat Gathering Tools",
     "randomchance": false,
     "requiredFeatures": [
@@ -102384,11 +102389,16 @@
       "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
         {
           "end": "2025-04-22T16:00:00Z",
-          "start": "2025-04-01T16:00:00Z"
+          "start": "2025-04-13T16:00:00Z"
         }
       ]
     },
     "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-04-13T16:00:00Z",
+        "end": "2025-04-22T16:00:00Z"
+      },
       {
         "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
         "start": "2025-04-01T16:00:00Z",
@@ -102403,7 +102413,7 @@
     "imageHash": "26897431",
     "itemGuid": "0724DCF5-D7DB-4B98-B6BA-2E1144116965",
     "latestEndDate": "2025-04-22T16:00:00Z",
-    "latestStartDate": "2025-04-01T16:00:00Z",
+    "latestStartDate": "2025-04-13T16:00:00Z",
     "name": "Wisteria Arborscale Skyscale Skin",
     "randomchance": false,
     "requiredFeatures": [
@@ -102413,5 +102423,234 @@
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "1E7F4FA6-F941-40A0-A542-B8A2F59C9B5E",
+    "availableDate": "2025-04-15T16:00:00Z",
+    "blurb": "Guild Wars Anniversary Sale Happening Now!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "",
+    "excludedFeatures": [],
+    "gemStoreBannerItem": "1B8519F7-1129-40FD-8DFA-BE32723383B8",
+    "imageHash": "6682ee3b",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2025-04-29T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "2D871CB5-672D-487F-83D7-A2B44FE71A7B",
+    "blurb": "Scalefang Warclaw skin now available!",
+    "categories": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-05-13T16:00:00Z",
+          "start": "2025-04-29T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-04-29T16:00:00Z",
+        "end": "2025-05-13T16:00:00Z"
+      }
+    ],
+    "dataId": 104615,
+    "description": "Double-click to unlock this warclaw mount skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "d21223c4",
+    "itemGuid": "65BC352E-6335-46B7-B7BD-E7D6FD613889",
+    "latestEndDate": "2025-05-13T16:00:00Z",
+    "latestStartDate": "2025-04-29T16:00:00Z",
+    "name": "Scalefang Warclaw Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      58
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "5EC5C520-52E2-4EF1-A100-1EBEC34C2C41",
+    "blurb": "",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104644,
+    "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "5bfffb72",
+    "itemGuid": "D8F34D21-FBFE-4434-9569-9D12BD9AD19C",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Royal Layered Cape Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "C99A02C7-1BD3-4F21-8FEB-F5C870115A32",
+    "blurb": "Call of the Wild Pack now available!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "75468DB0-E377-4E82-AD87-E0A62AC810E0",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "75468DB0-E377-4E82-AD87-E0A62AC810E0",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-05-13T16:00:00Z",
+          "start": "2025-04-22T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-04-22T16:00:00Z",
+        "end": "2025-05-13T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "0D00937B-ADCA-473D-814B-7F8C460998FF",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "8A56840B-0B31-419A-AA9C-DED2A76DC1A7",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "1150FB7C-83E9-4392-A48A-F113DE264D92",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "9209FBC4-35D5-4214-808D-0CCFB5EDC68B",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "A0C0EA4E-94D9-49DF-8BA3-6447E5B3FFA6",
+        "quantity": 1
+      }
+    ],
+    "description": "This pack contains two glider skins, a chair, a shoulders skin, and a Mystical Beast weapon choice.\n\nThe skins have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "b50c2655",
+    "latestEndDate": "2025-05-13T16:00:00Z",
+    "latestStartDate": "2025-04-22T16:00:00Z",
+    "name": "Call of the Wild Pack",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      65,
+      72,
+      78
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "F435BC49-2CBE-4066-8CDC-31DDF0EB3901",
+    "blurb": "Royal Layered Cape now available!",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-05-13T16:00:00Z",
+          "start": "2025-04-15T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-04-15T16:00:00Z",
+        "end": "2025-05-13T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "87FFFE3E-4AA8-4097-8FBB-56E522A05C48",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "5EC5C520-52E2-4EF1-A100-1EBEC34C2C41",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any back item and unlock the skin in your account wardrobe. \n\nThis backpack skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "5bfffb72",
+    "latestEndDate": "2025-05-13T16:00:00Z",
+    "latestStartDate": "2025-04-15T16:00:00Z",
+    "name": "Royal Layered Cape",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
   }
 ]

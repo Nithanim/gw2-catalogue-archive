@@ -39897,7 +39897,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "f2f700ce",
+    "imageHash": "ba0c57d3",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -105688,8 +105688,7 @@
     "blurb": "Scalefang Warclaw skin now available!",
     "categories": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
@@ -105766,8 +105765,7 @@
       "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
       "19291B38-3A31-4142-A400-49C09A3E9186",
       "75468DB0-E377-4E82-AD87-E0A62AC810E0",
-      "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
     ],
     "categoriesOld": [
       "F12B786F-018A-4207-B169-89CA41BDFCCD",
@@ -105947,8 +105945,7 @@
       "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
       "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
       "8ABE4305-0528-4577-BD39-BD5312C15D30",
-      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC"
     ],
     "categoriesOld": [
       "737C2400-E245-47D4-9DCA-A6422BD4B567",
@@ -106023,12 +106020,13 @@
     "uuid": "E96540E2-441C-4381-88DE-415F3BD9D480",
     "blurb": "Sea Raider Homestead Pack now available!",
     "categories": [
-      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
       "B0637A2D-9924-4317-8004-6361B0EFFA9B"
     ],
     "categoriesOld": [
       "37A14F43-016B-4D8E-865F-E0597F4D7988",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "A912858A-0C77-4CED-846D-0698EC0CCD82"
     ],
     "categoryLifespansOld": [],
     "dataId": 104672,
@@ -106054,8 +106052,7 @@
     "blurb": "Panda Roller Beetle Skin now available!",
     "categories": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
-      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "79FA327E-F3EE-46C1-97CB-BDC50B79B64E"
     ],
     "categoriesOld": [
       "71BCB92B-5305-4DF8-B558-5833F3B5A33C",
@@ -106094,5 +106091,354 @@
     "requirementMissing": "This feature requires upgrading to Guild Wars 2: Path of Fire.",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "03CE5B6E-69BE-4D29-87E9-BB998A4FEF9C",
+    "blurb": "Brasswork Homestead Package now available!",
+    "categories": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-07-01T16:00:00Z",
+          "start": "2025-06-03T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-06-03T16:00:00Z",
+        "end": "2025-07-01T16:00:00Z"
+      }
+    ],
+    "dataId": 104694,
+    "description": "Contains decorations and recipes for your homestead instance. One of each decoration will be immediately available to use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "f328865f",
+    "itemGuid": "0AA442CD-5C8A-450A-A585-FD339B32A456",
+    "latestEndDate": "2025-07-01T16:00:00Z",
+    "latestStartDate": "2025-06-03T16:00:00Z",
+    "name": "Brasswork Homestead Package",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "0E51B70F-81D5-4100-872E-34CBC52595B9",
+    "blurb": "Pull up a seat with a new chair skin!",
+    "categories": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
+    ],
+    "categoriesOld": [
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104863,
+    "description": "Double-click to unlock this item in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "dcdffb21",
+    "itemGuid": "88D376DB-A4BA-4FF6-A045-AC570C3B5151",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Ornate Grand Piano Chair",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "214DE2C4-FB5F-4E2F-B72F-4F4F86A8840A",
+    "blurb": "Pull up a seat with a new chair skin!",
+    "categories": [
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
+    ],
+    "categoriesOld": [
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104992,
+    "description": "This activates the decorations recipe for your homestead instance. One decoration will be immediately available to use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "4caac67e",
+    "itemGuid": "EF1AD54E-B167-45A6-8C7C-6109A7FAA2EA",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Black Lion Ornate Grand Piano Recipe",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "2DBF8D53-C56D-488F-8B17-40B71C838645",
+    "blurb": "The Ferryman's Skiff Skin now available!",
+    "categories": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-07-01T16:00:00Z",
+          "start": "2025-06-10T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-06-10T16:00:00Z",
+        "end": "2025-07-01T16:00:00Z"
+      }
+    ],
+    "dataId": 104788,
+    "description": "Double-click to unlock this skiff skin for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "15c62f55",
+    "itemGuid": "4EED63C3-CC11-4AE8-8EAC-4E9500704BE2",
+    "latestEndDate": "2025-07-01T16:00:00Z",
+    "latestStartDate": "2025-06-10T16:00:00Z",
+    "name": "The Ferryman's Skiff Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      65
+    ],
+    "requirementMissing": "This feature requires upgrading to Guild Wars 2: End of Dragons.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "4D15F8F9-0F66-4D4C-B6A1-9C1BF5408212",
+    "blurb": "",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104726,
+    "description": "This will replace the appearance of one back slot item of any weight class and unlock the skin in your account wardrobe.\n\nThis back slot skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "cc830bb",
+    "itemGuid": "1D18A899-D458-4410-907A-251DDBCC157E",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Vibrant Wings Backpack Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "B91EA7F3-A117-4680-A70E-2450FE0959E1",
+    "blurb": "Take to the skies with a new glider skin!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 104926,
+    "description": "This will unlock the glider skin in your account wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "bba7aca1",
+    "itemGuid": "BA557979-6DCF-405E-AB60-B265449C69CA",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Vibrant Wings Glider Skin",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "EE2A0128-059E-4AC5-9600-B9D7FABA59FD",
+    "blurb": "Shimmering Aurora Homestead Sky now available!",
+    "categories": [
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-06-17T16:00:00Z",
+          "start": "2025-06-03T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-06-03T16:00:00Z",
+        "end": "2025-06-17T16:00:00Z"
+      }
+    ],
+    "dataId": 104757,
+    "description": "Consuming this item will give you access to a new sky for your homestead! Speak with Deft Lahar in your homestead to change the look of the sky!",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "ad83c437",
+    "itemGuid": "3428D1E0-802F-4A62-B731-F3E931539E16",
+    "latestEndDate": "2025-06-17T16:00:00Z",
+    "latestStartDate": "2025-06-03T16:00:00Z",
+    "name": "Shimmering Aurora Homestead Sky",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "F2FCFA56-87C8-4A7C-889F-752A2ED8C0CD",
+    "blurb": "Ornate Grand Piano Pack",
+    "categories": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
+    ],
+    "categoriesOld": [
+      "A912858A-0C77-4CED-846D-0698EC0CCD82",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988"
+    ],
+    "categoryLifespansOld": [],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "0E51B70F-81D5-4100-872E-34CBC52595B9",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "214DE2C4-FB5F-4E2F-B72F-4F4F86A8840A",
+        "quantity": 1
+      }
+    ],
+    "description": "This pack contains a chair to sit in outside of combat and a recipe to unlock it as a homestead decoration. You will receive one of each decoration for immediate use. Additional decorations must be crafted.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "1721254e",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Ornate Grand Piano Pack",
+    "randomchance": false,
+    "requiredFeatures": [
+      78
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "F9FA24E3-E26A-4583-83C6-2276A03300CE",
+    "blurb": "Show your pride! Get the Vibrant Wings Backpack and Glider Combo for free in the month of June!",
+    "categories": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+    ],
+    "categoriesOld": [
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "4BBEBC83-EE54-44B6-A7D6-A994B7030DF3",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F"
+    ],
+    "categoryLifespans": {
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F": [
+        {
+          "end": "2025-06-30T16:00:00Z",
+          "start": "2025-06-03T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+        "start": "2025-06-03T16:00:00Z",
+        "end": "2025-06-30T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "87FFFE3E-4AA8-4097-8FBB-56E522A05C48",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "B91EA7F3-A117-4680-A70E-2450FE0959E1",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "4D15F8F9-0F66-4D4C-B6A1-9C1BF5408212",
+        "quantity": 1
+      }
+    ],
+    "description": "This will replace the appearance of any back item and unlock the backpack skin and the glider in your account wardrobe.\n\nThis backpack skin has no stats of its own.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "ea9d1b8",
+    "latestEndDate": "2025-06-30T16:00:00Z",
+    "latestStartDate": "2025-06-03T16:00:00Z",
+    "name": "Vibrant Wings Backpack and Glider Combo",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "package"
   }
 ]

@@ -39897,7 +39897,7 @@
     "gemPrice": 125,
     "giftable": true,
     "hide": false,
-    "imageHash": "906d3298",
+    "imageHash": "b6b400fc",
     "itemGuid": "66DAF914-3EFD-4B31-B79E-125094D6791B",
     "latestEndDate": null,
     "latestStartDate": null,
@@ -95203,18 +95203,18 @@
   },
   {
     "uuid": "6199CBD0-DDD4-4ED1-BC30-982EA6585A3C",
-    "availableDate": "2025-05-16T16:00:00Z",
+    "availableDate": "2025-08-15T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Mount Licenses and Packs!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "82A6CC56-8936-4BF1-A8A0-EC9E241A56D1",
-    "imageHash": "2348d718",
+    "gemStoreBannerItem": "3FBC9B0D-D8BD-45A6-9991-BF3B0B54F988",
+    "imageHash": "70e4f822",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2025-05-20T16:00:00Z",
+    "removeDate": "2025-08-29T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -95379,18 +95379,18 @@
   },
   {
     "uuid": "ADBE914C-CE0E-4407-8EEA-011AFEC57C73",
-    "availableDate": "2025-05-09T16:00:00Z",
+    "availableDate": "2025-08-08T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Dye Kits!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "1237BD26-4170-4116-AFD9-FE73CF937E22",
-    "imageHash": "430cd877",
+    "gemStoreBannerItem": "310C5CA3-9738-434D-896A-4844BB4C64AF",
+    "imageHash": "66dbd325",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2025-05-13T16:00:00Z",
+    "removeDate": "2025-08-22T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -95532,18 +95532,18 @@
   },
   {
     "uuid": "DAEA9819-D342-45B0-BA49-A58632587EF3",
-    "availableDate": "2025-05-23T16:00:00Z",
+    "availableDate": "2025-08-22T16:00:00Z",
     "blurb": "Refreshing Seasonal Selection of Unique Mount Skins!",
     "categoriesOld": [],
     "categoryLifespansOld": [],
     "description": "Check the Seasonal Swap category under the Promotions tab to see which items are returning to and leaving the store.",
     "excludedFeatures": [],
-    "gemStoreBannerItem": "A3432E43-9BFC-4D91-993C-3159124066E0",
-    "imageHash": "f5186af8",
+    "gemStoreBannerItem": "661E9C11-E419-4FB3-9117-89297E55208E",
+    "imageHash": "265abd28",
     "latestEndDate": null,
     "latestStartDate": null,
     "name": "",
-    "removeDate": "2025-05-27T16:00:00Z",
+    "removeDate": "2025-09-05T16:00:00Z",
     "requiredFeatures": [],
     "requirementMissing": "",
     "type": "banner"
@@ -106095,8 +106095,7 @@
     "uuid": "03CE5B6E-69BE-4D29-87E9-BB998A4FEF9C",
     "blurb": "Brasswork Homestead Package now available!",
     "categories": [
-      "A912858A-0C77-4CED-846D-0698EC0CCD82",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "A912858A-0C77-4CED-846D-0698EC0CCD82"
     ],
     "categoriesOld": [
       "A912858A-0C77-4CED-846D-0698EC0CCD82",
@@ -106202,8 +106201,7 @@
     "uuid": "2DBF8D53-C56D-488F-8B17-40B71C838645",
     "blurb": "The Ferryman's Skiff Skin now available!",
     "categories": [
-      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48"
     ],
     "categoriesOld": [
       "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
@@ -106535,8 +106533,7 @@
       "0DD74CD4-0BCD-42EA-9E39-46076548A584",
       "F279DD87-F364-469C-98EF-5FA1DC3E175C",
       "61A97107-0422-4F31-8405-2F5565434BE1",
-      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -106716,8 +106713,7 @@
       "997382D1-4123-4B79-8EBE-9116D3EB23B1",
       "D6BC7A0B-07F7-4482-A090-06FEB621932D",
       "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
-      "0DD74CD4-0BCD-42EA-9E39-46076548A584",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "0DD74CD4-0BCD-42EA-9E39-46076548A584"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -106815,8 +106811,7 @@
       "997382D1-4123-4B79-8EBE-9116D3EB23B1",
       "D6BC7A0B-07F7-4482-A090-06FEB621932D",
       "0DD74CD4-0BCD-42EA-9E39-46076548A584",
-      "61A97107-0422-4F31-8405-2F5565434BE1",
-      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+      "61A97107-0422-4F31-8405-2F5565434BE1"
     ],
     "categoriesOld": [
       "19291B38-3A31-4142-A400-49C09A3E9186",
@@ -106885,5 +106880,717 @@
     "requirementMissing": "",
     "returning": false,
     "type": "item"
+  },
+  {
+    "uuid": "07F680DF-071D-4996-9330-7FDBC0F10FB7",
+    "blurb": "",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105071,
+    "description": "Use this item to select and unlock a Fox Fire weapon skin of your choice for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "a8ccee81",
+    "itemGuid": "58F13B17-40C2-4B80-A36B-EE9A2C90FE8C",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Fox Fire Weapon Choice",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "1043FF28-CFED-4E2A-9F77-A868218A4D33",
+    "blurb": "",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105138,
+    "description": "Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "30afa4d3",
+    "itemGuid": "F17F336B-586A-4BE9-A90A-9559C0E04D97",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Flat Boatsman Hat Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "249B395E-808C-4F4B-8B4B-7E63983432CA",
+    "availableDate": "2025-08-05T16:00:00Z",
+    "blurb": "Festival of the Four Winds items now available!",
+    "categoriesOld": [],
+    "categoryLifespansOld": [],
+    "description": "",
+    "excludedFeatures": [],
+    "imageHash": "5dbfc29a",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "removeDate": "2025-08-26T16:00:00Z",
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "type": "banner"
+  },
+  {
+    "uuid": "2BD02BA9-1868-46E2-8BF7-231B615935FD",
+    "blurb": "Boatsman Hat Pack now available!",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-07-29T16:00:00Z",
+          "start": "2025-07-15T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-07-15T16:00:00Z",
+        "end": "2025-07-29T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "1043FF28-CFED-4E2A-9F77-A868218A4D33",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "9FF49C21-C243-491E-8AA4-BADF2B531653",
+        "quantity": 1
+      }
+    ],
+    "description": "",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "60c8c21c",
+    "latestEndDate": "2025-07-29T16:00:00Z",
+    "latestStartDate": "2025-07-15T16:00:00Z",
+    "name": "Boatsman Hat Pack",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "33139542-7F9D-44B2-B2AE-989870498315",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105130,
+    "description": "Perfect for use on all types of trees. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "c6da814a",
+    "itemGuid": "D90F8C39-E1A5-46B1-96C4-D86E5EC6088F",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Prospector's Logging Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "33CC532D-1693-4677-95A6-D9CC18263C02",
+    "blurb": "New Expansion!<br>\n•Visions of Eternity•<br>\nPrepurchase Now!",
+    "categories": [
+      "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
+    ],
+    "categoriesOld": [
+      "E9FF2481-964A-42BA-8703-A5C8AE8B4FE4"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105085,
+    "description": "",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": true,
+    "imageHash": "bbfb681e",
+    "itemGuid": "731C99EA-D23F-4EF1-B9C8-221065D7752E",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "379F6ACD-40C8-46C2-A7B7-086F2F7E987F",
+    "blurb": "",
+    "categories": [
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-08-05T16:00:00Z",
+          "start": "2025-07-22T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-07-22T16:00:00Z",
+        "end": "2025-08-05T16:00:00Z"
+      }
+    ],
+    "dataId": 105094,
+    "description": "Double-click to wear this outfit.\n\nOutfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "e6358edd",
+    "itemGuid": "93A06226-4C7C-4A1F-8E72-83B1BB913716",
+    "latestEndDate": "2025-08-05T16:00:00Z",
+    "latestStartDate": "2025-07-22T16:00:00Z",
+    "name": "Fox Fire Outfit",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "3CCF19A9-485A-4296-9ECA-00675E5AEBF3",
+    "blurb": "Guild Wars 2: Visions of Eternity<br>Deluxe Upgrade",
+    "categories": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61"
+    ],
+    "categoriesOld": [
+      "4C45415F-948D-4D93-8493-06585E5EDD61"
+    ],
+    "categoryLifespansOld": [],
+    "description": "Upgrade your Guild Wars 2: Visions of Eternity edition to Digital Deluxe and receive the following in-game items:\n• Additional Character Slot\n• Identity Repair Kit\n• Fairy Dust Gathering Tools\n• Castoran Tentacled Skimmer Skin\n\nItems will be delivered next time you log in.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "99b6853e",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Visions of Eternity—Deluxe Upgrade",
+    "randomchance": false,
+    "requiredFeatures": [
+      85
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "sku": 335,
+    "type": "upgrade"
+  },
+  {
+    "uuid": "53EC212A-6149-4579-9697-856452757BCB",
+    "blurb": "\"/Channel\" Emote Tome now available!",
+    "categories": [
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-08-05T16:00:00Z",
+          "start": "2025-07-22T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-07-22T16:00:00Z",
+        "end": "2025-08-05T16:00:00Z"
+      }
+    ],
+    "dataId": 105126,
+    "description": "Consuming this tome will give you access to a new emote!",
+    "excludedFeatures": [],
+    "galleryHashes": {
+      "14ce2f71": "Image",
+      "5312607e": "Video",
+      "60c8cdf6": "Image",
+      "ebc5e98a": "Image"
+    },
+    "giftable": true,
+    "hide": false,
+    "imageHash": "b37ccc43",
+    "itemGuid": "D5FD4FD8-CCE0-4D73-9203-B18A2276C788",
+    "latestEndDate": "2025-08-05T16:00:00Z",
+    "latestStartDate": "2025-07-22T16:00:00Z",
+    "name": "\"/Channel\" Emote Tome",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "54574456-E8F7-4D5F-8C62-2C8863339155",
+    "blurb": "",
+    "categories": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoriesOld": [
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105042,
+    "description": "Used to mine all metals. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "5c71b5f9",
+    "itemGuid": "099F8C0A-9760-4296-8CE9-5045D9F4A20E",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Prospector's Mining Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "61902BA7-522C-47AF-BAAE-ACF15A1BE3CB",
+    "blurb": "Prospector's gathering tools now available!",
+    "categories": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "989B6878-997E-409E-8D6C-51C7BE6AAC81",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "15CAAD07-48D1-4C34-80B1-7549CCABFF65",
+      "2919480C-0389-4431-8B7C-F95E7E5D0760",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63",
+      "71841D94-C462-4316-9C77-307E2E1EA148",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-08-26T16:00:00Z",
+          "start": "2025-08-12T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-08-12T16:00:00Z",
+        "end": "2025-08-26T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "54574456-E8F7-4D5F-8C62-2C8863339155",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "33139542-7F9D-44B2-B2AE-989870498315",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "7CF673A8-0A1D-443A-8C67-AC6F3A0CB981",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "14505736-AE28-4A7C-8914-B6322EDACB5E",
+        "quantity": 3
+      }
+    ],
+    "description": "This pack of gathering tools offers all the benefits of the Prospector's gathering tools in a form that never breaks! It contains logging, mining, and harvesting tools that can gather from any of their respective nodes. The tools will replace your existing tools on any character.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "d40e696d",
+    "latestEndDate": "2025-08-26T16:00:00Z",
+    "latestStartDate": "2025-08-12T16:00:00Z",
+    "name": "Prospector's Gathering Tools",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "7CF673A8-0A1D-443A-8C67-AC6F3A0CB981",
+    "blurb": "",
+    "categories": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoriesOld": [
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "9AF263FD-1A29-4B00-ADD8-1BDFECDD5A49",
+      "4E1DE8EB-CA9F-4EE9-94E8-C953E456DF63"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105060,
+    "description": "Used to harvest all plants. Unlimited use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "1003c3b2",
+    "itemGuid": "3AF5A417-F991-40FF-90CC-9E17B1AF974E",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Prospector's Harvesting Tool",
+    "randomchance": false,
+    "requiredFeatures": [
+      2
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "9FF49C21-C243-491E-8AA4-BADF2B531653",
+    "blurb": "",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "F2441B1B-8A64-49F2-92A3-A9CFDC7F78F0"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105134,
+    "description": "Double-click to apply this look to any other helmet. This skin will be unlocked in your wardrobe for future use.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "c7159852",
+    "itemGuid": "EA94D2AF-3419-4CAB-BA16-C3092BAE4B16",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "Round Boatsman Hat Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "A01CAA10-BD30-4A50-A104-96B538FDE54C",
+    "blurb": "Fox Fire Appearance Package now available!",
+    "categories": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "ED156F66-F41C-485F-BA33-02410D7A4EFC",
+      "BDE0EFAC-3E45-4938-986D-764D02EDA40A",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "29BB085D-5592-4B68-94D6-B7F417E43AF3",
+      "37A14F43-016B-4D8E-865F-E0597F4D7988",
+      "3B233DA8-DB31-4ED7-ACBB-005D05A8487C",
+      "ABDFF38E-C19F-443C-A66A-2E25E6261D34",
+      "490BE6B3-DA27-42D8-9829-A7456D071B38",
+      "6833A1E5-C00D-424B-8C18-B5E4F0835BDD",
+      "C94F265A-D2AF-419B-ABE0-0BE9E5769F2F",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-08-05T16:00:00Z",
+          "start": "2025-07-22T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-07-22T16:00:00Z",
+        "end": "2025-08-05T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "379F6ACD-40C8-46C2-A7B7-086F2F7E987F",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "53EC212A-6149-4579-9697-856452757BCB",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "07F680DF-071D-4996-9330-7FDBC0F10FB7",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "B4207A18-2C62-4E3A-A781-8634318F8D7C",
+        "quantity": 5
+      },
+      {
+        "disablePreview": false,
+        "guid": "197A7A03-776F-4A0F-B14D-3130DCAD6953",
+        "quantity": 1
+      }
+    ],
+    "description": "Appearance skins override the look of your equipment and have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": false,
+    "hide": false,
+    "imageHash": "403405fb",
+    "latestEndDate": "2025-08-05T16:00:00Z",
+    "latestStartDate": "2025-07-22T16:00:00Z",
+    "name": "Fox Fire Appearance Package",
+    "randomchance": true,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "package"
+  },
+  {
+    "uuid": "B3198A4C-B6A8-416B-8ECD-002999C14107",
+    "blurb": "Explosive Turbo Greaves now available!",
+    "categories": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "17B9FFDA-D038-4617-97D7-45EAE28803FF",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-08-26T16:00:00Z",
+          "start": "2025-08-05T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-08-05T16:00:00Z",
+        "end": "2025-08-26T16:00:00Z"
+      }
+    ],
+    "dataId": 105106,
+    "description": "Double-click to apply this appearance to your current boots. This will unlock the skin in your wardrobe.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "837ebe7f",
+    "itemGuid": "AAC6E802-9BFB-4DC1-BF17-94F088B4165F",
+    "latestEndDate": "2025-08-26T16:00:00Z",
+    "latestStartDate": "2025-08-05T16:00:00Z",
+    "name": "Explosive Turbo Greaves Skin",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "E06FED28-49D2-4A7C-9F86-745B82DCDA33",
+    "blurb": "",
+    "categories": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+    ],
+    "categoriesOld": [
+      "8ABE4305-0528-4577-BD39-BD5312C15D30"
+    ],
+    "categoryLifespansOld": [],
+    "dataId": 105113,
+    "description": "Use this item to select and unlock a New Kaineng weapon skin of your choice for your account.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": true,
+    "imageHash": "6e1027db",
+    "itemGuid": "B802D3A0-D77D-4D44-8250-C1F896A5C6AF",
+    "latestEndDate": null,
+    "latestStartDate": null,
+    "name": "New Kaineng Weapon Choice Chest",
+    "randomchance": false,
+    "requiredFeatures": [],
+    "requirementMissing": "",
+    "returning": false,
+    "type": "item"
+  },
+  {
+    "uuid": "F70AB53A-9658-44C0-BB1A-EAE00C58117F",
+    "blurb": "New Kaineng Travel Pack now available!",
+    "categories": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoriesOld": [
+      "F12B786F-018A-4207-B169-89CA41BDFCCD",
+      "737C2400-E245-47D4-9DCA-A6422BD4B567",
+      "B06B94DD-24C7-4081-9D6E-C50EEEEEE1F2",
+      "19291B38-3A31-4142-A400-49C09A3E9186",
+      "6E3821CB-2CAD-4E1E-B4A0-02AEBA95650B",
+      "A0361A06-68A8-481C-914A-AD353BD9A5BC",
+      "C4DA2EAE-A0EE-4B76-A57C-AA1AEA210E48",
+      "A3D0E92D-4E1B-42C3-AA2E-89B7B37B01F0",
+      "8ABE4305-0528-4577-BD39-BD5312C15D30",
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B"
+    ],
+    "categoryLifespans": {
+      "B0637A2D-9924-4317-8004-6361B0EFFA9B": [
+        {
+          "end": "2025-08-26T16:00:00Z",
+          "start": "2025-07-29T16:00:00Z"
+        }
+      ]
+    },
+    "categoryLifespansOld": [
+      {
+        "category": "B0637A2D-9924-4317-8004-6361B0EFFA9B",
+        "start": "2025-07-29T16:00:00Z",
+        "end": "2025-08-26T16:00:00Z"
+      }
+    ],
+    "contents": [
+      {
+        "disablePreview": false,
+        "guid": "F8C95A9B-F039-40A9-A5FE-073C82649AE6",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "A9BA1404-D078-4431-B64D-78DCA9E62F9A",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "D1833F96-841D-4A07-BF63-7D91B43DD216",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "56C00170-D1E7-456B-8F1C-64D349B161BD",
+        "quantity": 1
+      },
+      {
+        "disablePreview": false,
+        "guid": "E06FED28-49D2-4A7C-9F86-745B82DCDA33",
+        "quantity": 1
+      }
+    ],
+    "description": "This pack contains a backpack and glider combo, a chair, a skiff skin, and a New Kaineng Weapon Choice Chest.\n\nThe skins have no stats of their own.",
+    "excludedFeatures": [],
+    "giftable": true,
+    "hide": false,
+    "imageHash": "a94b84f9",
+    "latestEndDate": "2025-08-26T16:00:00Z",
+    "latestStartDate": "2025-07-29T16:00:00Z",
+    "name": "New Kaineng Travel Pack",
+    "randomchance": false,
+    "requiredFeatures": [
+      45,
+      58,
+      65,
+      72,
+      78
+    ],
+    "requirementMissing": "This item requires Guild Wars 2: Heart of Thorns.",
+    "returning": true,
+    "type": "package"
   }
 ]
